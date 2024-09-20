@@ -1,0 +1,5064 @@
+,importance
+ESC_Standard,0.26419953
+RearVisibilitySystem_Standard,0.054538097
+BodyClass_Pickup,0.02872578
+DynamicBrakeSupport_Standard,0.025692267
+BodyCabType_Crew/Super Crew/Crew Max,0.022464091
+EngineCylinders,0.0146337245
+FuelTypePrimary_Diesel,0.012091567
+SemiautomaticHeadlampBeamSwitching_Standard,0.012023538
+"GVWR_Class 3: 10,001 - 14,000 lb (4,536 - 6,350 kg)",0.011763322
+VehicleType_TRUCK,0.011068948
+CIB_Not Available,0.008538622
+ModelYear,0.008132799
+displ,0.008122992
+TractionControl_Standard,0.0070290826
+DriveType_4WD,0.006686224
+Model_911,0.0059874863
+CAN_AACN_Standard,0.005617806
+Trim_DJ (Single Rear Wheels),0.005562016
+DriveType_FWD,0.0053448826
+odometer,0.0045101536
+AutoReverseSystem_Standard,0.004394788
+Model_Wrangler,0.0037715374
+Trim_xDrive28i,0.0037566982
+BodyCabType_Mega,0.003703599
+SeatBeltsAll_Manual,0.0035759371
+EngineHP,0.0034681114
+Trim_Super Crew - Raptor,0.003421423
+ABS_Standard,0.0033854628
+VehicleType_PASSENGER CAR,0.0033229066
+DynamicBrakeSupport_Not Available,0.0031302043
+BasePrice,0.0031277195
+Trim2_G grade,0.003058598
+Trim_JL,0.0030406187
+Trim_SR5/SR5 Premium/TRD Off Road/TRD Off Road Premium/Ltd/TRD Pro,0.002788713
+Trim_GSJ15L/GSJ10L,0.0027457802
+LowerBeamHeadlampLightSource_LED,0.0026532586
+Model_Corvette,0.0025857175
+Trim_KL,0.0024705061
+Make_PORSCHE,0.0023054231
+Model_Liberty,0.0022662354
+Make_LAND ROVER,0.002202443
+Trim_Unlimited Rubicon,0.0021709886
+Model_H2,0.0021237512
+Model_Panamera,0.0020614555
+Trim_SR5 Grade,0.0020425627
+Series_JK,0.0020105615
+Model_WRX,0.0020040711
+Turbo,0.001983393
+Model_FJ Cruiser,0.0019293033
+"Trim_GT (US), GT FWD (Can)",0.0019007067
+Model_Macan,0.0018881162
+WheelSizeFront,0.0018876666
+Trim_WD,0.0018853112
+Series_F-Series,0.0018737314
+BedType_Not Applicable,0.0018732612
+Model_S-Class,0.0018583932
+DaytimeRunningLight_Optional,0.001854743
+WheelSizeRear,0.0018218943
+Series_Super Duty - Single Rear Wheel,0.0018138381
+Model_2500,0.0017904149
+Pretensioner_Yes,0.0017815147
+Model_Rogue,0.0016423352
+"GVWR_Class 2F: 7,001 - 8,000 lb (3,175 - 3,629 kg)",0.0016374848
+Model_EuroVan,0.001618803
+Series_GSJ10L/GSJ15L,0.0016149417
+Model_Range Rover,0.0016100624
+Series_Unlimited Rubicon,0.0016059561
+Model_300C,0.0015581129
+FuelTypeSecondary_Ethanol (E85),0.0015360868
+FuelTypePrimary_Gasoline,0.0014919933
+LaneDepartureWarning_Standard,0.0014750591
+Series_UPK51L/UPK56L/USK51L/USK52L/USK56L/USK57L,0.0014661453
+Model_XT6,0.0014175954
+Make_MERCEDES-BENZ,0.0014160781
+AirBagLocSeatCushion_Passenger Seat Only,0.0013753364
+"GVWR_Class 1C: 4,001 - 5,000 lb (1,814 - 2,268 kg)",0.0013705926
+Series_MK74,0.0013348743
+Trim_HSE,0.0013288993
+Model_Frontier,0.0013285112
+Series2_X (Special),0.0013136233
+Make_HUMMER,0.001303036
+FuelTypeSecondary_Flexible Fuel Vehicle (FFV),0.0012789804
+AirBagLocCurtain_All Rows,0.0012786527
+Model_GLS-Class,0.0012738068
+AirBagLocKnee_1st Row (Driver and Passenger),0.0012599564
+Trim_VX,0.0012580871
+Make_MITSUBISHI,0.0012485676
+AirBagLocFront_1st Row (Driver and Passenger),0.0012421744
+Model_Tacoma,0.0012410885
+Trim_Sport/Unlimited,0.0012346441
+Trim_Rubicon,0.0012329406
+Series_Rubicon,0.0012292254
+Series_Unlimited Sahara,0.0012243863
+Model_Ghibli,0.0012208316
+Series_Laramie,0.001220228
+Series_S550,0.0012025571
+Model_M4,0.0012003236
+Trim_SE/XLE,0.0011887669
+VehicleType_MULTIPURPOSE PASSENGER VEHICLE (MPV),0.0011544058
+BodyCabType_Not Applicable,0.0011450687
+AirBagLocKnee_Passenger Seat Only,0.0011450604
+"GVWR_Class 2E: 6,001 - 7,000 lb (2,722 - 3,175 kg)",0.0011411402
+Model_Promaster City,0.0011207593
+Model_CLA-Class,0.0011045478
+FuelInjectionType_Multipoint Fuel Injection (MPFI),0.0010903659
+Series_GRN305L,0.001087113
+Series_GT Coupe,0.0010728342
+WheelBaseShort,0.0010712823
+"GVWR_Class 1D: 5,001 - 6,000 lb (2,268 - 2,722 kg)",0.0010625108
+Series2_Type 92A,0.0010568759
+Series_GWL10L/GRL10L/GRL15L,0.0010528336
+Series_2500 (3/4 Ton),0.0010514597
+Make_NISSAN,0.0010507004
+Series_UCK60L/UCK65L/USK60L/USK65L,0.001050669
+Model_1500,0.001050473
+KeylessIgnition_Standard,0.0010346798
+EngineConfiguration_V-Shaped,0.0010199314
+AirBagLocSeatCushion_1st and 2nd Rows,0.0010170459
+Series_TJ,0.0010147954
+Model_Venza,0.001008178
+Series_GRN280L/GRN285L/TRN280L/TRN285L,0.0010049042
+"GVWR_Class 2H: 9,001 - 10,000 lb (4,082 - 4,536 kg)",0.0009964654
+Model_Cherokee,0.0009962384
+Model_Gladiator,0.0009949319
+BodyClass_Van,0.0009929838
+Model_G70,0.0009911929
+DaytimeRunningLight_Standard,0.0009814709
+Series_SLT,0.0009763082
+Trim_Sahara,0.00097510533
+Trim_LE/LE Plus,0.000968622
+Model_Lancer Evolution,0.0009685026
+BodyClass_Cargo Van,0.00096611516
+Make_JEEP,0.0009592233
+Series_AGZ10L/AGZ15L/AYZ10L/AYZ15L,0.00095596956
+TransmissionSpeeds,0.0009452276
+Model_Elantra,0.00094489066
+Series_3/4 Ton,0.00092384685
+Model_LX,0.0009216915
+DriveType_RWD,0.00091715687
+Model_Camaro,0.00091519236
+BodyClass_Sedan/Saloon,0.0009150433
+Series_Medium,0.0009108693
+Series_GYL25L/GGL25L/GGL20L/GYL20L,0.0009101229
+Trim_xDrive35i,0.00090662314
+Trim_Super Duty - Dual Rear Wheel,0.00089499966
+Trim_2SS,0.00089075696
+Series_UZJ100L,0.00087916583
+Series_ND,0.00087213144
+Trim_Raptor SVT,0.0008675373
+Series_GSX30L,0.0008654596
+Model_F-450,0.00085441157
+Series_Carrera,0.00085339777
+Trim_Medium Roof,0.0008518615
+Trim_Base Grade,0.00084652693
+Model_Patriot,0.00083264505
+FuelInjectionType_Sequential Fuel Injection (SFI),0.0008266425
+Trim_Classic DS,0.00082444324
+TransmissionStyle_Manual/Standard,0.0008241331
+Model_Land Cruiser,0.0008158259
+Make_MASERATI,0.00081046904
+Model_RDX,0.00079477136
+Series_DS (Single Rear Wheels),0.000792018
+Trim_2500 LT,0.00078833976
+Model_M3,0.00078768976
+Model_Crown Victoria,0.000782175
+Model_Grand Caravan,0.00077026826
+Series2_Body Style: Hatchback Tall,0.0007694355
+Series_Tradesman,0.00076646765
+Trim_WRX,0.0007634175
+Series_7-Series,0.00074546266
+Trim_DELUXE,0.0007372066
+Model_Taurus,0.00073137233
+Series_Big Horn/Lonestar,0.0007312348
+Model_GLA-Class,0.00073060987
+SteeringLocation_Left-Hand Drive (LHD),0.0007265058
+Series_ZRE172L,0.00072438025
+Make_AUDI,0.00072296045
+BodyCabType_Extra/Super/Quad/Double/King/Extended,0.0007225904
+Model_S5,0.00072005903
+Trim_AT4,0.00071144133
+Series_KK,0.00071012304
+Model_SL-Class,0.0007002918
+Series_ST,0.0006987323
+Make_LEXUS,0.0006980841
+DriveType_2WD,0.0006970025
+Trim_ESV,0.00069348677
+Trim2_SR5 - CrewMax Short Bed/TRD Pro - CrewMax,0.0006934256
+Trim_NC,0.00069122744
+Series_Limited,0.000690668
+Model_X6,0.00068756106
+TPMS_Direct,0.00068483996
+CAN_AACN_Not Available,0.00068195845
+Model_F-150,0.00068190484
+Make_TOYOTA,0.00067991175
+Series2_Type 970,0.0006768268
+Model_Granturismo,0.00067596184
+DaytimeRunningLight_Not Available,0.0006754968
+Make_CADILLAC,0.000674784
+Trim_RS,0.0006732258
+Doors,0.0006728363
+Series_GRN280L/GRN285L,0.00067095214
+Trim_Police,0.0006681332
+ParkAssist_Standard,0.00066038617
+Series_Tradesman (US) / ST,0.0006591006
+Model_Transit,0.0006570867
+Series_6-Series,0.0006562005
+Trim_200t,0.0006552704
+BlindSpotMon_Standard,0.00065262185
+"GVWR_Class 1B: 3,001 - 4,000 lb (1,360 - 1,814 kg)",0.0006473744
+BodyClass_Minivan,0.00064694433
+Series_GSJ15L/GSJ10L,0.00064614764
+Model_Dakota,0.0006455063
+Model_4-Runner,0.00064510625
+Model_Grand Cherokee,0.00064430037
+"GVWR_Class 1: 6,000 lb or less (2,722 kg or less)",0.0006428653
+Trim_STI-S,0.0006388885
+Series_ASU50L/GSU50L/GSU55L/GVU58L,0.00063700037
+Model_Journey,0.0006361846
+Model_Range Rover Sport,0.0006339152
+Series_DH / Heavy Duty,0.0006328736
+state_hi,0.00063122064
+Model_XC90,0.0006270259
+Trim_JK (Open Body),0.0006229908
+Model_Silverado LD,0.0006220322
+Trim_Laramie,0.0006209761
+Trim_GT,0.00061892497
+Trim_ST,0.0006181474
+ParkAssist_Not Available,0.00061504904
+region_flagstaff / sedona,0.00061102933
+BodyClass_Convertible/Cabriolet,0.00060094305
+Trim_Denali,0.0005992418
+AirBagLocSeatCushion_1st Row (Driver and Passenger),0.00059580087
+ForwardCollisionWarning_Standard,0.0005944162
+AutoReverseSystem_Not Available,0.00059272634
+Series_PREMIUM,0.00059201196
+EngineHP_to,0.0005905322
+ValveTrainDesign_Single Overhead Cam (SOHC),0.0005870218
+region_hawaii,0.00058495946
+Series2_Coupe Style,0.00058317377
+region_fargo / moorhead,0.0005829423
+Model_Sprinter,0.00058086804
+region_appleton-oshkosh-FDL,0.00057992333
+condition_fair,0.00057429605
+Series_UPK51L/GSK51L/USK51L/USK52L/UPK56L/USK56L/USK57L,0.0005653255
+TPMS_Indirect,0.00056404434
+Model_Golf R,0.0005622189
+Model_GX,0.0005604241
+Series_Longhorn,0.0005602215
+Series_5-series,0.00055963284
+Make_DODGE,0.0005582894
+Model_A-Class,0.00055586034
+KeylessIgnition_Optional,0.0005542884
+Model_GLC-Class,0.00055328576
+state_wa,0.0005530747
+Trim_JL (Open Body),0.0005503226
+Trim_470,0.0005423729
+Model_Range Rover Velar,0.00054157374
+region_bend,0.0005393395
+TransmissionStyle_Continuously Variable Transmission (CVT),0.0005359081
+Make_INFINITI,0.0005330083
+Model_Soul,0.00053291616
+Model_Murano,0.00052640575
+region_bellingham,0.00051861163
+Model_Sienna,0.0005164595
+region_sioux falls / SE SD,0.00051522284
+ParkAssist_Optional,0.00051299966
+Trim_SLE,0.00051208236
+Trim_S,0.0005113516
+DriveType_AWD,0.00051074964
+TransmissionStyle_Automated Manual Transmission (AMT),0.00051036355
+Series_1500 (1/2 Ton),0.0005083672
+"Series_LX, S, SE",0.0005055844
+Model_Armada,0.00050463516
+Trim_Laredo,0.0005044328
+Model_Navigator L,0.00050385593
+Trim_Work Truck/Fleet/Base,0.0005032317
+Model_G80,0.00050205004
+Model_Tundra,0.00050081365
+Model_Nautilus,0.00050008285
+AirBagLocSide_All Rows,0.00049954746
+Make_JAGUAR,0.0004931854
+Trim_AMG,0.0004911161
+FuelInjectionType_Stoichiometric Gasoline Direct Injection (SGDI),0.00049099704
+"GVWR_Class 2G: 8,001 - 9,000 lb (3,629 - 4,082 kg)",0.0004861747
+Series_1/2 Ton,0.00048598665
+state_wi,0.00048482174
+Model_Ranger,0.00048449237
+Make_FORD,0.00048276794
+Model_Tucson,0.0004822541
+Trim_SR,0.00048157954
+Model_Excursion,0.00048121103
+Trim_sDrive30i,0.00048020825
+Model_NX,0.00047972266
+Seats,0.00047785311
+Series_I4 Coupe,0.00047330273
+Model_Colorado,0.0004725297
+Trim_Delux,0.0004714723
+Series2_Wagon Body Type,0.00047123322
+Series_Big Horn,0.00047083703
+Trim_Deluxe,0.00046907936
+state_sd,0.00046872575
+CIB_Standard,0.0004680228
+Series_Denali,0.0004671756
+Model_Q50,0.00046578213
+Model_CLS-Class,0.00046525634
+FuelTypePrimary_Flexible Fuel Vehicle (FFV),0.00046445266
+Series_GRN210L/GRN215L/UZN210L/UZN215L,0.00046327882
+Model_Boxster,0.00046310268
+AirBagLocCurtain_1st and 2nd Rows,0.00046155896
+AdaptiveCruiseControl_Optional,0.0004607892
+SemiautomaticHeadlampBeamSwitching_Optional,0.00045985432
+Model_Challenger,0.00045689364
+Series_GRN325L,0.00045474808
+region_waco,0.0004523693
+AdaptiveDrivingBeam_Standard,0.000448999
+Model_Firebird,0.00044782116
+Make_RAM,0.00044511192
+Model_TLX,0.00044502757
+Model_Explorer,0.00044498025
+Trim_460,0.00044315343
+WheelBaseType_Standard,0.00044180287
+Model_Avalon,0.00043970085
+Series_Type 92A,0.00043924048
+Series_SXT,0.00043912113
+Model_QX80,0.00043484877
+Make_CHRYSLER,0.00043334393
+Series_Touring/Touring-EL,0.00043259273
+Make_SUBARU,0.00043193283
+AirBagLocSide_1st and 2nd Rows,0.00043164712
+Model_XTS,0.0004305933
+CAN_AACN_Optional,0.00042471002
+FuelTypeSecondary_Gasoline,0.00042334915
+Model_Durango,0.00042272315
+region_new orleans,0.00042272208
+Series_GSL30L/GSL33L/GSL35L/ASL30L,0.00042021318
+Model_Golf GTI,0.0004191669
+AirBagLocSide_1st and 2nd and 3rd Rows,0.0004189548
+Trim_Rubicon/Unlimited Rubicon,0.00041867964
+BodyCabType_Regular,0.00041614077
+TransmissionStyle_Automatic,0.0004148829
+Trim_VF,0.00041305515
+Model_Sierra,0.00041250995
+Trim_SE,0.00041165657
+AirBagLocCurtain_1st and 2nd and 3rd Rows,0.00041109353
+Make_GMC,0.00040707912
+Make_VOLKSWAGEN,0.00040276517
+Trim_R/T,0.000402344
+Model_Sorento,0.0004012501
+Model_A6,0.0003985296
+Trim2_Double Cab,0.00039755335
+Trim_DT,0.0003974955
+Series_1500,0.00039703347
+Model_640i,0.00039598497
+Model_A7,0.00039356484
+state_or,0.00039331822
+Series_Econoline,0.00039315585
+Series_UVF46L,0.00039310908
+Series2_BH,0.0003903371
+Model_LS,0.00038416567
+Model_Camry,0.00038340443
+Trim_2500-Laramie,0.00038210987
+Make_ACURA,0.00038141728
+FuelTypeSecondary_Compressed Natural Gas (CNG),0.00038131032
+state_mn,0.00037968537
+Series_SEL / Value Edition / Limited,0.0003793909
+Series_Scat Pack,0.00037797078
+Model_Titan,0.00037693564
+Model_Mazda6,0.00037659795
+Model_Giulia (952),0.0003759461
+region_grand island,0.00037581442
+Model_Ram,0.00037475588
+state_oh,0.00037469494
+Series_GI,0.00037426708
+AirBagLocSide_1st Row (Driver and Passenger),0.00037293168
+Model_MKS,0.00037272263
+Trim_Overland,0.00037208264
+region_austin,0.00037181776
+region_baltimore,0.00036967866
+Model_GL-Class,0.00036959726
+Model_A3,0.00036947208
+Model_XJ,0.00036941093
+Model_CTS,0.000366287
+Model_300,0.00036435114
+EngineConfiguration_In-Line,0.00036429422
+Series2_350,0.00036306103
+Series_DJ,0.00036266103
+Trim_Longhorn,0.00036112347
+Trim_Sport,0.0003609586
+Series_ASE30L/GSE31L/GSE36L/GSE37L,0.00036069454
+Model_Cayenne,0.00035989503
+Model_Impala Limited,0.00035933586
+Model_Stelvio,0.00035732368
+BrakeSystemType_Hydraulic,0.0003570805
+Trim_3500,0.00035673054
+Model_X1,0.0003550738
+Trim_350,0.00035485736
+region_anchorage / mat-su,0.0003541344
+"Series_GLI (S, 35th Anniversary Ed., Autobahn)",0.00035387732
+WheelBaseType_Long,0.00035313246
+state_ne,0.00035175905
+Trim_Fleet/Base,0.00035149456
+Make_ALFA ROMEO,0.0003513027
+Trim_Work Truck/LS/Fleet/Base,0.000349713
+PedestrianAutomaticEmergencyBraking_Standard,0.00034946296
+Series_LT w/Low Emissions Package,0.00034847294
+region_south florida,0.00034813024
+Model_Regal,0.00034666216
+Model_SRX,0.00034570665
+BodyClass_Coupe,0.0003451624
+Series_LD,0.00034505193
+region_bozeman,0.00034494797
+Model_Range Rover Evoque,0.00034458848
+state_nj,0.0003439665
+Trim_SRW Low Roof Van,0.000342749
+Model_Tiguan,0.00034234134
+Trim_SRT8,0.00034220165
+Series_URJ201L,0.00034186593
+Series_1 Ton,0.00034181835
+Model_Discovery,0.00034098493
+Model_CX-5,0.00033699442
+Trim_L,0.0003366476
+Series_Single Rear Wheels,0.00033492717
+Series2_Police Vehicle,0.0003345689
+region_greenville / upstate,0.00033383645
+Trim_SLT,0.00033372137
+region_santa barbara,0.00033299558
+BedType_Standard,0.00033108954
+Trim_ZL1,0.0003309546
+Series_CLS550,0.0003298574
+state_ri,0.00032833964
+LaneKeepSystem_Standard,0.0003278998
+Model_328i,0.00032617553
+Model_F-TYPE,0.00032602935
+Model_X5,0.00032531243
+Trim_SRT,0.00032407616
+Series_ASV50L/GSV50L/AVV50L,0.00032368998
+BodyClass_Sport Utility Vehicle (SUV)/Multi-Purpose Vehicle (MPV),0.00032349498
+state_ny,0.0003231674
+Model_RC,0.00032309172
+Series_Reserve,0.0003222597
+Model_F-350,0.0003220641
+Model_Crosstrek,0.00032052735
+region_western slope,0.00032019112
+Model_Highlander,0.00031934763
+state_va,0.0003191457
+Trim_LA,0.00031882664
+Series_SL550,0.00031856072
+Series2_Hatchback Body Style,0.00031789104
+state_md,0.0003166538
+Model_9-3,0.00031651702
+Model_370Z,0.00031548864
+FuelTypePrimary_Hybrid,0.00031462722
+TopSpeedMPH,0.00031396182
+Trim_SH-AWD,0.0003130644
+Model_Verano,0.00031228305
+AirBagLocKnee_Driver Seat Only,0.0003111734
+Model_Savana,0.00031013117
+Model_CT,0.00030925355
+region_laredo,0.00030846626
+PedestrianAutomaticEmergencyBraking_Optional,0.00030698968
+Series_AXAA52L/AXAA54L/AXAH54L,0.00030697935
+Model_Traverse,0.00030669576
+Trim_Performance,0.00030606388
+Make_FIAT,0.00030570925
+AdaptiveCruiseControl_Standard,0.0003056423
+state_ak,0.00030560058
+TransmissionStyle_Dual-Clutch Transmission (DCT),0.00030551222
+Model_TT,0.00030523769
+Trim2_G Grade,0.00030281945
+Series_2500,0.00030273935
+region_dallas / fort worth,0.00030202704
+Model_Acadia,0.00030115678
+Trim_High Country,0.0003008988
+Series_GSL30L/GSL33L/GSL35L,0.00030030822
+region_denver,0.00029903505
+region_houston,0.00029862553
+Series_RZN180L/VZN180L/RZN185L/VZN185L,0.00029837346
+Model_Escape,0.00029819724
+Trim_Rebel,0.00029608354
+LowerBeamHeadlampLightSource_Halogen,0.00029481208
+region_altoona-johnstown,0.00029390727
+Model_Spark,0.00029102166
+Series_Q5 quattro Premium,0.00028946664
+Model_QX50,0.00028890016
+Model_Silverado,0.00028885953
+ValveTrainDesign_Overhead Valve (OHV),0.00028849646
+ElectrificationLevel_HEV (Hybrid Electric Vehicle) - Level Unknown,0.00028717323
+Model_428i,0.0002857737
+Trim_XLE/XLE Premium,0.00028548588
+Series_UZJ120L,0.00028513497
+Model_Fusion,0.0002849063
+Model_ML-Class,0.00028398552
+Series_Laredo,0.000283327
+AdaptiveDrivingBeam_Optional,0.00028248265
+Model_Countryman,0.00028221004
+Trim_SH-AWD (Tech),0.00028111192
+Series_3-series,0.00028088107
+Model_Golf Alltrack,0.0002798967
+RearCrossTrafficAlert_Standard,0.00027926717
+region_lexington,0.00027909395
+state_id,0.0002788276
+Series2_Wagon body style,0.00027808154
+Series_UZZ40L,0.00027789676
+Trim_LTZ,0.00027702894
+"Series_Rebel(U, BUX), Sport 2TL pkg/Rebel 2TW pkg (Can)",0.0002767928
+BodyClass_Crossover Utility Vehicle (CUV),0.00027526636
+LaneKeepSystem_Optional,0.0002746776
+Make_KIA,0.00027431076
+region_new hampshire,0.0002740112
+region_billings,0.0002739238
+Model_Trax,0.00027305144
+state_la,0.00027233336
+state_az,0.000272118
+Series_Super Duty - Dual Rear Wheel,0.00027115643
+Model_Mustang,0.00027096097
+region_western massachusetts,0.00027053
+Trim_Platinum/1794,0.00027042592
+Model_Expedition,0.00026996568
+Model_SC,0.00026783475
+Series_E350,0.00026772328
+state_mi,0.00026718446
+Series2_Type 9PA,0.000266888
+Series_Cooper S,0.00026660468
+region_daytona beach,0.0002659248
+Trim_Police Vehicle,0.0002658007
+"GVWR_Class 2: 6,001 - 10,000 lb (2,722 - 4,536 kg)",0.00026513726
+Model_RAV4,0.00026511028
+Trim_Inscription,0.00026442623
+Model_Focus,0.0002642531
+Model_XT4,0.00026418973
+Model_XF,0.00026410006
+Trim_LTZ (2LZ),0.00026396159
+BlindSpotMon_Optional,0.00026362806
+region_seattle-tacoma,0.00026358233
+Trim_LT,0.00026345544
+Make_SUZUKI,0.00026245386
+state_ca,0.00026151616
+Series_E550,0.00026140368
+Series_C300,0.00026137425
+Model_GS,0.00026096532
+ValveTrainDesign_Dual Overhead Cam (DOHC),0.0002604104
+Series_Sport / Limited / Sport 2.0,0.00025992817
+region_fresno / madera,0.0002597954
+Series_ML350,0.00025922217
+Model_MKZ,0.0002592194
+state_mt,0.00025892694
+Make_HYUNDAI,0.000258879
+Series_Unlimited Sport,0.00025840368
+Make_BMW,0.00025746677
+Series_GL,0.00025711398
+region_ft myers / SW florida,0.00025662826
+region_albuquerque,0.00025649718
+region_lakeland,0.00025553664
+Trim_SRT HELLCAT,0.00025381063
+Series_Denali AWD,0.00025367484
+Series_CLA250,0.00025317457
+ElectrificationLevel_PHEV (Plug-in Hybrid Electric Vehicle),0.00025228417
+state_co,0.00025194802
+Trim_L/LE/SE/XLE,0.00025183024
+Model_740i,0.0002511432
+Trim_DJ,0.00025068206
+FuelTypeSecondary_Electric,0.00025064673
+Model_550i,0.0002504844
+Model_330i,0.00024971188
+SeatRows,0.0002497027
+region_central michigan,0.00024882954
+Series_GLK350,0.0002486847
+Trim2_Q grade,0.00024803306
+WheelBaseType_Medium,0.00024773812
+Model_CLK-Class,0.00024707345
+state_pa,0.00024561182
+Model_Lancer,0.0002445252
+Trim_Unlimited Sport,0.00024424357
+LaneKeepSystem_Not Available,0.00024361975
+Series_2500 (3/4 ton),0.00024305975
+FuelInjectionType_Unit Injector Direct Injection Diesel (UDI),0.00024278084
+Model_MDX,0.00024233352
+Model_M5,0.00024220809
+Model_Jetta,0.00024191629
+Model_Q60,0.00024145769
+Model_Scion xB,0.00024134965
+Model_Fiesta,0.00024130353
+region_kalispell,0.00024016696
+region_oklahoma city,0.00023948873
+Trim_2500,0.00023812955
+Trim_SR5,0.0002381126
+Series_SE Hybrid,0.00023784227
+region_reno / tahoe,0.00023769162
+region_phoenix,0.0002375545
+region_spokane / coeur d'alene,0.00023685662
+Trim_Platinum Grade,0.00023671993
+region_brownsville,0.00023562004
+Series2_LFa,0.00023461967
+Trim_Touring L,0.00023458149
+Model_340i,0.00023429036
+region_east oregon,0.00023386425
+Trim_Momentum,0.00023368694
+Series_MCU33L/MCU38L,0.00023296755
+Series2_4-MATIC,0.00023278996
+Trim_Base/Acura Watch Plus Package,0.00023265326
+state_ut,0.00023228064
+Series_GT,0.00023063646
+region_prescott,0.00023020111
+Trim2_Access Cab,0.00023015813
+Trim_Two Eco/Three/Three Touring/Four/Four Touring,0.0002293048
+Model_Maxima,0.00022852162
+region_san antonio,0.0002282968
+Trim_DLX,0.00022791335
+"Trim_SE Popular Pkg, SE Tech pkg, Limited",0.0002277325
+state_ia,0.0002267068
+Trim_Base,0.00022617362
+Model_Edge,0.00022292386
+Model_Pathfinder,0.0002227508
+Model_GLE-Class,0.00022190911
+Model_MR2,0.00022178823
+Trim_Trail Boss - LT,0.0002214348
+region_tucson,0.00022120439
+region_philadelphia,0.000220856
+Model_IS,0.00022057525
+Trim_SuperCab,0.00022045094
+Model_Impreza,0.0002200217
+Series_GSU30L/GSU35L,0.00021956975
+region_jacksonville,0.00021955968
+region_indianapolis,0.00021944872
+Model_Versa,0.00021845063
+Model_430i,0.00021841329
+region_pittsburgh,0.00021790284
+region_new haven,0.00021786508
+Model_Altima,0.00021769005
+region_inland empire,0.00021756114
+region_milwaukee,0.0002175227
+region_eastern NC,0.00021743024
+Trim_Delux Grade,0.00021708809
+Series_KJ,0.00021705608
+Series_ZWA10L,0.00021551836
+region_charlotte,0.00021534762
+Trim_Custom,0.00021468638
+Series_RZN191L/RZN196L/VZN195L,0.00021456697
+region_el paso,0.0002140926
+Series_WK,0.00021272525
+Model_Transit Connect,0.00021253413
+region_missoula,0.00021245942
+Series_ZGX10L,0.00021136297
+Model_MX-5,0.00021127576
+Series2_AN,0.00021034818
+FuelInjectionType_Common Rail Direct Injection Diesel (CRDI),0.0002100542
+LaneDepartureWarning_Optional,0.00020990185
+Trim2_1/2 ton nominal,0.00020963058
+Model_Kicks,0.00020840364
+Trim_4 MATIC,0.00020824902
+Series_GSK50L/UPK50L/USK50L/GSK51L/UPK51L/USK51L/UPK52L/USK52L/UPK55L/USK55LUPK56L/USK56L/UPK57L/USK57L,0.00020797753
+Model_Flex,0.00020740545
+Series_AGV10L/AGV15L/GGV10L/GGV15L,0.00020731242
+Model_Fit,0.00020726923
+region_toledo,0.0002069853
+region_corpus christi,0.00020635185
+state_nm,0.00020623567
+Series2_QF,0.00020521399
+region_gainesville,0.00020324595
+region_long island,0.000203219
+Series2_L Series,0.00020311492
+Model_Sequoia,0.00020301383
+Model_GLK-Class,0.00020234303
+region_fayetteville,0.00020215719
+Series_RZN171L/VZN170L,0.00020202232
+Model_Outback,0.00020187165
+region_birmingham,0.0002018165
+Trim_Supercharged,0.00020114922
+Trim_1500 Work Truck/Fleet/Base,0.00019977479
+state_nv,0.0001997473
+"Trim_SE Popular, ECO, Sport, Limited",0.0001996528
+AirBagLocCurtain_1st Row (Driver and Passenger),0.0001996373
+Trim_LS,0.00019864945
+Series_EL-Limited,0.00019852669
+Model_E-Class,0.00019817354
+Model_Charger,0.00019544919
+BodyClass_Wagon,0.00019535354
+Model_ES,0.00019317289
+Series_GSU40L/GSU45L/ASU40L/GVU48L,0.00019313146
+Series_XLT,0.00019267762
+Trim_BLUETEC 4-MATIC,0.00019252134
+Series_A6 2.0T quattro premium plus,0.00019212672
+region_omaha / council bluffs,0.0001920992
+Model_Yaris,0.00019205418
+Series_V6 Coupe,0.00019192888
+state_ok,0.0001915344
+Model_C-Max,0.0001913729
+region_roanoke,0.0001904326
+Trim2_SAV,0.00019013381
+condition_good,0.00019004995
+Series_4-Series,0.00019004836
+WheelBaseType_Super Long,0.00018989315
+region_medford-ashland,0.00018939977
+region_wichita,0.00018861497
+Trim_Base/Hybrid,0.00018857166
+state_al,0.00018797135
+Series_C250,0.00018782815
+Model_Envoy,0.00018730116
+condition_like new,0.00018700179
+Trim_3500-Laramie,0.00018683428
+region_mcallen / edinburg,0.00018674023
+Trim_330i xDrive SA,0.00018625817
+state_in,0.00018612461
+Model_S90,0.00018595559
+Make_LINCOLN,0.00018498
+Model_Yukon,0.00018453221
+region_york,0.00018380533
+Model_Sedona,0.00018331535
+Model_535i,0.00018327773
+Trim_LT (1LT),0.00018313786
+Make_CHEVROLET,0.00018300649
+Series_Premium Plus Quattro,0.00018266789
+Series_UCK40L/UCK41L,0.00018266594
+region_danville,0.00018254631
+Model_CR-V,0.00018221886
+FuelTypePrimary_Hybrid (HEV),0.00018133628
+Trim_Limited+M/R+ES+NAVI,0.00018125495
+Trim_Limited,0.00018123047
+Trim_Work Truck,0.00018098371
+Series_Heavy Duty,0.00018053295
+Series2_QF F/L,0.00018044419
+Trim_Citadel,0.0001798581
+Make_MAZDA,0.00017886177
+Series_Sport,0.00017868866
+region_central NJ,0.00017857691
+Series_Crossover,0.00017848413
+region_nashville,0.00017841322
+Series_I4 Convertible,0.00017840174
+Trim_Trailhawk,0.00017798804
+Series2_Mega Cab,0.0001774742
+region_fort wayne,0.00017721826
+Model_Legacy,0.00017658358
+Model_Corolla,0.00017645312
+Series_JC,0.00017613375
+Model_Optima,0.00017579095
+Trim_SEL,0.00017450738
+Series_5-Series,0.00017429519
+Make_HONDA,0.00017243835
+Series_7-series,0.00017234866
+Series_Titanium,0.00017159202
+Model_Accent,0.00017152374
+Model_A8,0.00017077994
+Model_Ridgeline,0.00017070382
+Series_TRN220L/TRN225L/GRN225L,0.0001706951
+region_merced,0.00017055965
+Series_Prestige quattro,0.00017035742
+Series_M157,0.00017007873
+Model_Escalade ESV,0.0001695156
+region_bakersfield,0.00016874756
+state_ks,0.00016859546
+Model_Outlander Sport,0.0001683911
+Trim_XSE,0.00016831658
+Series2_S (Sport),0.00016812864
+Series_EX-L,0.0001677855
+Model_TL,0.00016775329
+Series_SE,0.000167547
+Trim_SR5/TRD Pro,0.00016643872
+Model_Pilot,0.00016584809
+Series_AZE151L,0.00016568846
+Series2_Wagon Body type,0.00016456422
+Series_GRN250L,0.00016439421
+CIB_Optional,0.0001643593
+RearVisibilitySystem_Optional,0.00016425396
+Model_XV CrossTrek,0.00016422647
+state_vt,0.00016383105
+region_detroit metro,0.00016375945
+Trim_CXL,0.00016326996
+state_tx,0.00016314336
+Model_Discovery Sport,0.00016313969
+region_las vegas,0.00016298615
+Model_XT5,0.00016297173
+Trim_X,0.00016292206
+Model_A4,0.00016279468
+ForwardCollisionWarning_Optional,0.00016213687
+Trim_X-Plus,0.00016146975
+Model_Canyon,0.00016102931
+Series_250,0.00016087243
+Model_PT Cruiser,0.00016069178
+Trim_250,0.00016068948
+Model_C-Class,0.00016049483
+state_ct,0.00015922352
+Model_Cruze,0.00015889334
+Model_F-250,0.00015834799
+Model_RX,0.00015829672
+Model_Impala,0.0001579797
+state_nh,0.0001578345
+region_atlanta,0.00015683791
+WheelBaseType_Extra Long,0.00015668863
+Trim_Cobra,0.00015659053
+Trim_1SS,0.00015573052
+region_chillicothe,0.00015540842
+BedType_Long,0.0001552739
+Make_BUICK,0.00015488359
+state_ar,0.00015430222
+Series_USF40L/USF41L/USF45L/USF46L,0.00015399419
+Model_Prius V,0.00015362956
+region_vermont,0.00015343363
+WheelBaseType_Short,0.00015282513
+Trim_Latitude,0.00015277416
+Series2_Extended Van,0.00015188585
+Model_E-150,0.0001516365
+Series_F-Series Super Duty - Single Rear Wheel,0.00015127871
+Trim_2LS,0.00015076419
+Series_TRN265L/GRN265L,0.00015075116
+Trim_Premium,0.00015030181
+Trim_300S,0.00014985239
+Model_200,0.00014952556
+Trim_1500 LTZ,0.00014947144
+Make_MINI,0.00014935235
+region_sacramento,0.00014848678
+Trim_2LT,0.00014726611
+Series_ASA44L/ASA42L/AVA44L,0.00014726407
+Trim_2500-ST,0.00014724954
+state_nc,0.00014709432
+Model_Sonic,0.00014704892
+region_madison,0.00014653437
+region_jackson,0.00014631338
+Series_4-series,0.00014576198
+region_chicago,0.00014575977
+Series_2500 HD,0.00014546636
+Model_335i,0.00014541678
+Trim_F-Series,0.00014530399
+region_chico,0.00014525616
+Model_Element,0.00014510292
+region_new york city,0.00014399245
+Series_S,0.00014396085
+Series_GSU40L/GSU45L/MHU48L/ASU40L,0.00014382107
+Model_320i,0.00014365584
+Model_X3,0.00014214804
+Series_LX,0.00014182847
+paint_color_green,0.00014161314
+Make_GENESIS,0.00014112802
+Series_L,0.00014079858
+region_grand rapids,0.00014057712
+Series_GSV40L,0.00014051807
+Series_LOW,0.0001403054
+Series_3-Series,0.00014003398
+Series2_Hatchback Body Style (3 doors + hatchback door),0.00013987732
+Trim_Styleside,0.00013969289
+Series_3.0T/TDI Premium Plus,0.00013949766
+Model_ProMaster 1500,0.00013936227
+Model_3500,0.00013927286
+Series_1-Series,0.00013906082
+Model_Odyssey,0.00013905086
+state_mo,0.00013893419
+region_fort collins / north CO,0.00013841348
+Trim_WRX base+L,0.00013834688
+Trim_Limited +CWP+M/R,0.00013773872
+Model_Ioniq,0.00013751272
+region_greensboro,0.00013739309
+ElectrificationLevel_Strong HEV (Hybrid Electric Vehicle),0.0001370331
+Model_TSX,0.00013677093
+Model_Malibu,0.00013671033
+Model_Captiva Sport,0.00013661082
+region_hartford,0.00013633141
+region_des moines,0.0001361462
+Series_KL,0.00013607783
+Model_Santa Fe Sport,0.00013603634
+region_maine,0.00013585684
+Model_Forte,0.00013552234
+Series_ZVW41L,0.00013532832
+Series_SX,0.0001352726
+Series_V6 Convertible,0.00013519188
+Model_Accord,0.00013505055
+region_springfield,0.00013487131
+state_income,0.00013435863
+"region_washington, DC",0.00013416653
+Model_Compass,0.00013389354
+Model_M-Class,0.00013385127
+Series_GL450,0.0001338326
+Model_Z4,0.00013365936
+region_stockton,0.00013240498
+Series_3500,0.00013237733
+Trim_4MATIC,0.00013220309
+BodyClass_Hatchback/Liftback/Notchback,0.00013115685
+Series_RT,0.00013100184
+region_boone,0.00013077956
+Model_Terrain,0.00013047669
+region_orange county,0.00013022554
+Series_1.4T S,0.0001301394
+region_boise,0.00013006561
+region_space coast,0.00012870088
+Trim_Grade Platinum,0.00012863078
+state_fl,0.00012851732
+Trim_MP,0.0001284221
+AirBagLocFront_Driver Seat Only,0.00012769662
+Model_ILX,0.00012765922
+Trim_Sport/GX,0.00012750202
+region_finger lakes,0.00012635872
+Series2_Wagon Body Style,0.00012618164
+Trim_SS,0.00012613289
+Model_Solstice,0.00012605188
+Trim_XLT,0.0001254023
+Trim_Exclaim,0.00012425231
+Trim_xDrive,0.00012424217
+Series_GLS/GLS Preferred/ Limited/Limited Tech GS/SE/SE Tech,0.00012420065
+Model_Pacifica,0.00012366913
+Model_GTO,0.00012348816
+paint_color_grey,0.00012319736
+region_wenatchee,0.00012302562
+Trim_330i xDrive,0.0001229439
+Series_DS,0.00012263336
+Series_GSZ10L/AXZH10L,0.000121347446
+Series_Open Body,0.000120945224
+BedType_Short,0.00012090393
+region_scranton / wilkes-barre,0.0001208534
+Trim_1500,0.000120554534
+Trim2_N Grade,0.000119369164
+region_skagit / island / SJI,0.000119335746
+region_buffalo,0.000119305296
+state_il,0.00011896611
+Trim_DS (Single Rear Wheels),0.00011849488
+Model_Santa Fe,0.000117811476
+Trim_4-MATIC,0.000117791926
+"Series_SE Ultimate ,Limited Ultimate",0.000117566226
+region_lewiston / clarkston,0.00011748322
+Trim_Luxury,0.00011744584
+region_pensacola,0.00011735004
+condition_excellent,0.000117265256
+ElectrificationLevel_Mild HEV (Hybrid Electric Vehicle),0.00011705665
+Trim_xDrive50i,0.00011671439
+state_dc,0.00011625686
+RearCrossTrafficAlert_Optional,0.00011608531
+Model_Enclave,0.0001154518
+state_ma,0.00011528708
+EngineConfiguration_Horizontally opposed (boxer),0.000114978
+Series_CLA250-4M,0.00011480764
+Trim_2500 Work Truck/Fleet/Base,0.000114695606
+Model_Sierra HD,0.00011455568
+region_SF bay area,0.000114020775
+region_south coast,0.000113982715
+Series_1500 1/2 ton,0.000113793016
+Series_Select,0.000113527094
+Model_QX56,0.00011322054
+region_olympic peninsula,0.00011275924
+Trim_300,0.000112672526
+state_ga,0.00011147556
+Series_GSV40L/AVV60L,0.00011140134
+Model_435i,0.00011073133
+Series_GLC300,0.00011043169
+region_minneapolis / st paul,0.00010932259
+region_moses lake,0.000109105786
+region_palm springs,0.000109013476
+Trim_RT,0.00010810496
+region_athens,0.000107884065
+Model_650i,0.00010765267
+Trim_ZR2,0.000107361884
+Series2_Conventional Cab,0.00010663194
+Model_Escalade,0.00010662377
+region_portland,0.00010560228
+Model_Juke,0.00010534441
+Trim_V6,0.000105252126
+paint_color_brown,0.00010447148
+Model_Explorer Sport Trac,0.000104382576
+Make_VOLVO,0.000104023915
+paint_color_black,0.00010394431
+region_kalamazoo,0.00010329917
+Series_UCK60L/UCK65L/USK60L/USK65L/UPK65L/UPK60L,0.000103270686
+state_sc,0.00010309207
+Model_S60,0.000102980805
+region_tallahassee,0.00010266922
+Model_Volt,0.000102573315
+Trim2_E grade,0.000102312966
+Series_GSK50L/UPK50L/GS51L/UPK51L/USK51L/USK52L/USK55L/UPK56L/USK56L/USK57L,0.000102257145
+Trim_SR/SR5/TRD Off Road/TRD Sport/TRD Pro,0.000101671554
+Model_Outlander,0.000101560094
+region_gold country,0.00010154348
+Model_Express,0.00010111012
+Model_Thunderbird,0.00010096214
+AdaptiveCruiseControl_Not Available,0.000100731515
+Model_Scion FR-S,0.00010045016
+region_rochester,0.00010026535
+Model_Renegade,0.000100096164
+Trim_LT Fleet,0.00010007144
+region_oregon coast,9.975796e-05
+Trim_Trail Boss Custom,9.920103e-05
+Series_LC,9.88844e-05
+Series_quattro,9.881415e-05
+Trim_LX,9.8420256e-05
+Model_HHR,9.8406636e-05
+paint_color_white,9.811124e-05
+region_monterey bay,9.789703e-05
+Model_Prius Plug-in,9.73553e-05
+region_los angeles,9.696699e-05
+Series_GGL10L/GGL15L/GYL10L/GYL15L,9.6872245e-05
+Series_Yaris iA (USA except Puerto Rico)/ Yaris(Puerto Rico),9.684546e-05
+FuelInjectionType_Throttle Body Fuel Injection (TBI),9.643294e-05
+Series2_L (Low Line),9.635519e-05
+Series_S/SE/R-Line,9.619038e-05
+region_north jersey,9.610165e-05
+region_tampa bay area,9.561129e-05
+"region_kansas city, MO",9.557381e-05
+Trim_D2 (Dual Rear Wheels),9.5411124e-05
+region_san diego,9.535221e-05
+Trim_Unlimited X,9.5292075e-05
+Series_RS,9.523177e-05
+Trim_Plus,9.47969e-05
+PedestrianAutomaticEmergencyBraking_Not Available,9.464522e-05
+Model_ProMaster 2500,9.4584924e-05
+Model_Equinox,9.4538096e-05
+region_kennewick-pasco-richland,9.417213e-05
+region_tulsa,9.37238e-05
+Series_TRN240L/TRN245L/GRN245L,9.362655e-05
+Trim_1LT,9.352694e-05
+state_tn,9.334018e-05
+Series_Base,9.295487e-05
+Trim_Convertible,9.2737086e-05
+Model_Town and Country,9.236699e-05
+Trim_Grand Touring/GT,9.2265596e-05
+Model_Silverado HD,9.183986e-05
+Series_MEDIUM,9.0645575e-05
+region_utica-rome-oneida,9.0546884e-05
+Model_GTI,9.042907e-05
+Model_528i,9.006673e-05
+"region_st louis, MO",8.987447e-05
+Series2_P (Premium),8.969925e-05
+Trim2_Double Cab Short Bed,8.9514426e-05
+Model_Quest,8.9498506e-05
+Series_FF,8.925134e-05
+paint_color_red,8.865656e-05
+Series2_Extended Wagon,8.86394e-05
+"Trim2_DJ2,DJ7",8.858597e-05
+Series_C300-4M,8.852139e-05
+Series_GLA250,8.8504115e-05
+Series_ACV40L/GSV40L/AHV40L,8.836129e-05
+Trim_Sedan,8.777831e-05
+Series2_H Series,8.774139e-05
+region_treasure coast,8.75776e-05
+Model_M37,8.7435634e-05
+Trim_Abarth,8.705401e-05
+Trim_SA,8.7024615e-05
+Trim_RX330,8.6668624e-05
+Series_Touring L,8.5795094e-05
+Model_Civic,8.563767e-05
+Model_Mazda2,8.53923e-05
+Trim_570,8.5266496e-05
+Model_500,8.522463e-05
+region_sierra vista,8.4923005e-05
+region_norfolk / hampton roads,8.479292e-05
+state_ky,8.458962e-05
+Series2_wagon body Type,8.4409185e-05
+region_east idaho,8.437795e-05
+Series_Touring,8.379856e-05
+Make_PONTIAC,8.370833e-05
+Series_DJ (Single Rear Wheels),8.365448e-05
+Series_Latitude Plus,8.354758e-05
+Model_FX35,8.333943e-05
+Trim_SR/SR5/TRD Off Road/Pro/Sport,8.311922e-05
+paint_color_custom,8.250774e-05
+Series2_Small Conventional Cab,8.243131e-05
+Model_Veloster,8.2073e-05
+Series_XL,8.150474e-05
+paint_color_blue,8.118477e-05
+Series_TOP,8.113875e-05
+region_columbia,8.1009e-05
+Trim_RST,8.100396e-05
+state_me,8.0991405e-05
+Trim_SXT,8.0476304e-05
+Model_Xterra,8.043178e-05
+region_south jersey,8.035613e-05
+Make_SATURN,8.0284655e-05
+Series_LATITUDE (US-MEX)-NORTH(CAN)-LONGITUDE(Others),8.018268e-05
+Trim_L/LE/SE/XLE/XSE,7.973577e-05
+region_pullman / moscow,7.973554e-05
+paint_color_silver,7.971524e-05
+region_upper peninsula,7.967947e-05
+region_redding,7.956399e-05
+Trim_LE,7.942642e-05
+Trim_SR5/TRD Off Road/TRD Sport,7.94072e-05
+Model_DTS,7.938307e-05
+Model_Envision,7.9211415e-05
+Model_G35,7.8775e-05
+DynamicBrakeSupport_Optional,7.819034e-05
+region_sarasota-bradenton,7.81699e-05
+Trim_Premier,7.802688e-05
+Model_Rogue Select,7.784322e-05
+region_ventura county,7.77862e-05
+AirBagLocSeatCushion_Driver Seat Only,7.7640536e-05
+Series2_Light Duty,7.6915254e-05
+Model_Encore,7.659954e-05
+Trim_200S,7.624738e-05
+Trim_R/T Rallye / R/T,7.612848e-05
+Model_Sonata,7.61252e-05
+region_auburn,7.607023e-05
+Series_TRN265L,7.5518336e-05
+Series_NHW20L,7.547282e-05
+region_huntsville / decatur,7.4993695e-05
+Model_A5,7.470762e-05
+Series_1/2 ton,7.435349e-05
+region_eau claire,7.4294214e-05
+Trim_Sahara/Unlimited Sahara,7.4097385e-05
+Series_ASA33L/ASA38L/GSA33L/GSA38L,7.300298e-05
+Model_Tahoe,7.271971e-05
+Model_LaCrosse,7.264438e-05
+Series_EX-L/EX-L Navi,7.232713e-05
+Series_NHP10L,7.207861e-05
+Trim_SRW Medium Roof Van,7.20496e-05
+Model_E-350,7.204514e-05
+Trim_Titanium,7.143984e-05
+Make_SAAB,7.1418246e-05
+Series_UCK35L,7.122232e-05
+Trim_330i SA,7.0994545e-05
+Series_E320,7.088679e-05
+Trim_Advance Package,7.058896e-05
+region_lima / findlay,7.0040755e-05
+region_knoxville,6.9907044e-05
+region_boulder,6.9721194e-05
+Series2_quattro Progressiv S-Line (Canada),6.9559384e-05
+region_ashtabula,6.837156e-05
+Series2_RB,6.810444e-05
+AdaptiveDrivingBeam_Not Available,6.794909e-05
+Trim_STD,6.756457e-05
+Trim_WK,6.744471e-05
+Series_GLS(Middle),6.696249e-05
+Model_Uplander,6.6756154e-05
+Model_Passat,6.664989e-05
+region_corvallis/albany,6.6249624e-05
+region_ann arbor,6.605327e-05
+Trim_xDrive30i,6.5901564e-05
+Model_Q5,6.510878e-05
+region_ames,6.488955e-05
+Model_Sebring,6.442695e-05
+Model_NV,6.418812e-05
+"Series_S, Limited",6.405185e-05
+Model_Rio,6.372701e-05
+Trim_Sport/TJ,6.323985e-05
+Series_Touring/Touring-TE,6.294737e-05
+Series_Base/ BaseStyle/ Base Tech Turbo/ Turbo Ultimate,6.260087e-05
+"Trim2_DS1,DS6",6.1659586e-05
+"Trim_SE (US), SE/SXT (Can), Express (Mex)",6.1212275e-05
+Model_A4 allroad,6.086346e-05
+Model_Versa Note,6.0727405e-05
+region_youngstown,6.066943e-05
+Series2_Type 987,6.0264367e-05
+Trim_LE/XLE,6.0253835e-05
+Series_GL(Middle-low grade),6.008606e-05
+Series2_H (High Line),6.0061615e-05
+Series_LX A/T,5.9686095e-05
+RearCrossTrafficAlert_Not Available,5.933299e-05
+Model_330Ci,5.9305552e-05
+Series2_Wagon body,5.924712e-05
+Series2_460,5.8504284e-05
+Model_G37,5.8395177e-05
+region_cincinnati,5.8356352e-05
+Trim_Standard,5.792012e-05
+Model_Prius C,5.7804853e-05
+Series_Cargo Van,5.7684472e-05
+Model_QX60,5.7649282e-05
+region_boston,5.762432e-05
+Model_Sentra,5.758501e-05
+region_northern panhandle,5.7329158e-05
+region_albany,5.7220666e-05
+Series_Luxury FWD,5.710849e-05
+Model_Ecosport,5.6592908e-05
+paint_color_yellow,5.653654e-05
+Trim_Adventure/XLE,5.6307716e-05
+Model_Forester,5.621442e-05
+Series_XLT/King Ranch,5.603717e-05
+Series_USF40L/USF41L,5.5804947e-05
+Series_GSK50L/UCK50L/USK50L/GSK51L/UCK51LUSK51L/UCK52L/USK52L/UCK55L/USK55L/UCK56L/USK56L/UCK57L/USK57L,5.5545424e-05
+Model_Scion tC,5.5240966e-05
+Series_CXL,5.5025306e-05
+Series_Premium quattro,5.5001816e-05
+Trim_Premium Luxury,5.495838e-05
+Trim_300h,5.4624208e-05
+Series_GSL20L/GSL23L/GSL25L,5.4443197e-05
+region_colorado springs,5.424377e-05
+Model_Cruze Limited,5.4115593e-05
+Series_LA,5.4089272e-05
+"Series_L, LX, S",5.3886975e-05
+"Trim_SE (BUX,US,Mex), SE CVP (Canada)",5.360337e-05
+Series_150,5.304899e-05
+Series_ZRE142L / AZE141L,5.302251e-05
+Series_Denali 1500 (1/2 Ton),5.2303865e-05
+region_bemidji,5.206807e-05
+Series_URJ150L,5.176139e-05
+Series_GLE350,5.172841e-05
+region_ocala,5.1713778e-05
+"Series_SE, SEL",5.1265713e-05
+"Series_S, Sport, SE, Autobahn",5.0865474e-05
+Trim_330,5.0032315e-05
+Model_MKC,4.9808044e-05
+Model_Sportage,4.9693073e-05
+Trim_Latitude (North for Canada),4.9667364e-05
+Trim_300C,4.955659e-05
+Series_SUV,4.9534803e-05
+Series_AXVA70L/GSV70L/AXVH70L,4.918322e-05
+Series_SPORT,4.904964e-05
+Model_Atlas,4.8976573e-05
+Trim_SuperCrew,4.8836504e-05
+Trim_Pop,4.8477534e-05
+Series2_M (Medium),4.8378668e-05
+Series2_YFA,4.8289952e-05
+region_erie,4.8241305e-05
+Series_TOP (High Grade),4.8118098e-05
+Series2_Hatchback Tall,4.7953014e-05
+Series_Cooper,4.787059e-05
+region_muskegon,4.767373e-05
+Model_Prius,4.765583e-05
+region_lafayette / west lafayette,4.748899e-05
+Trim_sDrive35i,4.741485e-05
+Model_City Express,4.714472e-05
+"Series_VCK40L, UCK40L",4.670834e-05
+Series_ASA42L/ASA44L,4.65776e-05
+Model_Equus,4.6515583e-05
+Model_Jetta SportWagen,4.642941e-05
+region_mansfield,4.600892e-05
+Series2_Wagon Body,4.5926976e-05
+Model_ATS,4.5784247e-05
+Series2_SL,4.5707173e-05
+region_lansing,4.5590656e-05
+region_charlottesville,4.539456e-05
+Series_TRN260L/TRN265L/GRN265L,4.538595e-05
+region_yakima,4.4761837e-05
+region_cleveland,4.458508e-05
+region_eugene,4.4552835e-05
+Model_EX35,4.449591e-05
+Trim_EX,4.379882e-05
+Trim_Leather,4.3747707e-05
+Trim2_Base/Premium/Sport Activity (SAV),4.3407155e-05
+Trim_SULEV,4.311515e-05
+region_twin falls,4.225307e-05
+Trim_X / Sport,4.2103868e-05
+"Series_SE, Eco",4.179118e-05
+Series_E300,4.1742e-05
+Trim_L/LE/SE/XLE/XSE/50th Anniv. Special Edition,4.161631e-05
+Trim_Touring-L,4.1407347e-05
+Model_Wrangler JK,4.1223408e-05
+Series_GLS / JSL / TAX (Middle Grade),4.0881503e-05
+region_richmond,4.087441e-05
+Series_GS / GLS,4.0162464e-05
+region_wyoming,4.0113955e-05
+Model_500L,4.005404e-05
+Trim_Sahara / Unlimited Sahara,3.9970077e-05
+Series_ZRE212L-DEXLPA,3.9737228e-05
+Series_ASV40L/GSV40L/AHV40L,3.8378716e-05
+Model_528xi,3.837142e-05
+Series_MCU23L/MCU28L/ACU20L/ACU25L,3.8287864e-05
+Trim_LD,3.8021575e-05
+Trim_Elevation,3.7968326e-05
+Series_TI Q4,3.77231e-05
+Trim_SE/SEL,3.7719405e-05
+Series_VZN180L/VZN185L,3.7705522e-05
+Series_AXVA70L/GSV70L/AXVH70L/AXVH71L,3.765993e-05
+region_tri-cities,3.7451e-05
+"Series_LX, S, X-Line",3.7312788e-05
+Series_PT,3.6947516e-05
+Model_S4,3.6562382e-05
+Model_Suburban,3.6331807e-05
+region_mobile,3.6313308e-05
+Model_Hardtop,3.6167545e-05
+Model_Mazda3,3.6113557e-05
+Series_D2,3.5619953e-05
+Series_GLS(Middle grade),3.479541e-05
+Trim_Touring,3.4704135e-05
+Series_SL500,3.4299992e-05
+Series_SEL,3.410395e-05
+region_battle creek,3.4025583e-05
+region_worcester / central MA,3.3614368e-05
+Trim_SRT 392,3.310173e-05
+region_columbus,3.3054457e-05
+Model_CT5,3.2542113e-05
+Series_ACV30L,3.2473123e-05
+Trim_EX-L,3.2328113e-05
+Trim_Z71,3.2201904e-05
+Trim_Tech,3.200554e-05
+region_akron / canton,3.1213825e-05
+Trim_Preferred,3.1103427e-05
+Series_EXL/EXL-NAVI/EXL-RES,3.0559644e-05
+Model_350Z,3.0502399e-05
+Series_A4 quattro premium plus,3.0212092e-05
+Trim_Grade SV,2.9913848e-05
+Series_MCL10L,2.9370987e-05
+Series_EX,2.9333813e-05
+Model_GMT-400,2.8479382e-05
+Series_Standard / Turbo / R-Spec / Rally Edition,2.8025877e-05
+Trim_2500 LTZ,2.7897111e-05
+"Trim_Latitude (US-Mex.), North(Can)",2.7573573e-05
+Trim_Limited Edition,2.7400121e-05
+Series_ACA33L/ACA38L/GSA33L/GSA38L,2.7205324e-05
+region_salem,2.720007e-05
+Trim_Grade S,2.7073173e-05
+Trim_SR5 V6,2.6709586e-05
+Series_GL(BASE),2.6692933e-05
+Model_Eclipse Cross,2.6686042e-05
+Trim_Cargo,2.6167523e-05
+region_yuba-sutter,2.597079e-05
+Series_AWD,2.5586121e-05
+Model_Niro,2.5497686e-05
+Series_MCL20L/MCL23L/MC25L,2.505793e-05
+Model_Expedition EL,2.5001664e-05
+Series2_ZRE212L-AEXLPA,2.4569736e-05
+Series_JS,2.4105135e-05
+Trim_X1 xDrive28i,2.3771228e-05
+Series_GLA250-4M,2.3648034e-05
+Model_Beetle,2.3637705e-05
+Trim_N Grade,2.3115435e-05
+Trim_Grade SR,2.3010592e-05
+Series_GLS(PLUS),2.295642e-05
+Series_1500/2500/3500,2.2722657e-05
+region_dayton / springfield,2.1446762e-05
+paint_color_orange,2.1403084e-05
+Trim_GL (Middle-Low Grade),2.0838868e-05
+Series_Premium,2.0645057e-05
+Trim_Ltd/SR5/SR5 Premium/TRD Off Road/TRD Off Road Premium/TRD Pro,2.0349422e-05
+Trim_Sports,1.9951232e-05
+region_fredericksburg,1.9517824e-05
+"Series_LX, S",1.9411938e-05
+Trim_460 Base,1.9384293e-05
+Series2_YD (4DR/5DR),1.8996614e-05
+Series_Premium Luxury,1.8240891e-05
+Model_Camry Solara,1.8002402e-05
+Trim_200t (Luxury grade),1.7866041e-05
+Series_GSE20L/GSE21L/GSE25L,1.7430853e-05
+Model_Expedition MAX,1.7285682e-05
+Trim_430i xDrive GC,1.706428e-05
+Series_Light Duty,1.7062142e-05
+Series_Premium Quattro,1.6734135e-05
+region_south bend / michiana,1.6482465e-05
+region_winchester,1.6068165e-05
+"Trim_Base, AWD Base",1.581389e-05
+Series_GL - Middle-low,1.562772e-05
+Series2_TF F/L,1.554063e-05
+Series_SE FWD,1.5062694e-05
+Series_STELVIO Q4,1.4992535e-05
+Trim_Touring/GS,1.486645e-05
+Model_Yukon XL,1.4767367e-05
+Series_Cooper S ALL4,1.4666921e-05
+Series_EXL/EXL-N/EXL-R,1.4587783e-05
+Model_Caravan/Grand Caravan,1.4539726e-05
+Trim_Limited + M/R + ES + NAVI,1.4150809e-05
+Series_XLS,1.3295422e-05
+Series_Q5 quattro Premium Plus,1.3058528e-05
+Trim2_STD,1.2603408e-05
+Series_SLE,1.2306925e-05
+Model_Q3,1.1677988e-05
+region_louisville,1.1522634e-05
+Series_ZRE212L,1.1301289e-05
+Trim_250C,1.1298231e-05
+Series_3.8 Base / 3.8 Premium / 3.8 Ultimate /3.3T Sport/ 5.0 Ultimate,1.1260623e-05
+Trim_JFa,1.1165535e-05
+Trim_TECH V6,1.0845253e-05
+Trim_Grade SL,1.0187549e-05
+Series_MK49,1.0008363e-05
+Series_AGZ10L/AGZ15L/AYZ15L,9.548667e-06
+Series_GYL25L/GGL25L/GGL20L/GYL26L/GGL21L/GGL26L,9.36922e-06
+Series_2500 Cargo,9.022607e-06
+Trim_450h,8.335142e-06
+Model_Galant,8.333385e-06
+Series_SE and SEL,8.194333e-06
+Series_E300-4M,7.910377e-06
+Model_Crossfire,7.807062e-06
+Series_2.0T Premium Plus,7.603661e-06
+Series_ZZE130L,7.595362e-06
+Trim_XLE,7.5627527e-06
+Trim_200h,7.3712276e-06
+Series_WD,7.2169314e-06
+Model_Avenger,7.1469963e-06
+Trim_430,7.139704e-06
+Series_MCU10L/MCU15L,6.815815e-06
+Trim2_M Grade,6.780273e-06
+Series_USE20L,6.6388516e-06
+Trim_Eddie Bauer,6.5177724e-06
+Trim2_Premium/Sport Activity (SAV),6.5016934e-06
+Series_SLE 1 FWD,6.417132e-06
+Trim_Premium+ES,5.740384e-06
+Series_Base / LX,5.6026806e-06
+Series_MCV30L,5.02602e-06
+Series_A4  premium,5.025218e-06
+Series_Base/Style/Tech/Touch & Go,4.890496e-06
+Trim_BASE,4.803305e-06
+Series_SE Base,4.3873038e-06
+Series_NCP91L / NCP93L,4.101898e-06
+Model_Eclipse,4.006956e-06
+Series2_200h,3.9998813e-06
+Model_Q7,3.6045467e-06
+Model_530i,3.4130405e-06
+Series2_VG,3.3492358e-06
+Series_BASE SPORT Q4,3.1196275e-06
+Trim_400h,2.85539e-06
+Series_XLT/ KING RANCH,2.7412823e-06
+Model_Bonneville,2.7296849e-06
+Trim_Premium Plus quattro,2.2203435e-06
+Series_ZVW30L,1.9428019e-06
+"Trim_LE,CE",1.3800773e-06
+Series_NCP31L,1.1541772e-06
+Trim_NORMAL,1.0760432e-06
+Series_Sport Popular / Sport Leather / Sport Tech / Sport Turbo / Sport Turbo leather,3.2142623e-07
+Series_4-Motion,2.838222e-07
+"Series_FE (HEV), LX (HEV)",2.4594945e-07
+Series_MHU33L/MHU38L,1.2689526e-07
+Series2_PS,7.638155e-08
+Series_Q7 3.0T quattro Premium Plus,0.0
+Model_M550i,0.0
+Series_Premium Quattro/ 4.2 Prestige,0.0
+"Series_Q7 quattro 2.0T (Premium Plus, SE Premium Plus)",0.0
+"Series_POPULAR, Premium, TECH, 2.0T, Limited, Ultimate",0.0
+Series_Q7 3.0Tquattro Prestige,0.0
+Series_Premium Plus w/S-Line Pkg.,0.0
+Series_Premium Plus quattro,0.0
+Series_Q7 3.0T quattro Premium,0.0
+Series_Q7 2.0T quattro Premium Plus,0.0
+Series_RESERVE HEV,0.0
+Model_M45,0.0
+Series_Q5 quattro Prestige,0.0
+Series_Premium Plus,0.0
+Series_Pathfinder,0.0
+Series_Q7 2.0T quattro Premium,0.0
+Series_Prestige,0.0
+Series_RM,0.0
+Series_PLUG-IN HYBRID PHEV,0.0
+Series_PHEV,0.0
+Series_PHEV EX,0.0
+Series_Q3 Premium Plus / Q3 Sport Premium Plus,0.0
+Series_Q3 Premium / Q3 Sport Premium,0.0
+Series_Q3 quattro Premium / Q3 quattro Sport Premium,0.0
+Series_Q3 quattro Premium Plus / Q3 quattro Sport Premium Plus,0.0
+Series_PL,0.0
+Series_Q3 quattro Prestige S line,0.0
+Series_PLUS,0.0
+Series_Prestige Quattro,0.0
+Series_Q4,0.0
+Series_PM,0.0
+Series_Prmr,0.0
+Series_Q5 e(Plug-in hybrid) quattro Premium,0.0
+Series_POLICE RESPONDER,0.0
+Series_Prestige w/S-Line Pkg.,0.0
+Series_Prestige quattro w/ S-Line Pkg,0.0
+Model_M3Ci,0.0
+Series_Premium Package,0.0
+Series_Platinum,0.0
+"Series_Q7 quattro 2.0T (Premium, SE Premium)",0.0
+Series_Premier FWD,0.0
+Series_Q8 quattro 3.0T Prestige,0.0
+Series_Q8 quattro 3.0T Prestige S line,0.0
+Series_QL,0.0
+Series_Quadrifoglio,0.0
+Series_Preferred II FWD,0.0
+Series_R-Dynamic SE,0.0
+Series_Premier,0.0
+Series_Premier AWD,0.0
+Series_Premier HEV,0.0
+Series_Premium Luxury w/driver assist pkg.,0.0
+Series_Q3 quattro Premium,0.0
+Series_R-Line,0.0
+Series_Premium (Base),0.0
+Series_Premier w/Low Emissions Package,0.0
+Series_R/T SCAT PACK,0.0
+Series_R-Line w/Comfort Pkg.,0.0
+Series_R/T,0.0
+Series_Premier w/Standard Emissions,0.0
+Series_Preferred,0.0
+Series_PreRunner,0.0
+Series_Power Wagon,0.0
+Series_Pop,0.0
+Series_R-Sport,0.0
+Series_Platinum - 4WD,0.0
+"Series_Q7 quattro 3.0T (Premium Plus, SE Premium Plus)",0.0
+Series_Premium Luxury FWD,0.0
+Series_R500,0.0
+Series_Q8 quattro 3.0T Premium,0.0
+Series_Premium Luxury AWD,0.0
+Series_Premium Luxury 4WD,0.0
+Series_R350,0.0
+Series_R320,0.0
+Series_Platinum AWD,0.0
+Series_Plug-in Hybrid,0.0
+Series_Plug-in Hybrid (base PHEV),0.0
+Series_Plug-in Hybrid EX,0.0
+Series_Plug-in Hybrid Limited,0.0
+Series_Q8 quattro 3.0T Premium Plus,0.0
+Series_Plus,0.0
+Model_del Sol,0.0
+Series_S90,0.0
+Series_RS/RG,0.0
+Series_SLE 1,0.0
+Series_SES / SE SVG,0.0
+Series_SH-E-AWD,0.0
+Series_SHO AWD,0.0
+Series_SI,0.0
+Series_SL,0.0
+Series_SL320,0.0
+Series_SL400,0.0
+Series_SL55,0.0
+Model_LeBaron,0.0
+Series_SL63,0.0
+Series_SLC 300,0.0
+Series_SLE 1 (AWD),0.0
+Series_SLK230,0.0
+Series_SLE 1 AWD,0.0
+Series_SLE 2,0.0
+Series_SLE 2 (AWD),0.0
+Series_SLE 2 (FWD),0.0
+Series_SLE 2 AWD,0.0
+Series_SLE 2 FWD,0.0
+Series_SLE AWD,0.0
+Series_SLE FWD,0.0
+Series_SLE1 AWD,0.0
+Series_SLE1 FWD,0.0
+Series_SLE2 AWD,0.0
+Series_SES - 4WD,0.0
+"Series_SES , Sport",0.0
+Series_SES,0.0
+Series_SEL/TDI,0.0
+Series_SEL (HEV),0.0
+Series_SEL / SE Comfort / SE Comfort Wagon,0.0
+Model_LeSabre,0.0
+Series_SEL 4Motion,0.0
+Series_SEL AWD,0.0
+Series_SEL FWD,0.0
+Series_SEL Hybrid,0.0
+Series_SEL Limited,0.0
+Series_SEL Plus,0.0
+Series_SEL Premium,0.0
+"Series_SEL Premium, Premium w/ CWP",0.0
+Series_SEL Tech Pkg,0.0
+Series_SEL Value Edition Limited,0.0
+Series_SEL w/ Convenience Pkg,0.0
+Series_SEL w/ R-Line,0.0
+Series_SEL with Tech Pkg,0.0
+"Series_SEL, Denim",0.0
+"Series_SEL, SEL Plus",0.0
+"Series_SEL, SEL Premium",0.0
+"Series_SEL, SEL w/ Tech, Limited, Limited w/ Ultimate, Sport ,Sport 2.0T, Limited 2.0T",0.0
+"Series_SEL, SEL w/Tech (HEV)",0.0
+"Series_SEL, Sport, Limited, Limited Turbo",0.0
+"Series_SEL, Value Edition & Limited",0.0
+Series_SLE2 FWD,0.0
+Series_SLK250,0.0
+Series_SE1,0.0
+Series_STi,0.0
+Series_SQ5 quattro Premium Plus,0.0
+Series_SQ5 quattro Prestige,0.0
+Series_SR5,0.0
+Series_SRT,0.0
+Series_SRT HELLCAT,0.0
+Series_SRT HELLCAT REDEYE,0.0
+Series_SRV,0.0
+Series_SRV Vehicle,0.0
+Series_SSE,0.0
+Series_STD,0.0
+"Series_STD, Style, Tech",0.0
+Series_SUS (sedan),0.0
+Series_SLK280,0.0
+Model_LW300,0.0
+Series_SX Turbo,0.0
+"Series_SX, SX Limited",0.0
+"Series_SX, SXL",0.0
+Series_SXA16L/SXA11L/SXA15L/SXA10L,0.0
+Series_SXA16L/SXA11L/SXA15L/SXA10L/BEA11L,0.0
+Model_LW2,0.0
+Series_SXV20L/MCV20L,0.0
+Series_Sahara,0.0
+Series_Satellite Blue,0.0
+Model_LTD,0.0
+Series_SQ5 Prestige,0.0
+Series_SQ5 Premium Plus,0.0
+Series_SPORTS COUPE,0.0
+Series_SPORTS,0.0
+Series_SLK300,0.0
+Series_SLK320,0.0
+Series_SLK32K,0.0
+Series_SLK350,0.0
+Series_SLK55,0.0
+Model_Lancer SportBack,0.0
+Series_SLT (AWD),0.0
+Series_SLT (FWD),0.0
+Series_SLT 1,0.0
+Series_SLT 1 AWD,0.0
+Series_SLT 1 FWD,0.0
+Series_SLT 2,0.0
+Series_SLT 2 AWD,0.0
+Series_SLT 2 FWD,0.0
+Series_SLT AWD,0.0
+Series_SLT AWD Diesel,0.0
+Series_SLT Diesel,0.0
+Series_SLT1 FWD,0.0
+Series_SLT2 AWD,0.0
+Series_SLT2 FWD,0.0
+Series_SLk350,0.0
+Series_SM,0.0
+Series_SPECIAL,0.0
+Series_SE7,0.0
+Series_SE/SEL/SES,0.0
+Series_RS5 quattro,0.0
+"Series_S, SE, SEL",0.0
+Series_S 560-4M,0.0
+Series_S and MC,0.0
+"Series_S, Classic, Pink/SE, SEL",0.0
+"Series_S, Coast",0.0
+"Series_S, Final Edition SE, Final Edition SEL",0.0
+"Series_S, Final Edition SE, Final Edition SEL, SE",0.0
+"Series_S, R-Line",0.0
+"Series_S, Rabbit Edition, SE, Autobahn",0.0
+"Series_S, SE",0.0
+"Series_S, SE, Autobahn",0.0
+"Series_S, SE, Coast",0.0
+"Series_S, SE, SEL, Limited Ed. / TDI S, SE, SEL",0.0
+Series_S350 Turbodiesel,0.0
+"Series_S, Sunroof Package, S Premium Package",0.0
+"Series_S, Wolfsburg",0.0
+"Series_S, Wolfsburg, SE, SEL",0.0
+Series_S-Line,0.0
+Series_S/GT Line,0.0
+Series_S/R-Line,0.0
+Series_S/SE,0.0
+Series_S3 Quattro Premium Plus,0.0
+Series_S3 Quattro Prestige,0.0
+Series_S3 quattro Premium Plus,0.0
+Series_S320,0.0
+Series_S 560,0.0
+Series_S 55,0.0
+Series_S 4Motion,0.0
+Series_S 450-4M,0.0
+Series_RU,0.0
+Series_RWD,0.0
+Series_RWD V6,0.0
+Series_RZN140L,0.0
+Series_RZN150L/VZN150L,0.0
+Series_RZN161L/VZN160L,0.0
+Model_M35h,0.0
+Model_M35,0.0
+Model_M340i,0.0
+Series_Rebel,0.0
+Model_M240i,0.0
+Model_M235i,0.0
+Series_Reserve HEV,0.0
+Series_Reserve I HEV,0.0
+Series_Reserve II HEV,0.0
+Series_Roadster,0.0
+Series_Rsv,0.0
+Model_Lumina,0.0
+"Series_S (2WD), 4S (4WD)",0.0
+Series_S (Sport),0.0
+Series_S - 4WD,0.0
+"Series_S 4 Motion, Limited 4Motion",0.0
+Series_S 450,0.0
+Series_S350,0.0
+Series_S4 quattro Premium Plus,0.0
+"Series_SE, SEL, SEL R-Line, SEL R-Line Jet-Black",0.0
+Series_SE PHEV,0.0
+Series_SE (US),0.0
+Series_SE (no options),0.0
+Series_SE - 4WD,0.0
+Series_SE / SE NAVI / Limited / Limited NAVI,0.0
+Series_SE / SE w/Popular Pkg / Eco / Eco w/Tech Pkg,0.0
+Series_SE / SE-2 Valve,0.0
+Series_SE / Value Edition / Sport / Limited,0.0
+Series_SE / Value Edition/ Limited,0.0
+Series_SE AWD,0.0
+Series_SE FHEV,0.0
+Model_Legend,0.0
+"Series_SE Pop, SE Plus, Eco, Sport, Value, Ultimate Base/Ultimate",0.0
+Series_S4 quattro Prestige,0.0
+Series_SE Premium pkg,0.0
+Series_SE R-Line,0.0
+Series_SE Standard,0.0
+Series_SE w/Dual Airbags,0.0
+Series_SE w/Dual air bags,0.0
+Series_SE w/Sunroof Pkg.,0.0
+Series_SE w/Tech,0.0
+Series_SE w/Technology,0.0
+"Series_SE, ECO",0.0
+"Series_SE, SE w/ Technology",0.0
+"Series_SE, SEL 4Motion",0.0
+"Series_SE (Popular Equipment Pkg.), Eco, Sport, Limited, Night",0.0
+"Series_SE (C,M,B)",0.0
+Model_Levante,0.0
+Series_S8 plus 4.0T quattro,0.0
+Series_S430,0.0
+Series_S5 Premium Plus quattro,0.0
+Series_S5 Prestige quattro,0.0
+Series_S5 quattro,0.0
+Series_S5 quattro Premium Plus,0.0
+Series_S5 quattro Premium plus,0.0
+Series_S5 quattro Prestige,0.0
+Series_S5 quattro prestige,0.0
+Series_S500,0.0
+Series_S500 4MATIC,0.0
+Series_S500e,0.0
+Model_Lucerne,0.0
+Series_S550-4M,0.0
+Series_S550V,0.0
+Series_S550e,0.0
+Series_S55K,0.0
+Series_S6 w/innovation Pkg.,0.0
+Series_S60/S60I,0.0
+Series_S60I,0.0
+Series_S63,0.0
+Series_S63 AMG,0.0
+Series_S63-4M,0.0
+Series_S7 4.0T quattro Prestige,0.0
+Series_PF,0.0
+Series_LX Honda Sensing,0.0
+Series_P (Premium),0.0
+Series_GLE400,0.0
+Series_GL550,0.0
+Series_GL550-4M,0.0
+Series_GL63 AMG,0.0
+Series_GLA45 AMG,0.0
+Series_GLB250,0.0
+Series_GLB250-4M,0.0
+Series_GLC 300-4M,0.0
+Series_GLC300-4M,0.0
+Series_GLE 63 AMG,0.0
+Series_GLE300d,0.0
+Series_GLE350-4M,0.0
+Series_GLE450,0.0
+Series_GL350-4M,0.0
+Series_GLE450-4M,0.0
+Series_GLE550e-4M,0.0
+Series_GLE63 S AMG,0.0
+Series_GLI,0.0
+Model_Passport,0.0
+Series_GLI with Package 1,0.0
+Series_GLK250,0.0
+Series_GLK250 BLUETEC,0.0
+Series_GLS,0.0
+Series_GLS (Middle Grade),0.0
+Series_GLS (Middle Level),0.0
+Series_GL450-4M,0.0
+Series_GL350 BLUETEC,0.0
+Series_GLS (Middle),0.0
+Series_GIULIA (BASE),0.0
+"Series_Fleet Edition, S/Classic, Pink",0.0
+Series_Formula,0.0
+Series_Formula & Convertible,0.0
+Series_Full Size 3/4 ton,0.0
+Series_G63,0.0
+Series_GGL20L,0.0
+Series_GGL25L/GYL25L,0.0
+Series_GGL26L(3rd seat)/GYL26L(3rd seat),0.0
+Series_GH,0.0
+Model_Pickup,0.0
+Series_GIULIA,0.0
+Series_GK,0.0
+Series_GL350,0.0
+Model_Pick-Up,0.0
+Series_GL (Middle-Low Grade),0.0
+Series_GL (Middle-Low),0.0
+Series_GL (Middle-low Level),0.0
+Series_GL - Middle Low Grade,0.0
+Series_GL 350,0.0
+Series_GL 550,0.0
+Series_GL Wagon,0.0
+Series_GL(Middle-Low),0.0
+Series_GL(Middle-low ),0.0
+Series_GL(Middle-low),0.0
+Series_GLS (Middle grade),0.0
+Series_GLS - Middle level,0.0
+Series_GSX40L / AVX40L,0.0
+Series_GSE20L/GSE21L,0.0
+Series_GRN270L,0.0
+Series_GRN280L / GRN285L,0.0
+Model_Palisade,0.0
+Model_Paceman,0.0
+Series_GRN310L,0.0
+Model_Outlook,0.0
+Series_GRN330L,0.0
+Series_GS,0.0
+Series_GS AWD,0.0
+Series_GSC10L/GSC15L/ASC10L/GSC16L,0.0
+Series_GSE20L/25L/21L,0.0
+Series_GSE31L,0.0
+Model_Parisienne,0.0
+Model_Optra,0.0
+Series_GSK30L/UCK30L/UCK31L,0.0
+Model_Nitro,0.0
+Series_GSL20/GSL23/GSL25,0.0
+Model_New Yorker,0.0
+Model_Neon,0.0
+Model_Navigator,0.0
+Model_NV200,0.0
+Series_GSU70L/AXUH70L,0.0
+Series_GSU75L,0.0
+Series_GSV60L/AVV60L,0.0
+Series_GRN265L,0.0
+Series_GRN245L,0.0
+Series_GLS / GLI,0.0
+"Series_GLS, JSL",0.0
+Series_GLS / GLI 1.8T,0.0
+Series_GLS / JSL / TAX (Middle level),0.0
+Series_GLS / Limited / Limited Premium,0.0
+Series_GLS 4Motion,0.0
+Series_GLS 4Motion Wagon,0.0
+Series_GLS Premium/ SE,0.0
+Series_GLS Wagon,0.0
+"Series_GLS(1.6 STD, STyle, Tech /1.6T)",0.0
+"Series_GLS(3.8 STD,Premium)",0.0
+"Series_GLS(STD, Tech)",0.0
+"Series_GLS, GS",0.0
+"Series_GLS, JSL, TAX",0.0
+Model_Park Avenue,0.0
+"Series_GLS, JSL, TAX - Middle Level",0.0
+Series_GLS- Middle grade,0.0
+Series_GLS/ GLS Popular,0.0
+Series_GLS450-4M,0.0
+Series_GLS550-4M,0.0
+Series_GLX,0.0
+Series_GLX 4Motion,0.0
+Series_GLX 4Motion Wagon,0.0
+Series_GLX Wagon,0.0
+Series_GRL12L,0.0
+Series_GRN210L,0.0
+Series_Fleet,0.0
+Series_First Edition,0.0
+Series_Feature Specification 2,0.0
+Series_ESV Luxury 4WD,0.0
+Series_EL-XLT,0.0
+Series_EL53L,0.0
+Series_ELITE,0.0
+Series_EN,0.0
+Series_EP,0.0
+Series_ES,0.0
+Series_ES/SE/LE/SP/SEL/Limited,0.0
+Series_ESV,0.0
+Series_ESV 4WD,0.0
+Series_ESV Luxury,0.0
+Series_ESV Luxury 2WD,0.0
+Series_ESV Platinum 4WD,0.0
+Series_ECONOMY,0.0
+Series_ESV Premium Luxury,0.0
+Series_ESV Premium Luxury 2WD,0.0
+Series_ESV Premium Luxury 4WD,0.0
+Series_EWB 1/2 ton,0.0
+"Series_EX (HEV), Touring S (HEV)",0.0
+Series_EX / SX,0.0
+Series_EX Honda Sensing,0.0
+"Series_EX PREM, SX",0.0
+Series_EX Premium (PHEV),0.0
+Series_EX SENSING,0.0
+Series_EX V-6 w/Lea,0.0
+Series_EL-Eddie Bauer,0.0
+Series_E63-4M,0.0
+Series_FZJ80L,0.0
+Series_E350 4 MATIC,0.0
+Series_Denali FWD,0.0
+Series_Diesel,0.0
+Series_Diesel Special Ed.,0.0
+Series_Diesel Special Ed. w/sunroof,0.0
+Series_Dual Rear Wheels,0.0
+Series_Dune,0.0
+Series_E 400,0.0
+Series_E 400-4M,0.0
+Series_E250,0.0
+Series_E320 CDI (W),0.0
+Series_E320W,0.0
+Series_E350-4M,0.0
+Series_E63 AMG-S,0.0
+Series_E400,0.0
+Series_E400-4M,0.0
+Series_E420,0.0
+Series_E430,0.0
+Series_E450,0.0
+Series_E450-4M,0.0
+Series_E500,0.0
+Series_E500 4-MATIC,0.0
+Series_E55,0.0
+Model_Prius Prime,0.0
+Series_E63,0.0
+Series_EX V6,0.0
+"Series_EX, EX Sport",0.0
+"Series_EX, EX Technology Package",0.0
+Model_Prelude,0.0
+Series_Essence,0.0
+Series_Essence AWD,0.0
+Series_Essence FWD,0.0
+Series_Estate,0.0
+Series_Executive,0.0
+Series_Executive LWB (Livery),0.0
+Series_Executive or Signature,0.0
+Series_Ext W/B,0.0
+Series_Ext. W/B,0.0
+Model_Previa,0.0
+Series_F-Series Super Duty - Dual Rear Wheel,0.0
+Series_F/L,0.0
+"Series_EX, EX-N",0.0
+Series_F/T SCAT PACK,0.0
+"Series_FE, LXS",0.0
+Series_FE/LX/LXS,0.0
+Series_FE/SEL/GT/LE/SE,0.0
+Series_FWD,0.0
+Series_FWD Avenir,0.0
+Series_FWD Essence,0.0
+Series_FWD MKZ,0.0
+Series_FWD MKZ Reserve I,0.0
+Series_FWD/AWD (T8),0.0
+Series_FWD/eAWD (T8),0.0
+Series_Elite,0.0
+Series_Elantra GT Sport,0.0
+Series_Elantra GT N Line,0.0
+Series_Elantra GT,0.0
+Series_EX-L / EX-L NAVI,0.0
+Series_EX-L NAVI,0.0
+Series_EX-L V6,0.0
+Series_EX-L V6 NAVI,0.0
+Series_EX-L with RES,0.0
+Series_EX-L-V6,0.0
+Series_EX-LN,0.0
+Series_EX-NAVI,0.0
+Series_EX-T,0.0
+Series_EX-TL,0.0
+Series_EX/EX-L/EX-L with NAVI,0.0
+Series_EX/SX,0.0
+Series_EXCLAIM,0.0
+Series_EXL,0.0
+Series_EXL SENSING,0.0
+Series_EXL-N,0.0
+Series_EXL-NR,0.0
+Series_EXL-R,0.0
+Series_EXL/ EXL-NAVI/ EXL-RES,0.0
+"Series_Eco Turbo, SE",0.0
+Series_EcoBoost AWD,0.0
+Series_Economy APV,0.0
+Series_Eddie Bauer,0.0
+Model_Mountaineer,0.0
+Series_GSX40L/AVX40L,0.0
+Series_Overland,0.0
+Series_Luxury (DHS),0.0
+Series_Limited w/Ultimate (HEV),0.0
+"Series_Limited, Limited w/Ultimate (PHEV)",0.0
+"Series_Limited, Ultimate",0.0
+Series_Limited/Limited w/Ultimate,0.0
+Series_Linear,0.0
+Series_Livery,0.0
+Series_Livery FWD (W20),0.0
+Model_Magnum,0.0
+"Series_Longitude (B), North (Can), Latitude (M, U)",0.0
+Series_Low,0.0
+Series_Luxury,0.0
+Series_Luxury 2WD,0.0
+Series_Limited FWD,0.0
+Series_Luxury 4WD,0.0
+Series_Luxury APV w/ Extended wheel base,0.0
+Series_Luxury AWD,0.0
+Series_Luxury Collection,0.0
+Series_Luxury Collection (w Adaptive Cruise Control),0.0
+Series_Luxury Collection (w/Premium Seat & Adaptive Cruise Control) w/T-ZEV emissions,0.0
+Series_Luxury Ext W/B,0.0
+Series_Luxury Trim,0.0
+"Series_Luxury, Technology, Limited",0.0
+Series_M,0.0
+Series_M156,0.0
+Series_Limited w/ Ultimate (HEV),0.0
+Series_Limited AWD,0.0
+Series_M161,0.0
+Series_LX/LX V-6,0.0
+Series_LX A/T Power Pkg,0.0
+Series_LX Base,0.0
+Series_Sedan Level 1,0.0
+"Series_LX Pop,S,EX",0.0
+"Series_LX Popular, S",0.0
+Series_LX Premium,0.0
+Series_LX w/ABS/LX V-6 w/ABS,0.0
+Model_Mark,0.0
+Series_LX-Honda Sensing,0.0
+Series_LX-P,0.0
+Series_LX-S,0.0
+Series_LXI,0.0
+"Series_Limited (US, Can), 300C (Mex)",0.0
+Series_LXS,0.0
+Model_Mariner,0.0
+Model_Malibu Limited,0.0
+"Series_Latitude (US), Longitude (Bux), North (Can)",0.0
+"Series_Latitude(US,Mex), Longitude(BUX), North(Can)",0.0
+Series_Leather Group (1SL),0.0
+Series_Level 2 Sedan Man (RF2),0.0
+Series_Level II,0.0
+Model_Malibu Classic,0.0
+Series_Limited (HEV),0.0
+"Series_Limited (PHEV), Limited w/ Tech (PHEV)",0.0
+Model_MPV,0.0
+Series_M235i,0.0
+Series_GSX50L/AXXH50L,0.0
+Series_NCP131L,0.0
+Series_MZAA10L/MZAH10L/MZAH15L,0.0
+Series_MZEA12L,0.0
+Series_MZEA12L-DEXSBA,0.0
+Model_M6,0.0
+Series_Middle level,0.0
+Series_Middle-low level,0.0
+Series_Milan,0.0
+Series_Mojave,0.0
+Series_Monocoque Chassis - Double Cab,0.0
+Series_Monocoque Double Cab,0.0
+Series_NCP12L,0.0
+Series_NCP61L,0.0
+Series_MV,0.0
+Series_NCP91L/NCP93L,0.0
+Model_M56,0.0
+Series_NFA,0.0
+Series_NGJ10L,0.0
+Series_NHW11L,0.0
+Series_NM,0.0
+Series_NYC Taxi,0.0
+Series_New,0.0
+Series_Off Road Truck Crew Cab,0.0
+Series_Open Body/Convertible,0.0
+Series_Outback,0.0
+Series_MV Weekender,0.0
+Series_MR2,0.0
+Series_MC,0.0
+Series_MCX10L,0.0
+Series_MCL20L/MCL23L/MCL25L,0.0
+Series_MCU20L,0.0
+Series_MCU20L/MCU25L/ACU20L/ACU25L,0.0
+Series_MCU33L / MCU38L,0.0
+Model_MKX,0.0
+Series_MCV10L/SXV10L,0.0
+Series_MCV20L,0.0
+Series_MCV20L/SXV20L,0.0
+Series_MCV20L/SXV20L/SXV23L,0.0
+Series_MCV30L/ACV30L,0.0
+Series_MCV31L,0.0
+Series_MCX20L,0.0
+Series_ML63,0.0
+Series_MG,0.0
+Series_MHU23L/MHU28L,0.0
+Series_MK,0.0
+Model_MKT,0.0
+Series_MKT,0.0
+Series_ML320,0.0
+Series_ML400,0.0
+Series_ML430,0.0
+Series_ML500,0.0
+Series_ML550,0.0
+Series_ML550  4-M,0.0
+Series_LX (PHEV),0.0
+Model_Mark LT,0.0
+Series_LUXURY SEDAN,0.0
+Series_Hatchback Tall,0.0
+Series_HEV Blue,0.0
+Series_HF,0.0
+Series_HG,0.0
+Series_HGS,0.0
+Series_HGS(Top),0.0
+Series_HIGH,0.0
+Series_HSE,0.0
+Series_HSE Dynamic,0.0
+Series_HSE LUX,0.0
+Series_HST,0.0
+Series_Hatchback,0.0
+Series_Hatchback/Notchback,0.0
+Series_HD,0.0
+Model_Monte Carlo,0.0
+Series_High,0.0
+Series_High Feature V6,0.0
+Series_High Roof 136 WB,0.0
+Series_High Roof 159 WB Cargo Van,0.0
+Series_High Roof 159 WB EXT Cargo Van,0.0
+Series_Highline,0.0
+Series_Hybrid,0.0
+Series_Hybrid / Hybrid Limited,0.0
+Series_Hybrid Base,0.0
+Series_Hybrid EX,0.0
+Series_HEV,0.0
+Series_HB,0.0
+Series_LT w/Standard Emissions,0.0
+Series_GTI,0.0
+Model_Montero Sport,0.0
+"Series_GT (US), GT FWD (Can)",0.0
+"Series_GT (US), GT Rallye (Can)",0.0
+Series_GT (US)/GT Rallye (Can),0.0
+Series_GT Convertible,0.0
+Model_Montero,0.0
+Series_GT Line,0.0
+Series_GT-Line,0.0
+Series_GT-Line Turbo,0.0
+Series_GT-S,0.0
+Series_GT2,0.0
+Series_GTP,0.0
+Series_H (High Line),0.0
+Series_GTS,0.0
+Series_GVF50L /GVF55L/ VXFA50L /VXFA55L,0.0
+Model_Monterey,0.0
+Series_GWS191L,0.0
+Series_GX,0.0
+Series_GXP,0.0
+Model_Montego,0.0
+Series_Giulia,0.0
+Series_Grand Touring,0.0
+Series_Grand Touring/GT,0.0
+Series_Graphite Edition (HEV),0.0
+Series_Hybrid EX-L,0.0
+Series_Hybrid EXL,0.0
+Series_Hybrid Limited,0.0
+Series_L 3.0T quattro,0.0
+Series_KA,0.0
+Model_Military Truck,0.0
+Model_Milan,0.0
+Model_Metro,0.0
+Series_KM,0.0
+Series_KM Project,0.0
+Series_King Ranch,0.0
+Series_Komfort,0.0
+Series_Komfort / Sport,0.0
+Model_Metris,0.0
+Series_L / LX,0.0
+Series_L quattro,0.0
+Series_Hybrid NAVI,0.0
+Series_L quattro Sport,0.0
+"Series_L, LX",0.0
+Series_LAND CRUISER,0.0
+Model_Mazda5,0.0
+Series_LD Project,0.0
+Series_LE,0.0
+Series_LH,0.0
+Series_LIMITED,0.0
+Series_LS,0.0
+Series_LS Premium,0.0
+Series_LT,0.0
+Series_Jetta/S,0.0
+Series_JZZ31L,0.0
+Series_JZS160L/UZS161L,0.0
+Series_JZS160L,0.0
+Series_Hybrid SEL Premium,0.0
+Series_Hybrid Touring,0.0
+Series_Hybrid Touring Plus,0.0
+Series_Hybrid-L,0.0
+Series_Hybrid.,0.0
+Series_Hybrid/ Hybrid Limited,0.0
+Series_I/LOW,0.0
+Series_I/Low,0.0
+Model_Montana SV6,0.0
+Model_Montana,0.0
+Series_Inscription AWD,0.0
+Series_JA,0.0
+Series_JA/JX,0.0
+Series_JB,0.0
+Model_Mirage,0.0
+Series_JCE10/JCE10L,0.0
+Series_JCE10L,0.0
+Series_JCW,0.0
+Series_JCW ALL4,0.0
+Model_Millenia,0.0
+Series_JM,0.0
+Series_JR,0.0
+Series_JR/PL,0.0
+Series_Sedan,0.0
+Series_USC10L,0.0
+Series_Sedan Level 2,0.0
+region_kansas city,0.0
+region_kenosha-racine,0.0
+region_killeen / temple / ft hood,0.0
+region_kirksville,0.0
+region_klamath falls,0.0
+region_kokomo,0.0
+region_la crosse,0.0
+region_la salle co,0.0
+region_lafayette,0.0
+region_lake charles,0.0
+region_lake of the ozarks,0.0
+Model_Cooper Roadster,0.0
+region_lancaster,0.0
+Model_Cooper Coupe,0.0
+region_las cruces,0.0
+Model_Cooper Convertible,0.0
+region_lawrence,0.0
+region_lawton,0.0
+region_lehigh valley,0.0
+Model_Cooper,0.0
+region_lincoln,0.0
+region_little rock,0.0
+region_logan,0.0
+Model_Contour,0.0
+region_lubbock,0.0
+region_lynchburg,0.0
+region_kenai peninsula,0.0
+Model_Corolla Matrix,0.0
+Model_Cutlass Calais,0.0
+region_joplin,0.0
+region_hanford-corcoran,0.0
+region_harrisburg,0.0
+region_harrisonburg,0.0
+Model_Cube,0.0
+region_hattiesburg,0.0
+region_heartland florida,0.0
+region_helena,0.0
+region_hickory / lenoir,0.0
+region_high rockies,0.0
+region_hilton head,0.0
+region_holland,0.0
+region_houma,0.0
+Model_Crosstour,0.0
+region_hudson valley,0.0
+region_humboldt county,0.0
+region_huntington-ashland,0.0
+region_imperial county,0.0
+Model_Cressida,0.0
+region_iowa city,0.0
+region_ithaca,0.0
+Model_Cougar,0.0
+Model_Corsair,0.0
+region_janesville,0.0
+region_jersey shore,0.0
+region_jonesboro,0.0
+region_macon / warner robins,0.0
+Model_Continental,0.0
+Model_Concorde,0.0
+region_manhattan,0.0
+region_northwest CT,0.0
+region_northwest GA,0.0
+region_northwest KS,0.0
+region_northwest OK,0.0
+region_odessa / midland,0.0
+region_ogden-clearfield,0.0
+region_okaloosa / walton,0.0
+Model_Celica,0.0
+Model_Cayman,0.0
+region_oneonta,0.0
+region_orlando,0.0
+region_outer banks,0.0
+region_owensboro,0.0
+region_panama city,0.0
+region_parkersburg-marietta,0.0
+region_peoria,0.0
+Model_Cavalier,0.0
+Model_Cascada,0.0
+region_pierre / central SD,0.0
+Model_Cargo Van,0.0
+region_plattsburgh-adirondacks,0.0
+region_poconos,0.0
+region_port huron,0.0
+region_potsdam-canton-massena,0.0
+region_provo / orem,0.0
+region_northern michigan,0.0
+region_northern WI,0.0
+region_northeast SD,0.0
+region_mohave county,0.0
+region_mankato,0.0
+region_mason city,0.0
+region_meadville,0.0
+Model_Commander,0.0
+region_memphis,0.0
+region_mendocino county,0.0
+Model_Comanche,0.0
+region_meridian,0.0
+Model_Cobalt,0.0
+Model_Clubman,0.0
+region_modesto,0.0
+region_monroe,0.0
+region_north platte,0.0
+region_montgomery,0.0
+region_morgantown,0.0
+region_muncie / anderson,0.0
+region_myrtle beach,0.0
+Model_Clarity,0.0
+Model_Civic Type R,0.0
+region_new river valley,0.0
+Model_Century,0.0
+region_north central FL,0.0
+region_north dakota,0.0
+region_north mississippi,0.0
+region_gulfport / biloxi,0.0
+Model_Cutlass Ciera,0.0
+Series2_TF HEV,0.0
+Series2_quattro Technik S-Line (Canada),0.0
+region_abilene,0.0
+Model_FX45,0.0
+Model_FX37,0.0
+region_amarillo,0.0
+region_annapolis,0.0
+Model_F-PACE,0.0
+region_asheville,0.0
+Model_F-150 Heritage,0.0
+region_augusta,0.0
+Model_Explorer Sport,0.0
+region_baton rouge,0.0
+region_beaumont / port arthur,0.0
+Model_Escort,0.0
+region_binghamton,0.0
+region_bismarck,0.0
+region_bloomington,0.0
+region_bloomington-normal,0.0
+region_bowling green,0.0
+region_brainerd,0.0
+region_brunswick,0.0
+region_butte,0.0
+region_cape cod / islands,0.0
+region_catskills,0.0
+region_cedar rapids,0.0
+Model_Equator,0.0
+Series2_wagon Body Type,0.0
+Series2_quattro Technik (Canada),0.0
+region_green bay,0.0
+Series2_quattro Progressiv (Canada),0.0
+Model_Forte Koup,0.0
+Series2_Type 95B,0.0
+Series2_Type 981,0.0
+Series2_Type 997,0.0
+Model_Forenza,0.0
+Series2_UB,0.0
+Series2_UD,0.0
+Series2_USC10L-FCZRHA,0.0
+Series2_VI,0.0
+Series2_Van,0.0
+Series2_Van body style,0.0
+Series2_Vl,0.0
+Model_Fleetwood,0.0
+Model_Five Hundred,0.0
+Series2_Wagon body Type,0.0
+Model_Fiero,0.0
+Model_FX50,0.0
+Series2_X Series,0.0
+Series2_YF HEV,0.0
+Series2_ZH - Family,0.0
+Series2_ZRE212L-AEXDBA,0.0
+Series2_ZRE212L-AEXXPA,0.0
+Series2_ZWE211L-AEXLBA,0.0
+Series2_new Passat,0.0
+Series2_quattro Komfort (Canada),0.0
+region_central louisiana,0.0
+Model_Eos,0.0
+region_champaign urbana,0.0
+region_charleston,0.0
+region_elko,0.0
+region_elmira-corning,0.0
+region_evansville,0.0
+region_fairbanks,0.0
+Model_ELR,0.0
+region_farmington,0.0
+Model_E-PACE,0.0
+region_flint,0.0
+region_florence,0.0
+region_florence / muscle shoals,0.0
+region_florida keys,0.0
+Model_E-250,0.0
+region_fort dodge,0.0
+region_fort smith,0.0
+Model_Diamante,0.0
+region_frederick,0.0
+Model_Deville,0.0
+Model_Dart,0.0
+region_gadsden-anniston,0.0
+region_galveston,0.0
+region_glens falls,0.0
+region_grand forks,0.0
+Model_D-Series,0.0
+Model_Cutlass Supreme,0.0
+region_great falls,0.0
+region_eastern shore,0.0
+region_eastern panhandle,0.0
+region_eastern montana,0.0
+Model_Elantra Touring,0.0
+region_chattanooga,0.0
+region_chautauqua,0.0
+Model_Entourage,0.0
+Model_Endeavor,0.0
+region_clarksville,0.0
+region_clovis / portales,0.0
+region_college station,0.0
+region_columbia / jeff city,0.0
+region_cookeville,0.0
+region_cumberland valley,0.0
+Model_Eldorado,0.0
+Model_Elantra GT,0.0
+region_eastern kentucky,0.0
+region_decatur,0.0
+region_deep east texas,0.0
+region_del rio / eagle pass,0.0
+region_delaware,0.0
+Model_El Camino,0.0
+region_dothan,0.0
+region_dubuque,0.0
+region_duluth / superior,0.0
+region_eastern CO,0.0
+region_eastern CT,0.0
+Model_Echo,0.0
+region_pueblo,0.0
+"region_quad cities, IA/IL",0.0
+region_raleigh / durham / CH,0.0
+Model_750i / B7,0.0
+Model_750i,0.0
+Model_750Lxi / ALPINA B7,0.0
+Model_750Lxi,0.0
+Model_750Li / ALPINA B7,0.0
+Model_750Li,0.0
+ForwardCollisionWarning_Not Available,0.0
+Model_745i,0.0
+Model_745Li,0.0
+Model_740iL,0.0
+Model_740e,0.0
+Model_740Li,0.0
+Model_740 Series,0.0
+Model_718 Cayman,0.0
+Model_718 Boxster,0.0
+Model_650xi,0.0
+Model_650i / B6,0.0
+Model_650i / ALPINA B6,0.0
+Model_645Ci,0.0
+Model_640xi,0.0
+Model_635CSi,0.0
+Model_633 csi,0.0
+Model_626,0.0
+FuelTypeSecondary_Liquefied Petroleum Gas (propane or LPG),0.0
+Model_545i,0.0
+"GVWR_Class 1A: 3,000 lb or less (1,360 kg or less)",0.0
+Model_750i / ALPINA B7,0.0
+Model_750xi,0.0
+region_rapid city / west SD,0.0
+Model_750xi / ALPINA B7,0.0
+Model_Astro Van,0.0
+Model_Astra,0.0
+Model_Aspire,0.0
+Model_Aspen,0.0
+Model_Ascent,0.0
+Model_Ascender,0.0
+Model_Arteon,0.0
+Model_Amanti,0.0
+Model_Allante,0.0
+Model_Alero,0.0
+Model_Aerostar,0.0
+Model_ActiveHybrid 5,0.0
+Model_Achieva,0.0
+Model_Accord Crosstour,0.0
+Model_AMG GT,0.0
+Model_968,0.0
+Model_960 Series,0.0
+Model_944,0.0
+Model_924,0.0
+Model_9000,0.0
+Model_900,0.0
+Model_9-7X,0.0
+Model_9-5,0.0
+Model_9-2X,0.0
+Model_86,0.0
+Model_540i,0.0
+Model_535xi,0.0
+Model_535d,0.0
+Model_530xi,0.0
+SteeringLocation_Right-Hand Drive (RHD),0.0
+Model_323i,0.0
+Model_318iC,0.0
+TractionControl_Optional,0.0
+Model_318i,0.0
+Model_300ZX,0.0
+Model_3000GT,0.0
+Model_230i,0.0
+Model_228i,0.0
+TransmissionStyle_Electronic Continuously Variable (e-CVT),0.0
+Model_200SX,0.0
+Model_190,0.0
+Model_164,0.0
+Model_135i,0.0
+Model_128i,0.0
+Model_124 Spider,0.0
+state_wy,0.0
+state_wv,0.0
+state_nd,0.0
+state_ms,0.0
+paint_color_purple,0.0
+state_de,0.0
+Make_OLDSMOBILE,0.0
+Make_MERCURY,0.0
+Make_ISUZU,0.0
+Model_323iC,0.0
+Model_325Ci,0.0
+Model_325i,0.0
+Model_335d,0.0
+Model_530e,0.0
+Model_525i,0.0
+"GVWR_Class 4: 14,001 - 16,000 lb (6,350 - 7,258 kg)",0.0
+KeylessIgnition_Not Available,0.0
+Model_500X,0.0
+LaneDepartureWarning_Not Available,0.0
+Model_440i,0.0
+Model_335xi,0.0
+LowerBeamHeadlampLightSource_HID,0.0
+Model_335is,0.0
+"LowerBeamHeadlampLightSource_Halogen, LED",0.0
+Model_335,0.0
+SemiautomaticHeadlampBeamSwitching_Not Available,0.0
+Model_330xi,0.0
+Model_330e,0.0
+Model_328xi,0.0
+Model_328iC,0.0
+Model_328d,0.0
+RearVisibilitySystem_Not Available,0.0
+Model_325xi,0.0
+Model_325ix,0.0
+SeatBeltsAll_Automatic,0.0
+Model_325iC,0.0
+SeatBeltsAll_Manual and Automatic,0.0
+Model_Atlas Cross Sport,0.0
+Model_Aura,0.0
+BlindSpotMon_Not Available,0.0
+region_texarkana,0.0
+Model_Cabrio,0.0
+region_southeast IA,0.0
+region_southeast KS,0.0
+region_southeast alaska,0.0
+region_southeast missouri,0.0
+region_southern WV,0.0
+region_southern illinois,0.0
+region_southern maryland,0.0
+region_southwest KS,0.0
+region_southwest MN,0.0
+region_southwest MS,0.0
+region_southwest VA,0.0
+region_southwest michigan,0.0
+Model_Caballero,0.0
+Model_CX-9,0.0
+region_st augustine,0.0
+region_st cloud,0.0
+region_st george,0.0
+region_st joseph,0.0
+region_st louis,0.0
+region_state college,0.0
+region_statesboro,0.0
+region_stillwater,0.0
+region_susanville,0.0
+region_syracuse,0.0
+region_south dakota,0.0
+region_siskiyou county,0.0
+Model_Cadenza,0.0
+region_san angelo,0.0
+region_reading,0.0
+Model_Caravan,0.0
+region_rhode island,0.0
+Model_Caprice Police Vehicle,0.0
+region_rockford,0.0
+region_roseburg,0.0
+region_roswell / carlsbad,0.0
+Model_Caprice,0.0
+region_saginaw-midland-baycity,0.0
+region_salina,0.0
+region_salt lake city,0.0
+Model_Capri,0.0
+region_sioux city,0.0
+region_san luis obispo,0.0
+region_san marcos,0.0
+region_sandusky,0.0
+region_santa fe / taos,0.0
+region_santa maria,0.0
+region_savannah / hinesville,0.0
+region_scottsbluff / panhandle,0.0
+Model_Caliber,0.0
+region_sheboygan,0.0
+region_show low,0.0
+region_shreveport,0.0
+region_terre haute,0.0
+region_texoma,0.0
+Model_Aurora,0.0
+region_the thumb,0.0
+Model_CL,0.0
+Model_CJ-7,0.0
+Model_CJ-5,0.0
+Model_CC,0.0
+Model_C/K Pickup,0.0
+Model_C-HR,0.0
+Model_Brougham,0.0
+Model_Bronco II,0.0
+AirBagLocCurtain_Driver Seat Only,0.0
+Model_Bronco,0.0
+Model_Bravada,0.0
+Model_Borrego,0.0
+Model_Blazer,0.0
+Model_Baja,0.0
+Model_BRZ,0.0
+Model_B9 Tribeca,0.0
+Model_B-Series,0.0
+Model_Aztek,0.0
+AirBagLocSide_Driver Seat Only,0.0
+AirBagLocSide_Passenger Seat Only,0.0
+Model_Azera,0.0
+AutoReverseSystem_Optional,0.0
+Model_Aviator,0.0
+BedType_Extended,0.0
+Model_Aveo,0.0
+Model_CL-Class,0.0
+ABS_Optional,0.0
+region_zanesville / cambridge,0.0
+region_waterloo / cedar falls,0.0
+Model_CX-7,0.0
+region_topeka,0.0
+Model_CX-30,0.0
+region_tuscaloosa,0.0
+region_twin tiers NY/PA,0.0
+region_tyler / east TX,0.0
+region_valdosta,0.0
+Model_CX-3,0.0
+region_victoria,0.0
+region_visalia-tulare,0.0
+Model_CT6,0.0
+region_watertown,0.0
+region_yuma,0.0
+region_wausau,0.0
+region_western IL,0.0
+region_western KY,0.0
+region_western maryland,0.0
+Model_CT4,0.0
+Model_CR-Z,0.0
+region_wichita falls,0.0
+region_williamsport,0.0
+region_wilmington,0.0
+region_winston-salem,0.0
+Model_COROLLA iM,0.0
+Series2_TG,0.0
+Series2_TF,0.0
+Series_Sedan Level 2 - Auto (RF3),0.0
+Series_UZZ30L,0.0
+Series_Ultimate,0.0
+Series_Ultra Super,0.0
+Model_HS,0.0
+Model_HR-V,0.0
+Series_V,0.0
+Series_V Series,0.0
+Series_V-6,0.0
+Series_V-6 SE,0.0
+Series_V-6 SEL,0.0
+Series_V-8,0.0
+Series_V6,0.0
+Model_H3,0.0
+Model_Grand Wagoneer,0.0
+Series_V6 Executive 4Motion,0.0
+Series_V6 Executive Luxury,0.0
+Series_V6 FSI,0.0
+Series_V6 FSI / TDI,0.0
+Series_V6 FSI / TDI / Hybrid,0.0
+Series_V6 FSI/TDI,0.0
+Series_V6 FSI/TDI/Hybrid,0.0
+Series_V6 FSI/TDI/Hybrid w/Comfort Suspension,0.0
+Series_V6 Luxury,0.0
+Series_V6 Premier,0.0
+Series_V6 SEL,0.0
+Series_V6 TDI,0.0
+Series_UZZ40,0.0
+Series_UZS190L/GRS191L/GRS196L,0.0
+Series_Type 95B,0.0
+Series_UZS160L,0.0
+Series_Type 982,0.0
+Series_Type 9YA,0.0
+Series_UCF20L,0.0
+Series_UCF30L,0.0
+Model_JX35,0.0
+Series_UCK45L,0.0
+Model_Ion,0.0
+Series_UF,0.0
+Series_UFC30L,0.0
+Series_UJZ100L,0.0
+Series_ULTIMATE,0.0
+Series_UN,0.0
+Model_Intrepid,0.0
+Model_Integra,0.0
+Series_UPK51L/USK51L/USK52L/UPK56L/USK56L/USK57L,0.0
+Series_URJ200L,0.0
+Model_Insight,0.0
+Series_URL10L,0.0
+Series_URS190L/GRS191L/GRS196L/GWS191L,0.0
+Model_Imperial,0.0
+Series_USK51L/USK52L/USK56L/USK57L,0.0
+Series_USK60L/USK65L,0.0
+Model_I35,0.0
+Model_I30,0.0
+Series_UZS/GRS190L/GRS195L,0.0
+Series_V6 TDI w/AirSuspension,0.0
+Series_V6 and V8 with Sport Suspension,0.0
+Series_V60 Cross Country AWD,0.0
+Series_V8,0.0
+Series_X3,0.0
+Series_X5,0.0
+Series_X6,0.0
+Series_X6 - Series,0.0
+Series_XD,0.0
+Series_XE,0.0
+Series_XH,0.0
+Series_XJ,0.0
+Series_XJ Supercharged Sedan,0.0
+Series_XJL Portfolio,0.0
+Series_XK,0.0
+Series_XL Denali,0.0
+Series_XL SLE,0.0
+Series_XL SLT,0.0
+Model_Grand Vitara XL-7,0.0
+Series_XR,0.0
+Series_XR7,0.0
+Series_XUV,0.0
+Series_YR42,0.0
+Series_Yaris iA (USA except Puerto Rico) / Yaris(Puerto Rico),0.0
+Series_Z3,0.0
+Series_Z4,0.0
+Model_Grand Vitara,0.0
+Series_ZH,0.0
+Series_ZRE142L / AZE141L / AZE144L / AZE146L,0.0
+Series_X1,0.0
+Series_X (Special),0.0
+Series_Wolfsburg 4 Motion,0.0
+Series_VR6,0.0
+Series_V8 Coupe / V10 Competition Coupe,0.0
+Series_V8 w/Air suspension,0.0
+"Series_V8, RWD, Navigation Screen",0.0
+Series_V90 Cross Country  AWD,0.0
+Series_VCK21L,0.0
+"Series_VCK30L, UCK30L",0.0
+Series_VDP,0.0
+Series_VF,0.0
+Series_VIII,0.0
+Series_VP,0.0
+Series_VQ,0.0
+Series_VR6 4Motion,0.0
+Series_Wolfsburg,0.0
+Series_VR6 Sport,0.0
+Series_Value edition,0.0
+"Series_Value, SEL, Sport, Limited, Ultimate",0.0
+"Series_Value, SEL, Sport, Limited, Ultimate, Night",0.0
+"Series_Veloster, Value Edition, R-Spec & Veloster Turbo (G Grade is only available)",0.0
+Series_Viggen,0.0
+Series_W8 4Motion Wgn Sport Group,0.0
+Series_WJ,0.0
+Model_Grand Voyager,0.0
+Series_WRX,0.0
+Series_Wagon,0.0
+Series_Type 971,0.0
+Series_Turbo/Komfort,0.0
+Series2_TD,0.0
+Series_Sport Hybrid with Advance Package,0.0
+Series_Sport Navi,0.0
+Series_Sport Special Edition,0.0
+Series_Sport Touring (1SH),0.0
+Series_Sport Turbo Tech,0.0
+"Series_Sport Value Pkg ,Sport Premium pkg, Sport Tech pkg ,Sport 2.0T Base",0.0
+"Series_Sport Value Pkg ,Sport Premium pkg, Sport Tech pkg, Sport 2.0T Base",0.0
+Series_Sport Wagon,0.0
+Series_Sport w/Popular Pkg / Sport w/Premium Pkg / Sport w/Tech Pkg / Sport 2.0T,0.0
+"Series_Sport, Limited, SPort 2.0T, Limited 2.0T",0.0
+"Series_Sport, Sport Plus",0.0
+Series_Sport/GX,0.0
+Series_Sport/MC/Convertible/Convertible Sport/Convertible MC,0.0
+Series_Sportline,0.0
+Series_Sports,0.0
+Series_Standard,0.0
+Series_Standard (Low) Roof 118 WB,0.0
+"Series_Standard / Standard w/ Style Pkg, Standard w/ Tech Pkg",0.0
+Series_Standard AWD,0.0
+Series_Summit,0.0
+Series_Super Deluxe (GLS),0.0
+"Series_Super Deluxe (GLS, LS, LX or GS)",0.0
+Model_LR2,0.0
+Model_L300,0.0
+Series_Super Series,0.0
+Series_Supercharged,0.0
+Series_Sport Hybrid with Advance Pkg,0.0
+Series_Sport Hybrid,0.0
+Series_Turbo/ Komfort,0.0
+Series_Sport FWD,0.0
+Series_Sedan Level 2 - Auto (RF7),0.0
+Series_Sedan Level 3,0.0
+Series_Sedan Level 3 - Auto (RF5),0.0
+Series_Select HEV,0.0
+Series_Series II S,0.0
+Series_Series II SE,0.0
+Series_Shelby Convertible,0.0
+Series_Shelby Coupe,0.0
+Series_Si,0.0
+Series_Si/Si HPT,0.0
+Series_Signature,0.0
+Series_Signature / Ultimate,0.0
+Series_Signature Limited,0.0
+Model_LS2,0.0
+Series_Special,0.0
+Model_LR4,0.0
+Model_LR3,0.0
+"Series_Sport / Sport w/ Premium Pkg, Sport w/ Tech Pkg / Limited / Limited w/Tech Pkg / Limited w/Ultimate Pkg / Sport 2.0T / Limited 2.0T",0.0
+Series_Sport 2.0T Ultimate,0.0
+"Series_Sport 2.0T Ultimate, Sport 2.0T Ultimate Tech",0.0
+Series_Sport 2.0T w/Ultimate Pkg,0.0
+Series_Sport 2WD/AWD,0.0
+Series_Sport AWD,0.0
+Series_Sport Base,0.0
+Series_Sport Coupe & Convertible,0.0
+Series_Supra 3.0,0.0
+Series_T8 AWD,0.0
+Series_TDI,0.0
+Series_TDI Prestige,0.0
+Series_Titanium - 4WD,0.0
+Series_Titanium AWD,0.0
+Series_Titanium HEV,0.0
+Series_Titanium PHEV,0.0
+Series_Titanium/Platinum AWD,0.0
+Series_Titanium/Platinum FWD,0.0
+Series_Titanium/Platinum HEV,0.0
+Series_Top,0.0
+Series_Touring (DTS),0.0
+"Series_Touring (US & Can), Limited (BUX)",0.0
+Series_Touring L Plus,0.0
+Series_Touring Plus,0.0
+Series_Touring/GS,0.0
+Series_Touring/Signature Series,0.0
+Series_Touring/Touring Elite,0.0
+Series_Town Car (Livery),0.0
+Model_Jimmy Utility,0.0
+Model_Jetta Wagon,0.0
+Series_Trailhawk,0.0
+"Series_Transsyberia, GTS",0.0
+"Series_Trendline, Trendline +",0.0
+Series_Turbo,0.0
+Series_Turbo Convertible,0.0
+"Series_Turbo R-Spec, Turbo and Turbo Ultimate",0.0
+Series_Turbo S,0.0
+Model_K5,0.0
+Series_Ti SPORT Q4,0.0
+Series_Ti Q4,0.0
+Series_TOURING,0.0
+Series_TDI Prestige w/S-Line Pkg.,0.0
+Series_TDI without sunroof,0.0
+Series_TDI without sunroof/2.5 Limited wo/sunroof,0.0
+Series_TG,0.0
+Series_TI,0.0
+Series_TI (NAFTA),0.0
+Series_TITANIUM FHEV,0.0
+Model_Kona,0.0
+Series_TOP (High),0.0
+Series_TOP - High Level,0.0
+Series_TOP(EXCLAIM),0.0
+"Series_TOURING (HEV), EX Premium (HEV)",0.0
+Series_Ti LUXORY Q4,0.0
+Series_TOURING-7,0.0
+Series_TRAILHAWK,0.0
+Series_TRG/TRG-EL,0.0
+Model_Kizashi,0.0
+Series_TRN225L/GRN225L,0.0
+Series_TRN245L,0.0
+Series_TRN245L/GRN245L,0.0
+Model_K900,0.0
+Series_TT Coupe quattro,0.0
+Series_Technology Package,0.0
+Series_Ti,0.0
+Model_Grand Prix,0.0
+Series_ZRE186L,0.0
+Series_ZRE212L-DEXDPA,0.0
+Model_G5,0.0
+Series2_Dual Rear Wheels,0.0
+Series2_E (Economy),0.0
+Series2_E Series,0.0
+Series2_E30,0.0
+Series2_E30/16,0.0
+Series2_Extended Cab,0.0
+Series2_Extra Long Wheelbase w/IFS,0.0
+Series2_FD,0.0
+Series2_GT,0.0
+Series2_Glazed High Roof Van,0.0
+Series2_HG,0.0
+Model_G3,0.0
+Series2_Hatchback Tall Body Style,0.0
+Series2_Hatchback Tall body style,0.0
+Series2_Hatchback style vehicle,0.0
+Series2_Heavy Duty,0.0
+Series2_High,0.0
+Series2_High Roof,0.0
+Series2_High Roof Cargo Van,0.0
+Series2_High Roof Van,0.0
+Series2_Honda Sensing,0.0
+Series2_Hybrid (TF HEV),0.0
+Series2_Hybrid Vehicle,0.0
+Series2_JB,0.0
+Series2_JR - Family,0.0
+Series2_DT,0.0
+Series2_Coupe Body Style,0.0
+Series_ZSP110L,0.0
+Series2_Compact minivan,0.0
+Series2_250h,0.0
+Series2_3.0T quattro Technik (Canada),0.0
+Series2_3/4 Ton,0.0
+Series2_300,0.0
+Series2_4-Door MPV Coupe,0.0
+Model_GLB-Class,0.0
+Series2_400,0.0
+Series2_430,0.0
+Series2_470,0.0
+Series2_600 hL,0.0
+Series2_AMG-GT,0.0
+Model_G90,0.0
+Series2_All Purpose Vehicle,0.0
+Series2_All Purpose Vehicle (EXT),0.0
+Model_G8,0.0
+Series2_BK,0.0
+Series2_BK F/L,0.0
+Series2_Base,0.0
+Model_G6,0.0
+Series2_Body Style: Open Body,0.0
+Series2_Body: Hatchback Tall,0.0
+Series2_Club Wagon Body Style,0.0
+Series2_Coach Body Style,0.0
+Series2_Commercial,0.0
+Series2_Compact Cab,0.0
+Series2_Komfort (Canada),0.0
+Series2_Koup YD (2DR),0.0
+Model_G25,0.0
+Model_G20,0.0
+Series2_Progressive S-Line (Canada),0.0
+Model_Freestyle,0.0
+Model_Freestar,0.0
+Series2_R (Race),0.0
+Series2_Regular Cargo Van,0.0
+Series2_Regular Van,0.0
+Model_Freelander,0.0
+Series2_S Series,0.0
+Series2_S5 Prestige quattro,0.0
+Series2_SPECIAL,0.0
+Series2_SPORTS,0.0
+Series2_Sedan Body Class,0.0
+Series2_Sedan Body Style,0.0
+Series2_Sedan body style,0.0
+Series2_Shooting Brake Body Style,0.0
+Series2_Single Rear Wheels,0.0
+Series2_Small Van,0.0
+Series2_Special,0.0
+Series2_Special Pickup and Panel Delivery from Passenger car,0.0
+Series2_Sport Wagon Body Style,0.0
+Series2_Sportback body style,0.0
+Series2_Sports Wagon,0.0
+Series2_Standard Roof,0.0
+Series2_Standard Roof Cargo van,0.0
+Series2_T (Touring),0.0
+Series2_Progressiv S-Line (Canada),0.0
+Series2_Progressiv (Canada),0.0
+Series2_Premium,0.0
+Series2_MZEA12L-AHXNBA,0.0
+Series2_LX - Family,0.0
+Series2_Long Coach Body Style,0.0
+Series2_M Series,0.0
+Series2_MC,0.0
+Series2_MCV20L,0.0
+Series2_MD,0.0
+Series2_MD 2DR,0.0
+Series2_MPV - Wagon Body Style,0.0
+Series2_MZEA12L-AEXSBA,0.0
+Series2_MZEA12L-AEXYBA,0.0
+Series2_MZEA12L-AHFNBA,0.0
+Model_G-Series,0.0
+Model_G-Class,0.0
+Series2_Minivan (Long Coach),0.0
+Series2_New GTI,0.0
+Series2_New Golf,0.0
+Series2_New Jetta,0.0
+Series2_Notchback Style,0.0
+Series2_P Series,0.0
+Series2_PT - Family,0.0
+Series2_Panel Van,0.0
+Series2_Passenger Van - Wagon Body Style,0.0
+Series2_Passenger Van - Wagon body style,0.0
+Series2_Police Interceptor,0.0
+Series2_2.0T quattro Progressiv (Canada),0.0
+Series2_2-dr Convertible Body Style,0.0
+Series2_129,0.0
+Trim2_Base Grade,0.0
+"Series_manual trans, RWD, High Feature V6",0.0
+Series_quattro Premium,0.0
+Series_quattro Premium Plus,0.0
+Series_quattro Premium plus,0.0
+Series_quattro Prestige,0.0
+Series_quattro S-Line,0.0
+Series_quattro premium plus,0.0
+Series_quattro/ 2.0 /3.2 Prestige,0.0
+Series_quattro/ 2.0 Premium / 3.2 Premium Plus,0.0
+Series_quattro/ 2.0 Premium Plus,0.0
+Series_sDrive28i,0.0
+Series_turbo,0.0
+Series_turbo convertible w/manual trans,0.0
+Series_w/ Auto,0.0
+Series_w/Dual Airbags,0.0
+Series_w/Dual air bags,0.0
+Series_w/Premium package,0.0
+Series_w/o ABS,0.0
+Series_with Package 1,0.0
+Trim2_1 ton nominal,0.0
+Model_Golf SportWagen,0.0
+Trim2_3/4 ton nominal,0.0
+Trim2_7 Passenger,0.0
+Trim2_750I/ALPINA B7,0.0
+Trim2_8 Passenger,0.0
+"Series_manual trans, RWD",0.0
+"Series_auto trans, RWD, Navigation, High feature V6",0.0
+"Series_auto trans, RWD, High Feature V6",0.0
+Series_ZX3,0.0
+Series_ZTS,0.0
+Series_ZTW,0.0
+Series_ZVW35L,0.0
+Model_Grand Marquis,0.0
+Series_ZVW50L/ZVW51L,0.0
+Series_ZVW51L/ZVW55L,0.0
+Series_ZVW52L,0.0
+Series_ZVW52L-AHXEBA / ZVW52L-AHXGBA,0.0
+Model_Grand AM,0.0
+Series_ZWE211L,0.0
+Series_ZWE213L,0.0
+Series_ZX3 SVT,0.0
+"Series_auto trans, RWD & Navigation",0.0
+Series_ZX4,0.0
+Series_ZX5,0.0
+Series_ZXW,0.0
+Series_ZZE110L,0.0
+Series_ZZE130L/ZZE131L,0.0
+Series_ZZE132L,0.0
+Series_ZZE132L/ZZE133L/ZZE134L,0.0
+Series_ZZT230L,0.0
+Series_ZZT230L/ZZT231L,0.0
+Series_ZZW30L,0.0
+Series_Zephyr,0.0
+Model_Golf,0.0
+Trim2_COMFORT,0.0
+Series2_124,0.0
+Trim2_Cloth,0.0
+Trim2_S Grade,0.0
+Trim2_S grade,0.0
+Trim2_SPECIAL EDITION,0.0
+Trim2_SR5 grade,0.0
+Trim2_SVG,0.0
+Trim2_Soft Top,0.0
+Trim2_Sport,0.0
+Trim2_Wagon Body Type,0.0
+Trim2_With NAVI,0.0
+Trim2_With RES,0.0
+Trim2_X Grade,0.0
+Trim2_w/ Leather,0.0
+Trim2_w/ Low Emissions Package,0.0
+Trim2_w/ NAVI,0.0
+Trim2_w/ Nav,0.0
+Trim2_w/ Nav & Low Emissions Package,0.0
+Trim2_w/ Navigation,0.0
+Trim2_w/ eAssist,0.0
+"Trim2_w/Leather, w/Navigation",0.0
+"Trim2_w/o Leather, w/Navigation",0.0
+"Trim2_w/o Leather, w/o Navigation",0.0
+Trim2_w/o Navigation,0.0
+Trim2_with RES,0.0
+Series2_1/2 Ton,0.0
+Series2_1/2 ton,0.0
+Trim2_Retractable Hardtop,0.0
+Trim2_RWD (Canada),0.0
+Trim2_Platinum grade,0.0
+"Trim2_Entertainment System: Bang & Olufsen® 3D Premium Sound System with 15 speakers, 16-channel amplifier and 680 watts",0.0
+Trim2_Club Cab (Half rear door),0.0
+Trim2_Conventional Cab/Chassis Cab/Chassis,0.0
+Trim2_Crew Cab / Quad Cab,0.0
+Trim2_CrewMax,0.0
+Trim2_CrewMax Ltd,0.0
+Trim2_CrewMax Short Bed,0.0
+Trim2_D grade,0.0
+"Trim2_D23,D28",0.0
+Model_Geo Prizm,0.0
+Trim2_Double Cab Long Bed,0.0
+Trim2_E Grade,0.0
+Trim2_FFV,0.0
+Trim2_OUTBACK (wagon),0.0
+Model_Genesis Coupe,0.0
+Model_Genesis,0.0
+Trim2_Hard Top,0.0
+Trim2_High Roof,0.0
+Trim2_Hybrid,0.0
+Trim2_LE 7 Passenger Mobility/LE 8 Passenger,0.0
+Trim2_Leather,0.0
+Trim2_Limited grade,0.0
+Trim2_Ltd/Ltd Premium/XLE Mobility - 7 Pass; XLE/XLE Premium - 8 Pass,0.0
+Trim2_MHEV,0.0
+Trim2_NAVI,0.0
+Model_ProMaster 3500,0.0
+Series_CLS400,0.0
+Series_Denali (FWD),0.0
+Trim_LTZ (FWD),0.0
+Trim_LT Grade,0.0
+Trim_LT-1LT,0.0
+Trim_LT/1LT,0.0
+Trim_LT/2LT,0.0
+Trim_LT1,0.0
+Trim_LT2,0.0
+Trim_LTD,0.0
+Trim_LTD Plus,0.0
+Trim_LTD Plus Navi,0.0
+Trim_LTZ (&1LZ),0.0
+Trim_LTZ (1LZ),0.0
+Model_Terraza,0.0
+Trim_LTZ (AWD),0.0
+Trim_LTZ (RPO STZ),0.0
+Trim_LX/LXi,0.0
+Trim_LTZ Fleet,0.0
+Trim_LUX,0.0
+Trim_LUXURY,0.0
+Trim_LX - Middle-low,0.0
+Trim_LX / LX Convertible,0.0
+Trim_LX Premium,0.0
+Trim_LX w/ Anti-Lock Brakes,0.0
+Trim_LX w/Popular Pkg,0.0
+"Trim_LX, EX",0.0
+Trim_LX-S,0.0
+Trim_LX-V6,0.0
+Trim_LX/Classic/Street,0.0
+Trim_LX/LX Conv/LX Conv Plus/1.6T LX/1.6T LX Tech,0.0
+Trim_LT FL,0.0
+Trim_LT Classic (&1LT),0.0
+Trim_LT AWD (1LT),0.0
+Trim_LT / FL,0.0
+Trim_LHD,0.0
+Trim_LIMITED,0.0
+Trim_LL Bean,0.0
+Trim_LOUNGE,0.0
+Model_Torrent,0.0
+Trim_LS (&1LS),0.0
+Trim_LS (1FL),0.0
+Trim_LS (1LS),0.0
+Trim_LS (AWD),0.0
+Trim_LS (FL),0.0
+Trim_LS (FWD),0.0
+Trim_LS / Captiva Sport LS,0.0
+Trim_LS Classic (&1LS),0.0
+Trim_LS FL,0.0
+Trim_LS Fleet,0.0
+Trim_LS Grade,0.0
+Trim_LS w/Connectivity Package,0.0
+Trim_LS w/Leather seats,0.0
+Trim_LS/FL,0.0
+Trim_LSC,0.0
+Model_Tiguan Limited,0.0
+Trim_LT (& 2LT),0.0
+Model_Tiburon,0.0
+Trim_LT (2FL),0.0
+Trim_LT (2LT),0.0
+Trim_LT (3LT),0.0
+Trim_LT (FL),0.0
+Trim_LX/LX Wagon w/Anti-Lock Brakes,0.0
+Trim_LXi,0.0
+Trim_Limited+ES+BSD,0.0
+Trim_Limited +Navi +ES +BSD,0.0
+Trim_Limited + NAVI,0.0
+Trim_Limited + NAVI + ES,0.0
+Trim_Limited + Navi(HK),0.0
+Trim_Limited +6CD HK,0.0
+Trim_Limited +CWP,0.0
+Trim_Limited +CWP+Navi+M/R,0.0
+Trim_Limited +CWP+Navi+M/R+Eyesight,0.0
+Trim_Limited +ES,0.0
+Trim_Limited +ES +BSD,0.0
+Trim_Limited +ES +BSD/N Limited +ES +BSD,0.0
+Trim_Limited +M/R+/Navi,0.0
+Trim_Limited +M/R+6CD HK,0.0
+Trim_Limited +NAVI +ES +BSD/N Limited +NAVI +ES +BSD,0.0
+Trim_Limited / Dream Cruiser,0.0
+Trim_Laramie Club Cab / Quad Cab,0.0
+Trim_Limited / Touring Convertible,0.0
+Trim_Limited 7+ES+KA,0.0
+Trim_Limited 7+ES+KA+M/R+NAVI+H/K,0.0
+Trim_Limited 8+ES+KA+M/R+NAVI+H/K,0.0
+Trim_Limited Convertible,0.0
+Trim_Limited Grade,0.0
+Trim_Limited HEV,0.0
+Trim_Limited grade,0.0
+Trim_Limited(Export)/Country,0.0
+Trim_Limited+ M/R+/Navi,0.0
+Trim_Limited+6CD HK,0.0
+Trim_Limited+BSD,0.0
+Trim_Limited+Clearance&Back Sonar Package/Limited HV+Clearance&Back Sonar Package,0.0
+Trim_Limited + Moon Roof + NAVI + Eyesight + 6CD,0.0
+Trim_Limited + MR + NAVI(H/K),0.0
+Trim_Limited + MR + NAVI,0.0
+Trim_Limited + MR + KA + NAVI(H/K) + BSD + ES,0.0
+Trim_Laramie Mega Cab,0.0
+Trim_Laramie/Sport,0.0
+Model_Tercel,0.0
+Trim_Laredo/Rocky Mountain Edition,0.0
+Model_Telluride,0.0
+"Trim_Latitude(US,Mex), Longitude(BUX), North(Can)",0.0
+Trim_Latitude/Longitude/North,0.0
+Trim_Leather (1SL),0.0
+Trim_Leather 5 Seat,0.0
+Trim_Leather 7 Seat,0.0
+Trim_Lev1 - All models,0.0
+Trim_Lev2 - All models,0.0
+Trim_Lev2 - Luxury Edition,0.0
+Trim_Lev3 - All models,0.0
+Model_Taurus X,0.0
+Trim_Limited (G Grade),0.0
+Trim_Limited + 6CD,0.0
+Trim_Limited + 6CD HK,0.0
+Trim_Limited + CWP+Navi+M/R,0.0
+Trim_Limited + Eyesight + Navigation (HK) + SMART,0.0
+Trim_Limited + M/R,0.0
+Trim_Limited + M/R + 6CD,0.0
+Trim_Limited + M/R + 6CD HK,0.0
+Trim_Limited + M/R + Navi,0.0
+Trim_Limited + MR,0.0
+Trim_Limited + MR + ES + NAVI,0.0
+Trim_Limited + MR + KA + NAVI(H/K) + BSD,0.0
+Trim_LEV 2 - Luxury Edition,0.0
+Trim_LEV 1 - All Models,0.0
+Trim_LEV 1,0.0
+Trim_HSE LUX,0.0
+Trim_Grand Sport Standard 1LT,0.0
+Trim_Grand Touring,0.0
+Trim_Grand Touring (Hard Top),0.0
+Trim_Grand Touring (Soft Top),0.0
+Trim_Grand Touring Reserve,0.0
+Trim_HEV,0.0
+Trim_HEV EX,0.0
+Trim_HEV F/L,0.0
+Trim_HIGH,0.0
+Trim_HP,0.0
+Model_V Conventional,0.0
+Trim_HSE / Supercharged Spec 2,0.0
+Trim_HSE Dynamic,0.0
+Trim_HSE Lux,0.0
+Trim_LE/XLE/Limited,0.0
+Trim_HSE Luxury,0.0
+Trim_HSE PLUS,0.0
+Trim_HSE SPEC 1,0.0
+Trim_HSE Spec 1,0.0
+Trim_HSE Spec 3,0.0
+Trim_HSE w/LUXURY PACK,0.0
+Trim_HSE w/Lux Pkg,0.0
+Trim_HSE w/Luxury Pack,0.0
+Trim_HSE w/Tech pack,0.0
+"Trim_HSE, Spec 1",0.0
+Trim_HSE/Landmark Edition,0.0
+Trim_HYBRID,0.0
+Trim_Hard Top,0.0
+Trim_Grand Sport Standard,0.0
+Trim_Grand Sport Premium 3LT,0.0
+Trim_Grand Sport Premium,0.0
+Trim_Grand Sport Preferred 2LT,0.0
+"Trim_GT (US), GT Rallye (Can)",0.0
+Trim_GT SULEV-PZEV,0.0
+Trim_GT Sport,0.0
+Trim_GT/Cambriocorsa,0.0
+Trim_GT/Dream Cruiser,0.0
+Trim_GT/TRD SE,0.0
+Trim_GT1,0.0
+Trim_GT2,0.0
+Trim_GTP,0.0
+Trim_GTS,0.0
+Trim_GTS (US),0.0
+Trim_GX,0.0
+Trim_GXP,0.0
+Trim_GXP Turbo CV,0.0
+Trim_Grade S (CVT),0.0
+Trim_Grade S (MT),0.0
+Trim_Grade: Luxury,0.0
+Trim_Grade: SR5,0.0
+Trim_Grade: SR5 V6,0.0
+Trim_Graduate,0.0
+Trim_Gran Coupe,0.0
+Trim_Grand Sport - 2LT,0.0
+Trim_Grand Sport - 3LT,0.0
+Trim_Grand Sport 1LT,0.0
+Trim_Grand Sport 2LT,0.0
+Trim_Grand Sport 3LT,0.0
+Trim_Grand Sport 4LT,0.0
+Trim_Heat,0.0
+Trim_Hemi C,0.0
+Trim_Hi-Sport SS,0.0
+Trim_K,0.0
+Model_Trailblazer,0.0
+Trim_KM,0.0
+Model_Tracker,0.0
+Trim_L - Low level,0.0
+"Trim_L, LX",0.0
+Trim_L-S,0.0
+Trim_L.L.Bean,0.0
+Trim_L/LE,0.0
+Trim_L/LE/SE,0.0
+Trim_L/LE/XLE/LTD.,0.0
+Trim_L4,0.0
+Trim_L4 Limited (US)/2.4L JLX-L (Canada),0.0
+Trim_L4 Premium (US)/2.4L JX (Canada),0.0
+Model_Town Car,0.0
+Trim_LAREDO,0.0
+Trim_LE (X Grade),0.0
+Trim_LE ECO,0.0
+Trim_LE HV 4WD,0.0
+Trim_LE Hybrid,0.0
+Trim_LE Mobility/LE,0.0
+Trim_LE Plus/XLE,0.0
+Trim_LE w/Premium pkg2,0.0
+"Trim_LE, w/Premium Pkg",0.0
+Model_Touareg,0.0
+Trim_LE/SE/XLE Hybrid,0.0
+Trim_LE/SE/XLE/XSE,0.0
+Trim_LE/XLE Hybrid,0.0
+Trim_KH,0.0
+Trim_Juke/Juke Nismo,0.0
+Trim_High,0.0
+"Trim_Juke, Juke NISMO",0.0
+Trim_High (with Third seat),0.0
+Trim_High (without Third seat),0.0
+Trim_High Grade,0.0
+Trim_High Roof,0.0
+Trim_High Roof 136in WB,0.0
+Trim_High Roof 159in WB,0.0
+Trim_High grade,0.0
+Trim_High grade (Canada only),0.0
+Trim_Hybrid,0.0
+Trim_Hybrid - XLE Plus/XLE Premium//Ltd.,0.0
+Trim_Hybrid - XLE/XSE/Ltd.,0.0
+Trim_Hybrid 4-M,0.0
+Trim_Hybrid TECH,0.0
+Trim_ILX,0.0
+Model_UX,0.0
+Trim_Internet Model,0.0
+Trim_JB,0.0
+Model_Trooper,0.0
+Model_Tribute,0.0
+Model_Trans Sport,0.0
+Trim_JX (Canada)/Sedan LE (US)/Sedan LE Pop Pkg (US)/Sedan Base (Canada),0.0
+Trim_JX (Canada)/Sedan LE(US)/Sedan LE Pop Pkg (US)/Sedan Anniversary Edition (US)/Sedan Base (Canada),0.0
+Trim_JX (JX-H-27 Conv.),0.0
+Trim_JX / JLX w/ABS,0.0
+Trim_JXi,0.0
+Trim_Jeep/Unlimited Jeep,0.0
+Trim_Jet,0.0
+Trim_Limited+ES,0.0
+Trim_Limited+ES+BSD+NAVI,0.0
+Trim_R-Design,0.0
+Trim_Premium 1,0.0
+Trim_Premium + MR + ES,0.0
+Trim_Premium + MR + NAVI + ES,0.0
+Trim_Premium +6CD HK+ CWP,0.0
+Trim_Premium +BSD,0.0
+Trim_Premium +CWP,0.0
+Trim_Premium +CWP+M/R,0.0
+Trim_Premium +ES +BSD,0.0
+Trim_Premium +ES/N Premium +ES,0.0
+Trim_Premium +M/R,0.0
+Trim_Premium +M/R+CWP,0.0
+Trim_Premium +M/R+CWP+6CD HK,0.0
+Trim_Premium - 3LT,0.0
+Trim_Premium / Komfort (Canada),0.0
+Trim_Premium 2,0.0
+Trim_Premium III,0.0
+Trim_Premium 2LZ w/Z06,0.0
+Trim_Premium 3LT,0.0
+Trim_Premium 3LT w/Z51,0.0
+Trim_Premium 7+ES+KA,0.0
+Trim_Premium 8+ES,0.0
+Trim_Premium 8+ES+KA+M/R+NAVI,0.0
+Trim_Premium AWP,0.0
+Trim_Premium ES,0.0
+Trim_Premium Group,0.0
+Trim_Premium Group 1,0.0
+Trim_Premium I,0.0
+Trim_Premium II,0.0
+Trim_Premium II / Turbo,0.0
+Trim_Premium + MR,0.0
+Trim_Premium + M/R + CWP,0.0
+Trim_Premium + ES + M/R + NAVI,0.0
+Trim_Premium + ES,0.0
+Trim_Plus/Premium/Advanced,0.0
+Model_Spyder,0.0
+Trim_Police Cruiser,0.0
+Trim_Police Cruizer,0.0
+Trim_Police Sedan (&9C1 or 9C3),0.0
+"Trim_Pop (US), Easy (Mex)",0.0
+Trim_Portfolio,0.0
+Trim_Power Wagon,0.0
+Trim_Powerwagon,0.0
+Trim_Preferred - 2LT,0.0
+Trim_Preferred 2LT,0.0
+Trim_Preferred 2LT w/Z51,0.0
+Trim_Preferred 2LZ w/Z06,0.0
+Trim_Preferred II,0.0
+Trim_Preferred Pkg,0.0
+Trim_Premier (1LZ),0.0
+Trim_Premier (2LZ),0.0
+Trim_Premier (3LZ),0.0
+Trim_Premier (non R design),0.0
+Trim_Premier+ (non R design),0.0
+Model_Spider,0.0
+Trim_Premium (1ST),0.0
+Trim_Premium + AWP,0.0
+Trim_Premium + AWP + ES,0.0
+Trim_Premium + AWP + MR,0.0
+Trim_Premium + AWP + MR + NAVI,0.0
+Trim_Premium + CWP,0.0
+Trim_Premium II Package,0.0
+Trim_Premium III / Turbo Sport,0.0
+Trim_Limited+ES+Navi(HK)+AP,0.0
+Trim_Prm Plus+S/R+NAVI,0.0
+"Trim_Premium, AWD Premium",0.0
+Trim_Premium/N Premium,0.0
+Trim_Premium/Tech,0.0
+Trim_Prestige,0.0
+Trim_Prestige / Technik (Canada),0.0
+Trim_Prestige Premium,0.0
+Trim_Prestige S-Line Auto/Technik S-Line Auto (Canada),0.0
+Trim_Prestige quattro,0.0
+Trim_Prestige quattro S-Line,0.0
+Trim_Prm,0.0
+Trim_Prm Base+ES,0.0
+Trim_Prm Plus+NAVI,0.0
+Trim_Prm Plus+S/R,0.0
+Trim_Prm+AWP,0.0
+Trim_Premium Package,0.0
+Trim_Prm+AWP+NAVI,0.0
+Trim_Prm+AWP+S/R,0.0
+Trim_Prm+ES+KA,0.0
+Trim_Prm+ES+SMART,0.0
+Trim_Pure,0.0
+Trim_Pure Plus,0.0
+Trim_Pure Premium,0.0
+Trim_Q grade,0.0
+Trim_QL,0.0
+Trim_QUADRIFOGLIO,0.0
+Trim_Quattro,0.0
+Trim_R,0.0
+Trim_R L.L.Bean,0.0
+Trim_Premium+Moonroof+NAVI+EyeSight,0.0
+Trim_Premium+Moonroof+EyeSight,0.0
+Trim_Premium+Moonroof,0.0
+Trim_Premium+M/R+NAVI,0.0
+Trim_Premium Package/Technology Package,0.0
+Trim_Premium Package/Technology Plus Package,0.0
+Trim_Premium Pano/Premium Luxury/Tech/Limited,0.0
+Trim_Premium Pkg,0.0
+Trim_Premium Plus,0.0
+Trim_Premium S Line,0.0
+Trim_Premium Style Edition/Tech Style Edition,0.0
+Trim_Premium and A-SPEC Package/ Technology Plus and A-SPEC Package,0.0
+Trim_Premium and A-SPEC Package/ Technology and A-SPEC Package,0.0
+Trim_Premium quattro,0.0
+Trim_Premium+6CD HK,0.0
+Trim_Premium+6CD HK+ CWP,0.0
+Trim_Premium+AWP,0.0
+Trim_Premium+AWP+M/R,0.0
+Trim_Premium+All Weather Package,0.0
+Trim_Premium+All Weather Package+EyeSight,0.0
+Trim_Premium+All Weather Package+EyeSight+Moonroof+NAVI,0.0
+Trim_Premium+All Weather Package+Moonroof,0.0
+Trim_Premium+All Weather Package+Moonroof+NAVI,0.0
+Trim_Premium+BSD,0.0
+Trim_Premium+CWP,0.0
+Trim_Premium+ES+BSD,0.0
+Trim_Premium+ES+M/R+NAVI,0.0
+Trim_Premium+EyeSight+Blind Spot Detection,0.0
+Trim_Premium+M/R,0.0
+Trim_Premium+M/R+CWP,0.0
+Trim_Premium+M/R+CWP+6CD HK,0.0
+Trim_Plus quattro S line,0.0
+Trim_Plus quattro,0.0
+Trim_Plus S Line,0.0
+Trim_Ltd/SE Platinum,0.0
+Trim_Low Roof,0.0
+Trim_Ltd,0.0
+Trim_Ltd + Moon Roof + NAVI + Eyesight + 6CD,0.0
+Trim_Ltd + NAVI,0.0
+Trim_Ltd + NAVI + EyeSight,0.0
+Trim_Ltd Base+ES+SMART,0.0
+Trim_Ltd Hybrid,0.0
+Trim_Ltd+ES+NAVI(HK)+KA,0.0
+Trim_Ltd/Ltd Platinum,0.0
+Trim_Ltd/Ltd Platinum Hybrid,0.0
+Trim_Ltd/Ltd Premium/XLE/XLE Mobility/XLE Premium,0.0
+Trim_Ltd/Ltd Premium/XLE/XLE Premium,0.0
+Trim_Ltd/Platinum,0.0
+Trim_Ltd/SR5/SR5 Premium,0.0
+Model_Stealth,0.0
+"Trim_Luxury 3Row, Luxury 3Row Sunroof",0.0
+"Trim_Luxury 3Row, Luxury 3Row Sunroof (JLX)",0.0
+Trim_Luxury AWD,0.0
+Trim_Luxury Ext W/B,0.0
+Trim_Luxury Package (JLX Leather),0.0
+Trim_M,0.0
+Trim_M Roadster,0.0
+Trim_M240i,0.0
+Trim_M240i xDrive,0.0
+Trim_M3,0.0
+Trim_M340i,0.0
+Trim_M340i xDrive,0.0
+Trim_M35i,0.0
+Trim_Lounge,0.0
+"Trim_Longitude(BUX), North(Canada), Latitude(Mex, U.S.)",0.0
+Trim_Longhorn Mega Cab,0.0
+Model_T100,0.0
+Trim_Limited+EyeSight+Moonroof+NAVI,0.0
+Trim_Limited+M/R,0.0
+Trim_Limited+M/R+/Navi,0.0
+Trim_Limited+M/R+6CD HK,0.0
+Model_TC,0.0
+Trim_Limited+M/R+NAVI,0.0
+Trim_Limited+M/R+NAVI(HK),0.0
+Trim_Limited+Moonroof,0.0
+Trim_Limited+Moonroof+EyeSight+NAVI,0.0
+Trim_Limited+Moonroof+NAVI,0.0
+Trim_Limited+Moonroof+NAVI&(H/K - Harman Kardon),0.0
+Trim_Limited+Moonroof+NAVI(H/K-Harman Kardon)+EyeSight,0.0
+Trim_Limited+NAVI+ES+BSD,0.0
+Trim_Limited+Navi(HK),0.0
+Trim_Limited+S/R,0.0
+Trim_Limited+S/R+NAVI,0.0
+"Trim_Limited,Rallye",0.0
+Trim_Limited/Dream Cruiser,0.0
+Trim_Limited/Hybrid Limited/SE,0.0
+Trim_Limited/Latitude,0.0
+Trim_Limited/Limited Platinum,0.0
+Trim_Limited/RT,0.0
+Trim_Limited/Signature,0.0
+Trim_Linear,0.0
+Trim_Livery,0.0
+Trim_Livery (W20),0.0
+Trim_Long Wheel Base,0.0
+Trim_M4,0.0
+Trim_M40i,0.0
+Trim_M550i xDrive,0.0
+Trim_OUTBACK -Cold Weather,0.0
+Trim_OUTBACK H6 S,0.0
+Trim_OUTBACK SPORTS,0.0
+Trim_OUTBACK- H6 L.L.Bean,0.0
+Trim_OUTBACK- L.L.Bean,0.0
+Trim_OUTBACK-SE,0.0
+Trim_One/Two,0.0
+Trim_One/Two/Three/Four,0.0
+Trim_Outback,0.0
+Trim_Outback Limited,0.0
+Trim_Outback-Ltd.,0.0
+Trim_PHEV,0.0
+Trim_PHEV EX,0.0
+Trim_PLUS,0.0
+Trim_POP,0.0
+Trim_Passenger LS,0.0
+Model_Stratus,0.0
+Trim_Pickup,0.0
+Trim_Platinum,0.0
+Trim_Platinum (non R design),0.0
+Trim_Platinum Collection,0.0
+Trim_Platinum Edition,0.0
+Trim_Platinum Edition Vsport,0.0
+Model_Stinger,0.0
+Trim_Platinum Hybrid,0.0
+Trim_Platinum Performance Edition,0.0
+Trim_Platinum Premium Luxury,0.0
+Trim_Platinum grade,0.0
+Trim_OUTBACK H6 L.L Bean,0.0
+Trim_OUTBACK -CW,0.0
+Trim_M6,0.0
+Trim_OUTBACK,0.0
+Trim_M6 GC,0.0
+Trim_MG,0.0
+Trim_MPG,0.0
+Trim_Macan,0.0
+Trim_Macan GTS,0.0
+Trim_Macan S,0.0
+Trim_Mainstreet,0.0
+Trim_Mainstreet/Express/SXT,0.0
+Trim_Mazda3,0.0
+Trim_Mazda3 with Premium package,0.0
+Trim_Mazda3 with Select Package,0.0
+Trim_Medium,0.0
+Model_Supra,0.0
+Model_Sunfire,0.0
+Trim_N,0.0
+Trim_NAV,0.0
+Trim_NAV Screen,0.0
+Trim_NAVI,0.0
+Model_Sunbird 2000,0.0
+Trim_NISMO RS,0.0
+Trim_Neon SXT/SX2.0,0.0
+Trim_Nismo RS,0.0
+Trim_OBK 2.5 BASE,0.0
+Trim_OBK 2.5XT LTD,0.0
+Trim_OBK 2.5i,0.0
+Trim_OBK 2.5i LTD,0.0
+Trim_OBK 3.0R L.L.Bean,0.0
+Model_V40,0.0
+Trim_GT (Opt VHP),0.0
+Model_V60,0.0
+Trim_4.8i,0.0
+Trim_367P,0.0
+Trim_3LT,0.0
+Trim_3Row (JX),0.0
+Model_XE,0.0
+Trim_4 Motion 3.6 FSI SE,0.0
+Trim_4 Motion 3.6 FSI SE w/technology,0.0
+Trim_4 Motion 3.6 FSI SE w/technology w/ R-Line,0.0
+Trim_4-MATIC BluTEC (USA/Canada),0.0
+Trim_4-Matic,0.0
+Trim_4.2I,0.0
+Trim_4.4i,0.0
+Trim_4.4i SAV,0.0
+Trim_4.6L,0.0
+Trim_400,0.0
+Trim_4Motion 3.6 FSI SEL Premium,0.0
+Trim_430i,0.0
+Trim_430i GC,0.0
+Trim_430i xDrive,0.0
+Trim_440i,0.0
+Trim_440i GC,0.0
+Trim_440i xDrive,0.0
+Trim_440i xDrive GC,0.0
+Trim_450 VX Limited,0.0
+Model_XC70,0.0
+Trim_460 Premium,0.0
+Trim_460/460L,0.0
+Model_XC60,0.0
+Trim_4Motion 3.6 FSI S,0.0
+Trim_350C,0.0
+Trim_3500-ST,0.0
+Trim_3500-SLT,0.0
+Trim_3500-Longhorn,0.0
+Trim_320i,0.0
+Trim_320i SA,0.0
+Trim_320i xDrive,0.0
+Trim_320i xDrive SA,0.0
+Trim_325iT (Touring),0.0
+Trim_325xiT (Touring),0.0
+Trim_330e,0.0
+Trim_330i,0.0
+Trim_330i NA,0.0
+Trim_330i xDrive GT,0.0
+Model_XJ8,0.0
+Trim_330i xDrive SW,0.0
+Trim_330i xDrive Sedan NA,0.0
+Trim_335i xDrive,0.0
+Trim_340i SA,0.0
+Trim_340i xDrive,0.0
+Trim_340i xDrive GT,0.0
+Trim_340i xDrive SA,0.0
+Model_XJ6,0.0
+Trim_350 2WD,0.0
+Trim_350 AWD,0.0
+Trim_350/350AWD/450h/200t,0.0
+Model_XG350,0.0
+Trim_3500  Work Truck/Fleet/Base,0.0
+Trim_3500 LT,0.0
+Trim_3500 LTZ,0.0
+Model_XG300,0.0
+Trim_4Motion 3.6 FSI SEL,0.0
+"Trim_4Motion S, R-Line, SE, SEL",0.0
+Model_V60CC,0.0
+Trim_750xi / Alpina B7 xDrive SWB (500 hp),0.0
+Trim_740i xDrive,0.0
+Trim_750Li / ALPINA B7 LWB (540 HP),0.0
+Trim_750Li / Alpina B7 LWB (500 hp),0.0
+Trim_750Li xDrive/ALPINA B7 xDrive LWB (540 HP),0.0
+Trim_750Lxi / ALPINA B7 xDrive LWB (500 hp),0.0
+Trim_750i,0.0
+Trim_750i / ALPINA B7 SWB (540 HP),0.0
+Trim_750i / Alpina B7 SWB (500 hp),0.0
+Trim_750i xDrive / ALPINA B7 xDrive SWB (540 HP),0.0
+Trim_750i xDrive / B7 xDrive LWB,0.0
+Trim_750i xDrive /ALPINA B7 xDrive SWB (540 HP),0.0
+Trim_750i xDrive/B7 xDrive,0.0
+Trim_750i/B7,0.0
+"Trim_86 GT, 86 Hakone Edition",0.0
+Trim_4Motion SE w/ Tech,0.0
+Trim_A-SPEC,0.0
+Trim_ACTIV,0.0
+Trim_ADV,0.0
+Trim_ADV (with RES),0.0
+Trim_ADVANCE,0.0
+Trim_ADVANCE 6P,0.0
+Trim_ADVANCE V6,0.0
+Model_XC40,0.0
+Trim_AMG  4 MATIC,0.0
+Trim_AMG 4-MATIC,0.0
+Trim_AMG 4MATIC,0.0
+Trim_APV,0.0
+Model_X4,0.0
+Trim_740i,0.0
+Trim_740e xDrive,0.0
+Trim_7 Pass Limited w/NAVI&DVD,0.0
+Trim_7 Pass Limited w/NAVI,0.0
+Trim_4Motion SE w/ Tech R-Line w/ Sunroof Pkg.,0.0
+Trim_4S,0.0
+Trim_5 Pass Limited,0.0
+Trim_5 Pass Limited w/NAVI,0.0
+Trim_5.0L,0.0
+Trim_5.9 Limited,0.0
+Trim_500T Sport,0.0
+Trim_500h,0.0
+Trim_50th Aniv,0.0
+Trim_530e,0.0
+Trim_530e xDrive,0.0
+Trim_530i,0.0
+Trim_530i xDrive,0.0
+Trim_530xe (xDrive),0.0
+Trim_530xiT (Touring),0.0
+Trim_535i xDrive GT,0.0
+Trim_540i,0.0
+Trim_540i xDrive,0.0
+Trim_5S,0.0
+Trim_5ST-E,0.0
+Trim_5ST-M,0.0
+Trim_640i xDrive GC,0.0
+Trim_640xi xDrive GT,0.0
+Trim_650i xDrive GC / ALPINA B6 xDrive GC,0.0
+Trim_650i xDrive GC/ALPINA B6 xDrive GC,0.0
+Trim_7 Pass,0.0
+Trim_7 Pass Limited,0.0
+Trim_300h (Luxury grade),0.0
+Trim_300S V8,0.0
+Trim_300S V6,0.0
+Trim_2.5GT-B,0.0
+Trim_2.0T Premium Plus quattro,0.0
+Trim_2.0T Premium quattro/Premium Plus quattro,0.0
+Trim_2.0T SX,0.0
+Trim_2.0T quattro Premium,0.0
+Trim_2.0T quattro Premium Plus,0.0
+Trim_2.0T quattro Premium Plus w/ Season of Audi pkg.,0.0
+Trim_2.0T quattro Prestige,0.0
+Trim_2.3,0.0
+Trim_2.5,0.0
+Trim_2.5+,0.0
+Trim_2.5GT,0.0
+Trim_2.5GT LTD,0.0
+Trim_2.5GT Limited,0.0
+Trim_2.5X,0.0
+Model_XJR,0.0
+Trim_2.5X LTD,0.0
+Trim_2.5X Premium,0.0
+Trim_2.5XS,0.0
+Trim_2.5XS PLUS,0.0
+Trim_2.5XT,0.0
+Trim_2.5XT LTD,0.0
+Trim_2.5i,0.0
+Trim_2.5i Limited,0.0
+Trim_2.5i Plus,0.0
+Trim_20,0.0
+Trim_20 PREMIUM,0.0
+Trim_20 Premium,0.0
+Trim_20 TECH,0.0
+Trim_2.0T Premium Plus,0.0
+Trim_2.0T Premium,0.0
+Trim_2.0L,0.0
+Trim_1SV value leader sedan,0.0
+Trim_129,0.0
+Trim_140,0.0
+Trim_150,0.0
+Trim_150 JOB RATED,0.0
+Trim_1500 Cargo,0.0
+Trim_1500 Hybrid,0.0
+Trim_1500 LT,0.0
+Model_Zephyr,0.0
+Trim_1500 Passenger LS,0.0
+Model_ZX2,0.0
+Trim_1500-Laramie,0.0
+Trim_1500-Longhorn,0.0
+Trim_1500-SLT,0.0
+Trim_1500-ST,0.0
+Trim_1500-Sport,0.0
+Trim_1FL,0.0
+Trim_1LS,0.0
+Trim_1LS/1LT,0.0
+Trim_1LT (AWD),0.0
+Trim_1LT (FWD),0.0
+Trim_1LT (LT),0.0
+Trim_1LT ECO,0.0
+Trim_1LT/Fleet,0.0
+Trim_1LZ,0.0
+Trim_1LZ/1SS,0.0
+Trim_1SD,0.0
+Model_ZDX,0.0
+Trim_20 Tech,0.0
+Trim_200C,0.0
+Trim_202,0.0
+Trim_3.0i SAV,0.0
+Trim_3.0si SAV,0.0
+Trim_3.5,0.0
+Trim_3.6 FSI Launch Model,0.0
+Trim_3.6 FSI Launch Model 4Motion,0.0
+Trim_3.6 FSI S,0.0
+Trim_3.6 FSI SE,0.0
+Trim_3.6 FSI SE 4Motion,0.0
+Trim_3.6 FSI SE w/Technology,0.0
+Trim_3.6 FSI SE w/Technology  / 3.6 FSI SE w/ Technology w/ R-Line,0.0
+Trim_3.6 FSI SE w/technology  4 Motion,0.0
+Trim_3.6 FSI SEL,0.0
+Trim_3.6 FSI SEL 4Motion,0.0
+Trim_3.6 FSI SEL 4Motion w/ R-Line,0.0
+Trim_3.6 FSI SEL Premium 4Motion,0.0
+Trim_3.8L,0.0
+Trim_300 AWD,0.0
+Trim_300 Limited,0.0
+"Trim_300 Limited (US, Can), 300C (Mex)",0.0
+Trim_300 Touring,0.0
+"Trim_300 Touring (US & Can), 300 Limited (BUX)",0.0
+Trim_300/430,0.0
+Trim_300C John Varvatos,0.0
+"Trim_300C Luxury Series (BUX), 300C Platinum (U,C)",0.0
+Trim_300C Luxury Series/Platinum,0.0
+Trim_300C Varvatos,0.0
+Trim_300C/Limited,0.0
+Trim_300M,0.0
+Trim_3.0si,0.0
+Trim_3.0i,0.0
+Trim_210,0.0
+Trim_3.0T quattro Premium Plus S line,0.0
+Trim_228i xDrive,0.0
+Trim_230i,0.0
+Trim_230i xDrive,0.0
+Trim_24 Premium,0.0
+Model_Z3,0.0
+Trim_250 AWD,0.0
+Trim_2500 Cargo,0.0
+Model_Yaris iA,0.0
+Trim_2500-Longhorn,0.0
+Trim_2500-Powerwagon,0.0
+Trim_2500-SLT,0.0
+Model_XLR,0.0
+Trim_2CXL,0.0
+Model_XL7,0.0
+Model_XK8,0.0
+Trim_2LT (AWD),0.0
+Trim_2LT (FWD),0.0
+Trim_2LT / Captiva Sport LT,0.0
+Trim_2LT ECO,0.0
+Trim_2LZ,0.0
+Trim_2Row,0.0
+Model_XK,0.0
+Trim_3.0,0.0
+Trim_3.0R,0.0
+Trim_3.0R L.L.Bean,0.0
+Trim_3.0R-LTD,0.0
+Trim_3.0T quattro Premium Plus,0.0
+Trim_AWD,0.0
+Trim_AWD (Opt VBY),0.0
+Trim_AWD 6 Cyl,0.0
+Trim_EWB,0.0
+Trim_ECO/ECO PLUS,0.0
+Trim_EL,0.0
+Trim_EL DRW High Roof Van,0.0
+Trim_EL High Roof,0.0
+Trim_ELITE,0.0
+Trim_EP,0.0
+Trim_ES,0.0
+Trim_ES/LS,0.0
+Model_Vanagon,0.0
+Trim_ESV Luxury,0.0
+Trim_ESV Platinum,0.0
+Trim_ESV Premium,0.0
+Trim_ESV Ultra Luxury Collection,0.0
+Trim_EX (ULEV),0.0
+Trim_Crossover (US)/Crossover Tech (US)/JX+ESP (Canada)/Sedan LE (ESP) (US)/Sedan LE Pop Pkg (ESP) (US),0.0
+Trim_EX (with A/C and ABS),0.0
+Trim_EX (with leather),0.0
+Trim_EX - Middle level,0.0
+Trim_EX / EX Prem,0.0
+Trim_EX with leather (With RES),0.0
+"Trim_EX, EX-L",0.0
+Trim_EX-L NAVI,0.0
+Trim_EX-L With RES,0.0
+Trim_EX-L( With RES),0.0
+Trim_EX-L( with NAVI),0.0
+Trim_EX-L-V6,0.0
+Trim_EX-LN,0.0
+Trim_EX-P,0.0
+Trim_ECO 2SA,0.0
+Trim_ECO,0.0
+"Trim_EASY(US-Mex), SPORT (CAN)",0.0
+Trim_EASY,0.0
+Trim_Crossword,0.0
+Trim_Cruiser S Wagon,0.0
+Model_Villager,0.0
+Trim_D grade,0.0
+Trim_D2,0.0
+Trim_D2 (Single Rear Wheels),0.0
+Trim_DEL SOL S (Convertible),0.0
+Trim_DEL SOL Si (Convertible),0.0
+Model_Vibe,0.0
+Trim_DENALI,0.0
+Model_Veracruz,0.0
+Model_Venue,0.0
+Model_Venture,0.0
+Trim_DUROCROSS,0.0
+Trim_DX,0.0
+Trim_DX-A (Canada),0.0
+Trim_DX-VP,0.0
+Trim_DX/DXVP,0.0
+Model_Veloster N,0.0
+Model_Vandura,0.0
+Model_Vanden Plas,0.0
+Trim_Denali Hybrid,0.0
+Trim_Denali XL,0.0
+Trim_Duragrain 5 Seat,0.0
+Trim_Dynamic,0.0
+Trim_Dynamic Premium,0.0
+Trim_E-Hybrid,0.0
+Trim_EX-V6,0.0
+Trim_EX/EX Prem/EX Prem Plus,0.0
+Trim_EX/SX,0.0
+Trim_FIFTH AVENUE,0.0
+Trim_FLT,0.0
+Trim_FORESTER SPORTS,0.0
+Trim_FWD 6 Cyl,0.0
+Trim_FWD w/ Auto,0.0
+Trim_FWD w/ Manual,0.0
+Trim_Feature Specification 1,0.0
+Trim_Feature Specification 2,0.0
+Trim_First Edition,0.0
+Trim_Flare Side,0.0
+Trim_Flareside,0.0
+Trim_Fleet,0.0
+Trim_Fleet Vehicle,0.0
+Trim_Fleet/1LT,0.0
+Model_V70,0.0
+Trim_Fleet/LS,0.0
+Trim_Formula,0.0
+Trim_GC,0.0
+Trim_GC SULEV-PZEV,0.0
+Trim_GH,0.0
+Trim_GL,0.0
+"Trim_GL, LX",0.0
+Trim_GLA250,0.0
+Trim_GLC300,0.0
+Trim_GLS,0.0
+Trim_GLS (Middle Level),0.0
+"Trim_GLS, JSL, TAX (Middle Grade)",0.0
+Trim_GS,0.0
+Trim_FL,0.0
+Trim_FF,0.0
+Trim_EXCLAIM,0.0
+Trim_FE / LX / LX Tech,0.0
+Trim_EXL,0.0
+Trim_EXL / EXL-NR,0.0
+Trim_EXL w/RES,0.0
+Trim_EXL-NAVI,0.0
+Trim_EXL-RES,0.0
+Trim_EXT,0.0
+Trim_EXT & RF2,0.0
+Trim_EXT - Sport Utility Truck,0.0
+Trim_EXT Sport Utility Vehicle,0.0
+Trim_Eco,0.0
+Trim_Eco (1SA),0.0
+Trim_Essence,0.0
+Trim_Ex-L,0.0
+Trim_Express,0.0
+Trim_Ext W/B,0.0
+Trim_Ext. CXL,0.0
+Trim_F,0.0
+Trim_F Sport,0.0
+Trim_F Sport Base,0.0
+"Trim_F Sport Base, AWD F Sport Base",0.0
+"Trim_F Sport Comfort, AWD F Sport Comfort",0.0
+Trim_F Sport High,0.0
+Trim_F-PACE,0.0
+Model_V90CC,0.0
+Trim_F-TYPE,0.0
+Trim_F-Type,0.0
+Trim_F/G,0.0
+"Trim_Crossroad (BUX,US,Can), Limited (M)",0.0
+Trim_Crossover (US)/Crossover Premium (US)/Crossover Tech Value Pkg (US)/JX+ESP (Canada)/Sedan LE (ESP) (US)/Sedan LE Pop Pkg (ESP) (US)/Sedan Base+ESP (Canada),0.0
+Trim_ActiveHybrid 3 Sedan,0.0
+Trim_Base(w/o AL wheel + Power seat or w/ AL wheel),0.0
+Trim_Base (U.S.); Base 4-M Bi-Turbo (Canada),0.0
+Trim_Base (US)/Convenience Pkg (Canada)/JX (Canada)/15inch (US),0.0
+Trim_Base (non R design),0.0
+Trim_Base +,0.0
+Trim_Base / 4,0.0
+Trim_Base / Platinum Edition,0.0
+Trim_Base 4-M,0.0
+Trim_Base 4-M Bi-Turbo (Canada),0.0
+Trim_Base LS,0.0
+Trim_Base P,0.0
+Trim_Base P+ES,0.0
+Trim_Base grade,0.0
+Trim_Base(X),0.0
+Trim_Base+Alloy Wheel Pack,0.0
+Trim_Crossover (US)/Crossover Premium (US)/Crossover Tech (US)/JX (Canada)/Sedan LE (US)/Sedan LE Pop Pkg. (US)/Sedan Base (Canada),0.0
+Trim_Base+ES,0.0
+"Trim_Base, C/V",0.0
+"Trim_Base, S",0.0
+Trim_Base-4M,0.0
+Trim_Base/Acura Watch Plus,0.0
+Model_Windstar,0.0
+Trim_Base/Base Tech. Pkg. (SX4 JX),0.0
+Trim_Base/Classic,0.0
+Trim_Base/HSE (US) HSE (Canada),0.0
+Model_W-Series,0.0
+Trim_Base/Hybrid Base/SE,0.0
+Trim_Base/LS,0.0
+Trim_Base/LX,0.0
+Trim_Base (JA),0.0
+"Trim_Base (2WD), 4 (4WD)",0.0
+Trim_Base (1SB),0.0
+Model_X-Type,0.0
+Trim_ActiveHybrid5,0.0
+Trim_Advance,0.0
+Trim_Advance Ent,0.0
+Trim_Advance Ent.,0.0
+Trim_Advanced Ent,0.0
+Trim_Adventure,0.0
+Trim_Adventure 4WD / Trail AWD (Canada),0.0
+Trim_All Terrain,0.0
+Trim_Alpha,0.0
+Trim_Auto Biography,0.0
+Trim_Auto-biography,0.0
+Trim_Autobiography,0.0
+Trim_Automatic and Convertible,0.0
+Trim_Avenir,0.0
+Trim_B250,0.0
+Trim_BAS Hybrid,0.0
+Trim_BASE-E,0.0
+Trim_BASE-M,0.0
+Trim_BL,0.0
+Trim_BLACK EDITION,0.0
+Trim_BLUETEC,0.0
+Trim_BLUETEC  4-MATIC,0.0
+Model_X2,0.0
+Trim_BLUETEC 4MATIC,0.0
+Trim_BRIARWOOD,0.0
+Trim_Baja,0.0
+Trim_Baja S,0.0
+Trim_Base/Limited,0.0
+Trim_Base/Limited/Touring,0.0
+Trim_Base/Nismo,0.0
+"Trim_Carrera (2WD), Carrera 4S (4WD)",0.0
+Trim_Cavalier,0.0
+Trim_Cayman,0.0
+Trim_Cayman S,0.0
+Model_Voyager,0.0
+Trim_Classic,0.0
+Trim_Classic & Classic Wagon,0.0
+Trim_Classic - Styleside,0.0
+Trim_Club,0.0
+Trim_Club/GS,0.0
+Model_Vitara,0.0
+Trim_Cobra SVT,0.0
+"Trim_Comfort, AWD Comfort",0.0
+Trim_Convenience,0.0
+Trim_Convenience (1SG),0.0
+Trim_Convenience 1,0.0
+Trim_Convenience 2,0.0
+Trim_Convenience Group,0.0
+Trim_Core grade (Canada only),0.0
+Trim_Corvette & Convertible,0.0
+Trim_Coupe,0.0
+Trim_Coupe 2.8,0.0
+Trim_Coupe 3.0si,0.0
+Trim_Coupe Sulev,0.0
+Trim_Coupe quattro,0.0
+Trim_Crew,0.0
+Trim_Crew Cab,0.0
+Trim_Crew Cab DRW,0.0
+Trim_Carrera (2WD)/Carrera 4 (4WD)/Carrera 4S (4WD),0.0
+"Trim_Carrera (2WD), Carrera 4 (4WD)",0.0
+Trim_Base/S,0.0
+Trim_Carrera (2WD + 4WD),0.0
+Trim_Base/SXT,0.0
+Trim_Blue/GLS/SE,0.0
+Trim_Boxster,0.0
+Trim_Boxster S / Boxster GTS,0.0
+Trim_Brougham,0.0
+Trim_Bus,0.0
+Trim_C/V,0.0
+Trim_CABRIO,0.0
+Trim_CDI 4MATIC,0.0
+Trim_CE,0.0
+Trim_COBRA,0.0
+Trim_CS,0.0
+Trim_CTC,0.0
+Trim_CV,0.0
+Trim_CX,0.0
+Trim_CX/DX,0.0
+Model_Vue,0.0
+Trim_Cabrio,0.0
+Trim_Cabrio (2WD + 4WD),0.0
+Trim_Cabrio Touring,0.0
+Trim_Cabriolet (2WD + 4WD),0.0
+"Trim_Cabriolet (2WD), 4 Cabriolet (4WD)",0.0
+"Trim_Cabriolet (2WD), Cabriolet 4 (4WD)",0.0
+Trim_Cargo EXT,0.0
+Trim_Cargo Ext,0.0
+Trim_Cargo Van,0.0
+Trim_Cargo Van High Roof 159in WB,0.0
+Trim_R Sport,0.0
+Trim_R-Dynamic HSE,0.0
+Series_Denali (AWD),0.0
+Model_RSX,0.0
+Series_3.3T Premium,0.0
+"Series_3.6 FSI SE w/ Tech , 3.6 FSI SE w/ Tech R-Line",0.0
+Series_3.6 FSI V6 GT,0.0
+Series_3.6 L FSI Sport w/Technology,0.0
+Series_3.6L AWD,0.0
+Series_3.6L FSI V6 SEL Premium,0.0
+Series_3.6L Luxury AWD,0.0
+"Series_3.6L Luxury, AWD",0.0
+Series_3.6L Premium Luxury (CSAV) AWD,0.0
+"Series_3.6L Premium Luxury, AWD",0.0
+Series_3.8 / 3.8 Premium / 3.8 Tech/ 5.0 / 5.0 R-Spec,0.0
+Series_3.8 Base / 3.8 Premium / 3.8 Ultimate / 5.0 Ultimate,0.0
+Series_3.8 Base / 3.8 Sport / 3.8 Ultimate,0.0
+Series_3/4 ton,0.0
+Series_3500 Cargo,0.0
+Series_3/4 ton base model,0.0
+Series_300,0.0
+Series_300 Limited,0.0
+"Series_300 Limited (US, Can), 300C (Mex)",0.0
+Series_300E,0.0
+Series_300S,0.0
+Series_300TE,0.0
+Series_320,0.0
+Series_320A,0.0
+Series_320C,0.0
+Series_350,0.0
+Series_350 HD,0.0
+Series_3500 (1 Ton),0.0
+Series_3.3T Elite,0.0
+Series_3.3T Advanced,0.0
+Series_3.3T,0.0
+Series_3.2 Prestige,0.0
+Model_Ram Van,0.0
+Series_25quattro,0.0
+Series_2CXL,0.0
+Series_3,0.0
+Series_3 - Series,0.0
+Series_3 Series,0.0
+Model_Rainier,0.0
+Model_Raider,0.0
+Series_3.0 Premium Plus S Line/TDI Premium Plus w/ S Line Pkg.,0.0
+Series_3.0T Premium Plus,0.0
+Series_3.0T Prestige,0.0
+Series_3.0T Prestige S Line,0.0
+Series_3.0T Prestige S Line/TDI Prestige w/ S line Pkg.,0.0
+Series_3.0T S Line Prestige,0.0
+Series_3.0T S-Line Prestige,0.0
+Series_3.0T quattro Premium Plus S Line / TDI quattro Premium Plus S Line,0.0
+Series_3.0T quattro Premium plus,0.0
+Series_3.0T quattro competition Prestige,0.0
+Series_3.0T quattro prestige,0.0
+Series_3.0T/TDI Premium,0.0
+Model_RX-8,0.0
+Series_3.0TT Luxury Collection,0.0
+"Series_3.0TT Luxury, AWD",0.0
+Series_3.0TT Platinum Collection,0.0
+Series_3.0TT Sport AWD,0.0
+Series_3.0i SAV,0.0
+Series_3.2 Premium Plus,0.0
+Series_3500 (1 ton),0.0
+Series_3500 HD,0.0
+Series_A3 Sportback e-tron Premium,0.0
+Model_RC F,0.0
+Series_5 Door wide body,0.0
+Series_5 Series,0.0
+Series_5 door Wide Body,0.0
+Model_RS 5,0.0
+Model_RS 4,0.0
+Series_5.0 Ultimate,0.0
+Series_5DR GS / 4DR GLS,0.0
+Series_5DR SE / 5DR SE Sunroof/ 4DR GLS Prem,0.0
+Model_RLX,0.0
+Series_6-series,0.0
+Series_7,0.0
+"Series_7"" Pickup",0.0
+Model_RL,0.0
+Series_740,0.0
+Series_3500W,0.0
+Series_86,0.0
+Series_9-3 2.0T convertible,0.0
+Series_9-3 2.0T sedan & combi,0.0
+Series_9-3X combi,0.0
+Series_9-5 Aero sedan,0.0
+Series_9-5 Turbo4 sedan,0.0
+Series_A220,0.0
+Series_A220-4M,0.0
+Series_A3 Cabriolet quattro Premium plus,0.0
+Series_A3 Premium,0.0
+Series_A3 Premium / Titanium,0.0
+Series_A3 Premium Plus,0.0
+Series_A3 Quattro Premium,0.0
+Series_5 Door Wide body,0.0
+Series_5,0.0
+Series_4Motion w/Sport Pkg,0.0
+Series_4Motion w/Luxury Pkg,0.0
+Series_4 Motion,0.0
+Series_4 door Wide Body,0.0
+Series_4 or 5 seater plus 1/4 ton (nominal),0.0
+Series_4 or 5 seater plus 1/4 ton nominal,0.0
+Series_4-Motion w/Auto,0.0
+Model_RS 7,0.0
+Model_RS 6,0.0
+Series_4.0T Premium plus quattro,0.0
+Series_4.0T quattro Prestige/Performance 4.0T quattro Prestige,0.0
+Series_4.0T quattro premium plus,0.0
+Series_4.2 & 3.0 TDI S-Line,0.0
+Series_4.2 Coupe,0.0
+Series_4.2 Prestige w/S-Line Pkg.,0.0
+Series_4.2 quattro,0.0
+Series_428i,0.0
+Series_435i,0.0
+Series_4Motion 3.6 FSI SEL Premium R-Line,0.0
+"Series_4Motion 3.6 FSISE w/ Tech , 4Motion 3.6 FSISE w/ Tech  R-Line",0.0
+Series_4Motion S,0.0
+"Series_4Motion S, SE, SEL",0.0
+Series_4Motion SE,0.0
+"Series_4Motion SE, 4Motion SEL",0.0
+"Series_4Motion SE, 4Motion SEL, 4Motion SEL R-Line, 4Motion SEL R-Line Jet-Black",0.0
+Series_4Motion SEL,0.0
+Series_4Motion SEL Premium R-Line,0.0
+Series_4Motion SEL Premium w/ R-Line,0.0
+"Series_4Motion SEL Premium, 4Motion SEL Premium R-Line",0.0
+Series_2500 3/4 ton,0.0
+Model_Ramcharger,0.0
+Model_Reatta,0.0
+Series_1.6 AT EX STD/Conv/Eco,0.0
+Trim_xDrive Sports Wagon,0.0
+Trim_xDrive28d,0.0
+Model_Roadmaster,0.0
+Trim_xDrive28i SAV,0.0
+Trim_xDrive35d,0.0
+Model_Riviera,0.0
+Trim_xDrive40e,0.0
+Trim_xDrive40i,0.0
+Trim_xDrive48i,0.0
+Trim_xDriveM40i,0.0
+Series_1 ton STD,0.0
+Model_Reno,0.0
+Series_1.4T SE,0.0
+Series_1.6 AT LX STD/Power,0.0
+Model_Regal TourX,0.0
+Series_1.8T,0.0
+Series_1.8T / TDI,0.0
+Series_1.8T Dune,0.0
+Series_1.8T R-Line,0.0
+"Series_1.8T S, Wolfsburg Edition, Fleet Edition,Classic",0.0
+Series_1.8T SE / 1.8T Sport,0.0
+"Series_1.8T SE, SE w/Technology TDI SE",0.0
+"Series_1.8T SE, SEL / TDI SE, SEL",0.0
+"Series_1.8T SEL, SEL Premium",0.0
+"Series_1.8T SEL, SEL Premium TDI S, SE, SEL",0.0
+Series_1.8T SEL/TDI,0.0
+Series_1.8T Sport,0.0
+"Series_1.8T, TDI",0.0
+Trim_xDrive Sport Wagon,0.0
+Trim_xDrive Sedan/xDrive Sedan SA,0.0
+Trim_xDrive Sedan SA SULEV,0.0
+Trim_xDrive Sedan SA,0.0
+Trim_quattro Premium Plus,0.0
+Trim_quattro Premium Plus / quattro Progressiv (Canada),0.0
+Trim_quattro Premium Plus S-Line / quattro Prestige S-Line,0.0
+Trim_quattro Premium S-Line,0.0
+Trim_quattro Prestige,0.0
+Trim_quattro Prestige / quattro Technik (Canada),0.0
+Trim_quattro Prestige S-Line / quattro Techink S-Line (Canada),0.0
+Trim_sDrive 28i SAV,0.0
+Trim_sDrive28i,0.0
+Trim_sDrive28i SAV,0.0
+Model_Rodeo/Amigo,0.0
+Trim_with Extra Duty Suspension,0.0
+Trim_with Leather,0.0
+Trim_with NAVI,0.0
+Trim_with RES,0.0
+Trim_xDrive Convertible,0.0
+Trim_xDrive Coupe,0.0
+Trim_xDrive GC,0.0
+Trim_xDrive GC SULEV-PZEV,0.0
+Trim_xDrive GT,0.0
+Model_Rodeo,0.0
+Trim_xDrive SA,0.0
+Trim_xDrive SA SULEV,0.0
+Trim_xDrive SA SULEV-PZEV,0.0
+Trim_xDrive SULEV,0.0
+Trim_xDrive SULEV-PZEV,0.0
+Trim_xDrive Sedan,0.0
+Series_1/2 ton AWD,0.0
+Series_1/2 ton Alpha Edition,0.0
+Series_1/2 ton Base,0.0
+"Series_2.0T Elite, 3.3T Prestige, 3.3T Sport",0.0
+"Series_2.0T GLI SE, SEL",0.0
+Series_2.0T Luxury,0.0
+Series_2.0T Premium,0.0
+Series_2.0T Premium / Hybrid Prestige / TDI Premium Plus,0.0
+Series_2.0T Premium Hybrid,0.0
+Series_2.0T Premium Luxury (PHEV),0.0
+Series_2.0T Premium/Hybrid Prestige/TDI Premium Plus,0.0
+"Series_2.0T Prestige, 2.0T Dynamic, 2.0T Sport (AT)",0.0
+Series_2.0T Quattro premium,0.0
+Series_2.0T quattro Premium / Hybrid quattro Prestige / TDI quattro Premium Plus,0.0
+Series_2.0T quattro Premium Plus,0.0
+Series_2.0T quattro Premium/quattro Premium Plus,0.0
+Series_2.0T quattro premium plus,0.0
+Series_2.0T w/Luxury Pkg,0.0
+Series_2.0T/ 3.6L,0.0
+Series_2.4 EX STD/Premium /Tech,0.0
+Series_2.4 LX STD/Conv,0.0
+"Series_2.5 SE,  SEL, 2.0T Wolfsburg Edition/ TDI w/sunroof",0.0
+"Series_2.5 SE,  SEL, TDI w/snrf 2.0T Wolfsburg Edition",0.0
+"Series_2.5 SE, TDI",0.0
+"Series_2.5 SE, TDI w/sunroof",0.0
+Series_2.5/ TDI,0.0
+Series_2.5/ TDI w/Package  2,0.0
+Series_2.5/ TDI w/Package 1,0.0
+Series_20th Anniversary Edition,0.0
+Series_228I,0.0
+Model_Regency,0.0
+"Series_2.0T Elite, 3.3T Prestige, 3.3T Sport, 3.3T Dynamic Edition, 3.3T Design Edition",0.0
+Series_2.0T Beetle/ 2.0T Beetle Black Turbo/2.0T Beetle WhiteTurbo,0.0
+Series_1/2 ton DLX,0.0
+Series_2.0T Beetle,0.0
+Series_1/2 ton FWD,0.0
+Series_1/2 ton SR5,0.0
+Series_1/2 ton Special Edition,0.0
+Series_1/4 ton nominal (4 or 5 seater plus),0.0
+Model_Rendezvous,0.0
+Model_Relay,0.0
+Series_1500 (1/2 Ton) Luxury,0.0
+Series_1500 (1/2 ton),0.0
+Series_1500 Cargo,0.0
+Series_1500 Passenger,0.0
+Series_190E,0.0
+Series_1SV,0.0
+Series_2-Series,0.0
+Series_2-series,0.0
+Series_2..0T,0.0
+Series_2.0 Premium,0.0
+Series_2.0 Progressive S-Line/3.0T TDI Technik S-Line,0.0
+Series_2.0 SX Full Option,0.0
+Series_2.0 T,0.0
+Series_2.0L and 2.0L Premium,0.0
+Series_2.0L/2.0LS,0.0
+Series_2.0T,0.0
+Series_2.0T /3.6L w/Luxury Pkg.,0.0
+Series_2.0T Advanced,0.0
+"Series_2.0T Base, Sport, R-Line",0.0
+Series_2.0T Base/ Base w/DCC & Nav.,0.0
+"Series_2.0T Base/ Performace Pkg. S, SE, Autobahn",0.0
+Series_A3 Quattro Premium Plus,0.0
+Series_A3 Sportback e-tron Premium plus,0.0
+Trim_R-Dynamic HSE / First Edition,0.0
+Series_CLS450-4M,0.0
+Series_CLK320,0.0
+Series_CLK320A,0.0
+Series_CLK320C,0.0
+Series_CLK350,0.0
+Series_CLK430,0.0
+Series_CLK500,0.0
+Series_CLK500A,0.0
+Series_CLK55,0.0
+Series_CLK55 AMG,0.0
+Series_CLK550,0.0
+Trim_124,0.0
+Series_CLS400-4M,0.0
+Series_CLS450,0.0
+Series_CLS55,0.0
+Series_CXL - 4XL,0.0
+Model_Q70,0.0
+Series_CLS63,0.0
+Series_CMA,0.0
+"Series_CPE, FILA  ANNIV. ED.",0.0
+Series_CROSSROAD,0.0
+"Series_CROSSROAD (M,U,C)",0.0
+Series_CROWN VICTORIA,0.0
+Series_CS,0.0
+Series_CX,0.0
+Series_CX (V6),0.0
+Series_CX 1/2 ton,0.0
+Series_CX Cloth,0.0
+Series_CXL (different from HD),0.0
+Series_CLA45-4M,0.0
+Series_CLA45 AMG,0.0
+Series_CLA250 4MATIC,0.0
+Model_Q70L,0.0
+Series_Blue (HEV),0.0
+Series_C1500/C2500/P1500,0.0
+Series_C230,0.0
+Series_C240,0.0
+Model_QX30,0.0
+Series_C2500/C3500,0.0
+Series_C2500/P2500,0.0
+Series_C280,0.0
+Model_Q8,0.0
+Series_C300d-4M,0.0
+Series_C320,0.0
+Series_C32K,0.0
+Series_C350,0.0
+Series_C3500/3500C,0.0
+Series_C350e,0.0
+Series_C400,0.0
+Series_C450-4M Sport AMG,0.0
+Series_C55 AMG,0.0
+Series_C63,0.0
+Series_C63 AMG,0.0
+Series_C63 S AMG,0.0
+Series_CE,0.0
+Series_CL500,0.0
+Series_CL500C,0.0
+Series_CL55,0.0
+Series_CL550,0.0
+Series_CL55K,0.0
+Series_CXL - 2XL,0.0
+Series_CXL - 5XL,0.0
+Series_A3 e-tron Premium,0.0
+Series_DELUXE,0.0
+Series_Coupe 2.0 Premium Plus,0.0
+Series_Coupe 2.0 Prestige,0.0
+Series_Coupe Level 2,0.0
+Series_Coupe Level 3,0.0
+Series_Coupe Level 3 - Auto (RF9),0.0
+Series_Coupe Quattro Prestige,0.0
+Series_Coupe quattro,0.0
+Series_Coupe quattro 2.0/ 3.2 Prestige,0.0
+Series_Custom,0.0
+Series_D1 / Heavy Duty,0.0
+Series_D2 (Dual Rear Wheels),0.0
+Series_D2 (Single Rear Wheels),0.0
+Series_D250 (3/4 Ton),0.0
+Series_DENALI,0.0
+Series_CXL 1/2 ton,0.0
+Model_Q45,0.0
+Model_Q40,0.0
+Series_DLX,0.0
+Series_DLX (1/2 ton),0.0
+Series_DN,0.0
+Series_DR / Light Duty,0.0
+Series_DX,0.0
+Series_DX-VP,0.0
+Series_DX/Deluxe,0.0
+Series_DX/EX,0.0
+Series_Deluxe (GL),0.0
+Model_Protege,0.0
+Series_Denali (1/2 Ton),0.0
+Series_Coupe,0.0
+Series_Corvette & Convertible,0.0
+Model_Q5 e,0.0
+Series_Cooper ALL4,0.0
+Series_CXL Leather,0.0
+Series_CXL Leather Entry,0.0
+Series_CXL Luxury & Confidence,0.0
+Series_CXL Turbo - 2XT,0.0
+Series_CXL Turbo - 3XT,0.0
+Series_CXL Turbo - 4XT,0.0
+Series_CXL Turbo - 7XT,0.0
+Series_CXL Ultra Luxury,0.0
+Series_CXL-1XL,0.0
+Series_CXS,0.0
+Series_Cabriolet,0.0
+Series_Cabriolet S-Line,0.0
+Series_Cabriolet quattro,0.0
+Series_Camper,0.0
+Series_Canvas Top,0.0
+Series_Cargo,0.0
+Series_Cartier,0.0
+Series_Citadel,0.0
+Series_Class C Hard Top,0.0
+Series_Comfortline,0.0
+Series_Commemorative Edition,0.0
+"Series_Confortline, Highline, TDI",0.0
+Series_Conv,0.0
+Series_Conventional Cab,0.0
+Series_Convertible,0.0
+Series_Convertible w/ auto trans,0.0
+Series_Convience,0.0
+Series_Blue,0.0
+Series_Blk Label,0.0
+Series_Black Label HEV,0.0
+Series_ALL-TRAC,0.0
+Series_A7 3.0T quattro prestige,0.0
+Series_A8 L 4.0T quattro Sport,0.0
+Series_ACA21L/ACA26L,0.0
+Series_ACA28L/ACA23L,0.0
+Series_ACV20L/MCV20L,0.0
+Series_ACV30L/MCV30L,0.0
+Series_ACV30L/MCV30L/MCV31L,0.0
+Series_ACV30L/MCV31L,0.0
+Series_AGT20L,0.0
+Model_R8,0.0
+Series_AGZ10L-AWTLTA,0.0
+Model_R32,0.0
+Series_AGZ15L-AWTLTA / AYZ15L-AWXLBA,0.0
+Series_AMG C43,0.0
+Series_Black Label,0.0
+Series_AMG C63,0.0
+Series_AMG C63 S,0.0
+Series_AMG CLA45,0.0
+Series_AMG CLS63 S,0.0
+Series_AMG E43,0.0
+Series_AMG E53,0.0
+Series_AMG E63 S,0.0
+Series_AMG GLC 63,0.0
+Series_AMG GLC 63 S,0.0
+Series_AMG GLC43,0.0
+Series_AMG GLE 63,0.0
+Series_AMG GLE43,0.0
+Series_AMG GT,0.0
+Series_A7 3.0T quattro Premium plus,0.0
+Series_A6 quattro Premium,0.0
+Series_A6 quattro 2.0T Premium Plus,0.0
+Series_A6 quattro 2.0T Premium,0.0
+Series_A3 quattro Premium,0.0
+Series_A3 quattro Premium Plus S line,0.0
+Series_A4 Premium / Titanium,0.0
+Series_A4 Premium plus,0.0
+Series_A4 Premium plus/A4 ultra Premium Plus,0.0
+Series_A4 allroad Premuim,0.0
+Series_A4 allroad Premuim plus,0.0
+Series_A4 allroad Prestige,0.0
+Series_A4 allroad quattro Premium plus,0.0
+Series_A4 premium/A4 Ultra Premium,0.0
+Series_A4 quattro Premium,0.0
+Series_A4 quattro Prestige,0.0
+Series_A4 quattro premium,0.0
+Series_A5 Cabriolet quattro Premium Plus,0.0
+Series_A5 quattro Premium,0.0
+Series_A5 quattro Premium  Plus S Line,0.0
+Series_A5 quattro Premium Plus,0.0
+Series_A5 quattro Premium Plus S Line,0.0
+Series_A5 quattro Premium S Line,0.0
+Series_A5 quattro Premium plus,0.0
+Series_A5 quattro Prestige,0.0
+Series_A5 quattro Prestige S Line,0.0
+Series_A6 2.0 T Sport/Premium,0.0
+Series_A6 2.0T Quattro Sport/Premium,0.0
+Model_RAV4 Prime,0.0
+Series_A6 3.0T quattro premium plus,0.0
+Series_A6 Sedan quattro Premium Plus,0.0
+Series_AMG S63,0.0
+Series_AN,0.0
+Series_AN/DN,0.0
+Series_All-Purpose Vehicle (APV),0.0
+"Series_Altitude (Can), Latitude Lux (US)",0.0
+Series_Arc,0.0
+Series_Armada,0.0
+"Series_Auto trans, AWD",0.0
+"Series_Auto trans, AWD, Navigation, High feature V6",0.0
+"Series_Auto trans, RWD",0.0
+Series_Auto-biography,0.0
+Series_Automatic,0.0
+Series_Avant,0.0
+Series_Avant quattro,0.0
+Series_Avant quattro/ 2.0 Premium,0.0
+Series_Avant quattro/ 2.0 Premium Plus,0.0
+Series_Avant quattro/ 2.0 Prestige,0.0
+Series_Azera,0.0
+Series_Azera tech,0.0
+Series_BASE,0.0
+Series_BH,0.0
+Series_BL,0.0
+Series_Base / Executive,0.0
+Series_Base 4Motion,0.0
+Series_Base and S,0.0
+Series_Base w/ DCC & Nav,0.0
+Series_Base w/DCC & Nav,0.0
+"Series_Base, S, SE , SEL/TDI S, SE SEL",0.0
+"Series_Base, Value Edition, Tech Package",0.0
+Series_Base/ LX,0.0
+Model_QX4,0.0
+"Series_Alltrack S,SE",0.0
+Series_All Trims,0.0
+Series_ANF10L,0.0
+Series_All Terrain 2 AWD,0.0
+Series_ANT10L,0.0
+Series_APV,0.0
+Series_APV 1/2 ton w/ Extended wheel base,0.0
+Series_APV w/ Extended wheel base,0.0
+Series_ARL10L/GRL12L/GRL16L/GWL10L,0.0
+Model_R-Class,0.0
+Series_ASC10L/GSC10L/GSC15L/GSC16L,0.0
+Series_ASE30L,0.0
+Model_R Conventional,0.0
+Model_Quattroporte,0.0
+Series_AWD Avenir,0.0
+Series_AWD Essence,0.0
+Series_AWD MKZ Reserve II,0.0
+Series_AWD Premium,0.0
+Series_AWD V6,0.0
+Series_AWD V8,0.0
+Series_AWD/AWD (T8),0.0
+Series_AXAA52L / AXAA54L / AXAH54L / AXAL54L,0.0
+Model_QX70,0.0
+Series_AXAP54L,0.0
+Series_AXUH85L,0.0
+Series_AXVA70L,0.0
+Series_AXVA75L,0.0
+Series_Access Cab,0.0
+Series_Aero,0.0
+Series_All Terrain 1,0.0
+Series_All Terrain 2,0.0
+Trim_quattro Premium / quattro Komfort (Canada),0.0
+Trim_quattro Premium,0.0
+Trim_quattro,0.0
+Trim_STI base+W,0.0
+Trim_ST + KA,0.0
+Trim_ST/SXT,0.0
+Trim_STD/Base,0.0
+Trim_STI,0.0
+Trim_STI + KA + NAVI(H/K),0.0
+Trim_STI + KA + NAVI(H/K) + BSD,0.0
+Trim_STI Base+W+KA,0.0
+Trim_STI Limited + MR + KA + NAVI(H/K) + BSD,0.0
+Trim_STI Limited + MR + KA + NAVI(H/K) + BSD + Lip Spoiler,0.0
+Trim_STI Limited+Keyless Access+Moonroof+H/K(Harman Kardon) & NAVI,0.0
+Trim_STI Limited+L+KA+RE+BSD+NAVI(H/K)+M/R,0.0
+Trim_STI Limited+Moonroof+H/K(Harman Kardon),0.0
+"Trim_STI base+L, STI base+W",0.0
+Trim_STI high+W+KA+RE+BSD+NAVI(H/K)+M/R,0.0
+Trim_SV42 Momentum,0.0
+Trim_STI mid+W+KA+RE,0.0
+Trim_STI-B,0.0
+Model_SW2,0.0
+Trim_STI-S+KA+RE,0.0
+Trim_STS,0.0
+Trim_STi,0.0
+Trim_SULEV-PZEV,0.0
+Trim_SUS - Ltd.,0.0
+Trim_SUV/SUT,0.0
+Trim_SV/Base,0.0
+Trim_SV33 Premier,0.0
+Trim_SV34 Premier Plus/SV43 Inscription,0.0
+Trim_SV35 Platinum,0.0
+Model_SX4,0.0
+Trim_SSV,0.0
+Trim_SRW Low Roof van,0.0
+Model_Sable,0.0
+Trim_SLT-1,0.0
+Trim_SLT-2,0.0
+Trim_SLT1,0.0
+Trim_SLT2,0.0
+Trim_SPORT,0.0
+Trim_SPORT *2,0.0
+Trim_SPORT TOURING,0.0
+Trim_SPORT*1*2,0.0
+Trim_SR/SR5,0.0
+Trim_SR/SR5/TRD Pro,0.0
+Trim_SR/SR5/TRD Sport,0.0
+Model_Scion iQ,0.0
+Model_Scion iM,0.0
+Trim_SR5 grade,0.0
+Trim_SR5/SR5 Premium/TRD Off Road/TRD Off Road Premium/Ltd/Ltd Night Shade/TRD Pro,0.0
+Model_Scion iA,0.0
+Trim_SR5/TRD Sport,0.0
+Trim_SRS Prem,0.0
+Model_Santa Fe XL,0.0
+Trim_SRT Core,0.0
+Trim_SRT Premium,0.0
+Trim_SRT Supercharged,0.0
+Trim_SRT-8,0.0
+Trim_SRT4,0.0
+Model_Safari,0.0
+Trim_SRT8 Core,0.0
+Trim_SRW High Roof Van,0.0
+Trim_SV35 Platinum Classic Edition,0.0
+Trim_SV52 Momentum,0.0
+Trim_i Limited,0.0
+Trim_Sport +H/K +BSD,0.0
+Trim_Signature,0.0
+Trim_Signature Limited,0.0
+Trim_Special,0.0
+Trim_Special Edition,0.0
+Trim_Special Service,0.0
+Trim_Spinnaker Edition,0.0
+Model_SSR,0.0
+Trim_Sport & Portfolio,0.0
+Trim_Sport (AN),0.0
+"Trim_Sport (FSI Only), Sport w/ Technology, Lux, Executive",0.0
+Trim_Sport (Soft Top),0.0
+Trim_Sport +CWP+M/R,0.0
+Trim_Sport +ES +BSD,0.0
+Trim_Sport +H/K +ES +BSD,0.0
+"Trim_SVD6, SVD7 Classic Edition",0.0
+Trim_Sport / GS,0.0
+Trim_Sport 4-M Bi-Turbo,0.0
+Trim_Sport Base+ES+SMART,0.0
+Trim_Sport Coupe & Convertible,0.0
+Trim_Sport ES/SE,0.0
+Trim_Sport ES/SE (ASX ES in Puerto Rico),0.0
+Trim_Sport Navi,0.0
+Trim_Sport SEL/GT,0.0
+Trim_Sport SEL/GT (ASX SE in Puerto Rico),0.0
+Trim_Sport SLS (US)/Sport (Canada),0.0
+Trim_Sport Suprcharged,0.0
+Trim_Sport Touring,0.0
+Trim_Sport Touring (1SH),0.0
+Trim_Si,0.0
+Trim_Short Wheel Base,0.0
+Trim_Shelby GT500,0.0
+Trim_Shelby GT 500,0.0
+Trim_SVFE First Edition/SVR0 R Design Base,0.0
+Trim_SVP9 Polestar Special Edition,0.0
+Trim_SVR,0.0
+Trim_SVR5 R-Design,0.0
+Trim_SVR7 R-Design Base (Premier Level),0.0
+Trim_SX,0.0
+Trim_SX / SX Limited,0.0
+"Trim_SX, SXL",0.0
+Trim_SXL,0.0
+Trim_SXT / SX 2.0 Sport,0.0
+Trim_SXT Crew,0.0
+Trim_SXT Plus,0.0
+Trim_SXT Sport,0.0
+Trim_SXT or R/T,0.0
+Trim_SXT/SLT,0.0
+Model_STS,0.0
+Trim_Sahara/TJ,0.0
+Trim_Sedan Base Grade,0.0
+Trim_Sedan Level 1,0.0
+Trim_Sedan Level 2,0.0
+Trim_Sedan Level 3,0.0
+Trim_Sedan Low Grade,0.0
+Trim_Sedan SA,0.0
+Trim_Sedan SA SULEV,0.0
+Trim_Sedan SULEV,0.0
+Trim_Select,0.0
+Trim_Select Pkg,0.0
+Trim_SLT(2),0.0
+Trim_SLT(1),0.0
+Trim_SLT Plus,0.0
+Trim_SA SULEV-PZEV,0.0
+"Trim_S Cabriolet (2WD), 4S Cabriolet (4WD)",0.0
+Trim_S E-Hybrid,0.0
+Trim_S Hybrid,0.0
+Trim_S Line,0.0
+Trim_S grade,0.0
+"Trim_S, CD/CS",0.0
+"Trim_S, GTS",0.0
+"Trim_S, R-Line, SE, SEL",0.0
+Trim_S-2,0.0
+Trim_S-TYPE,0.0
+Trim_S/ S Automatic,0.0
+Trim_S/Sport GT S,0.0
+Trim_SA SULEV,0.0
+Trim_SAV,0.0
+Trim_SLT Mega Cab,0.0
+Trim_SC,0.0
+Trim_SCAT Pack,0.0
+Trim_SD,0.0
+Model_Sierra Limited,0.0
+Trim_SE (S Grade),0.0
+"Trim_SE (US, Canada)",0.0
+Trim_SE Aero,0.0
+Trim_SE Base,0.0
+Trim_SE FWD,0.0
+Trim_SE Hybrid,0.0
+Trim_SE MT,0.0
+Trim_SE Plus/SXT,0.0
+Model_Shadow,0.0
+Trim_S AMg,0.0
+Trim_S / S Convertible,0.0
+Trim_S (US),0.0
+"Trim_S (2WD), 4S (4WD)",0.0
+Trim_R-Dynamic SE,0.0
+Trim_R-Sport,0.0
+"Trim_R-design, Momentum (XC40 17w46-18w16)",0.0
+Model_Spectra,0.0
+Trim_R/T 392,0.0
+Trim_R/T SCAT Pack,0.0
+Model_Sonoma,0.0
+Trim_RT-S,0.0
+Trim_RTL,0.0
+Trim_RTL-E,0.0
+Trim_RTL-T,0.0
+Trim_RTS,0.0
+Trim_RTX,0.0
+Trim_RU,0.0
+Trim_Rallye,0.0
+Trim_Range Rover,0.0
+Trim_Regular Cab,0.0
+Trim_Renegade,0.0
+Trim_Reserve,0.0
+Trim_Roadster 2.5i,0.0
+Trim_Roadster 2.5si,0.0
+Trim_Roadster 3.0i,0.0
+Trim_Roadster 3.0si,0.0
+Model_Sky,0.0
+"Trim_Rubicon (U.S.) / ""TJ"" Rubicon (Canada)",0.0
+Trim_Rush,0.0
+Model_Silhouette,0.0
+Trim_SE w/Tech Pack,0.0
+Trim_SE w/Technology,0.0
+"Trim_SE, CDE/SCE",0.0
+Trim_SH-AWD TECH,0.0
+Trim_SH-AWD TECH V6,0.0
+Trim_SH-AWD TECH+A / TCH+AR V6,0.0
+Trim_SH-AWD TECH19 V6,0.0
+Trim_SH-AWD Tech,0.0
+Trim_SH-AWD Tech Ent,0.0
+Trim_SH-AWD V6,0.0
+Trim_SH-AWD w/Advance/Advance w/RES,0.0
+Trim_SH-AWD w/Tech,0.0
+Trim_SH-AWD w/Tech pkg & RES,0.0
+Trim_SH-E-AWD (Tech),0.0
+Trim_SHO,0.0
+Trim_SI,0.0
+Trim_SL,0.0
+Model_Scion xD,0.0
+Trim_SLE 1,0.0
+Trim_SLE 2,0.0
+Trim_SLE-1,0.0
+Trim_SLE-2,0.0
+Trim_SLE1,0.0
+Trim_SLS,0.0
+Model_Scion xA,0.0
+Trim_SLT (1),0.0
+Trim_SLT (2),0.0
+Trim_SLT / R/T,0.0
+Trim_SLT / Sport,0.0
+Trim_SLT 1,0.0
+Trim_SLT 2,0.0
+Trim_SH-AWD TECH 7P,0.0
+Trim_SH-AWD Advanced Ent,0.0
+"Trim_SE, CVT",0.0
+Trim_SH-AWD ADVANCE V6,0.0
+"Trim_SE, CVT,  w/Premium pkg",0.0
+"Trim_SE, CVT, w/Premium pkg",0.0
+Trim_SE-V6,0.0
+Trim_SE/Aero,0.0
+Trim_SE/ES/RT/LX,0.0
+Trim_SE/Express,0.0
+Trim_SE/SE Premium,0.0
+Trim_SE/SXT,0.0
+Trim_SE/Sport,0.0
+Trim_SE/TJ,0.0
+Model_Seville,0.0
+Trim_SE/XLE Hybrid,0.0
+Trim_SE/XSE,0.0
+Trim_SE1,0.0
+Trim_SEL Plus,0.0
+Trim_SES,0.0
+Trim_SH-4WD,0.0
+Trim_SH-4WD Tech,0.0
+Model_Seltos,0.0
+Trim_SH-AWD (Advance Ent),0.0
+Trim_SH-AWD (Advance),0.0
+Trim_SH-AWD (Tech Ent),0.0
+Trim_SH-AWD A-SPEC,0.0
+Trim_SH-AWD ADV,0.0
+Trim_SH-AWD ADV19 V6,0.0
+Trim_SH-AWD ADVANCE,0.0
+Trim_SH-AWD ADVANCE 6P,0.0
+Trim_Sport Touring Group,0.0
+Trim_Sport+ES,0.0
+Trim_Sport+ES+HK+KA,0.0
+Trim_WRX high+L+KA+M/R,0.0
+Trim_WRX Limited+MR,0.0
+Trim_WRX Limited+MR+KA+NAVI(H/K)+BSD,0.0
+Trim_WRX Limited+Moonroof,0.0
+Trim_WRX Limited+Moonroof+Keyless Access+H/K(Harman Kardon) & NAVI,0.0
+Trim_WRX Premium+L+M/R,0.0
+"Trim_WRX Premium+L+RE, WRX Series. White+L+RE",0.0
+Trim_WRX Premium+MR,0.0
+Trim_WRX Premium+MR+NAVI(H/K),0.0
+Trim_WRX Premium+Moonroof,0.0
+Trim_WRX Premium+Moonroof+H/K(Harman Kardon) & NAVI,0.0
+Model_S3,0.0
+Trim_WRX high+L+KA+BSD+NAVI(H/K)+M/R,0.0
+Trim_WRX high+L+KA+BSD+NAVI(H/K)+M/R+ES,0.0
+Trim_WRX mid+L+M/R,0.0
+Model_SC1,0.0
+Trim_WRX mid+L+RE,0.0
+Trim_WRX-S,0.0
+Trim_WRX-SS,0.0
+Trim_Wagon,0.0
+Trim_With NAVI,0.0
+Trim_With RES,0.0
+Trim_With T bar Roof,0.0
+Model_S2000,0.0
+Model_S15 Pickup,0.0
+Trim_Work Truck/Fleet/Value Leader,0.0
+Model_S-Type,0.0
+Model_S-10 Pickup,0.0
+Model_Routan,0.0
+Trim_WRX (w/o Lip-Spolier),0.0
+Model_S40,0.0
+Trim_W150,0.0
+Trim_Vsport Premium,0.0
+Trim_Trouing Pkg ESP (US)/JLX (Canada),0.0
+Trim_Turbo,0.0
+Trim_Turbo (2WD + 4WD),0.0
+Trim_Turbo (4WD) / GT2 (2WD),0.0
+Trim_Turbo Cabriolet (4WD),0.0
+Model_S80,0.0
+Trim_Type-S,0.0
+Trim_ULEV2,0.0
+Trim_UN,0.0
+Trim_Ultra,0.0
+Trim_Ultra Luxury Collection,0.0
+Model_S8,0.0
+Trim_Unlimited Sahara,0.0
+Model_S7,0.0
+Trim_Unlimited X / Sport,0.0
+Trim_V,0.0
+Trim_V Series,0.0
+Trim_V-Series,0.0
+Trim_V6 Limited (3.2L JLX-Leather),0.0
+Trim_V8 HSE,0.0
+Trim_VDP Super V8 LWB,0.0
+Trim_VE,0.0
+Trim_VP,0.0
+Trim_VQ,0.0
+Model_S6,0.0
+Trim_VX-R,0.0
+Trim_Vanagon Camper,0.0
+Trim_X/Commando,0.0
+Trim_X1 sDrive28i,0.0
+Trim_X1 xDrive28iBr,0.0
+Trim_XLE Nav,0.0
+Trim_XLE/XLE HV,0.0
+Trim_XLE/XLE Plus/XLE Premium/Touring/Ltd.,0.0
+Model_Rondo,0.0
+Trim_XLE/XLE Premium/Ltd/Ltd Premium,0.0
+Trim_XLE/XSE,0.0
+Trim_XLE/XSE/Touring/Ltd.,0.0
+Trim_XLS,0.0
+Trim_XR,0.0
+Trim_XR-Touring,0.0
+Model_Rogue Sport,0.0
+Trim_XSE CVT,0.0
+Trim_XSE HV,0.0
+Trim_XSE HV 4WD,0.0
+Trim_XSE MT,0.0
+Trim_XSE+TRD Package,0.0
+Trim_XSE/XSE HV,0.0
+Trim_XT Limited,0.0
+Trim_Xsport Package (USA only),0.0
+Trim_Z06,0.0
+Trim_Z06 Standard 1LZ,0.0
+Trim_Z24,0.0
+Trim_Z51 2LT,0.0
+Trim_Z51 3LT,0.0
+Trim_Z51 LT1,0.0
+Trim_ZR1,0.0
+Trim_ZR1 Custom - 3ZR,0.0
+Trim_i,0.0
+Trim_XLE Premium,0.0
+Trim_XLE Hybrid,0.0
+Trim_X2 sDrive28i,0.0
+Trim_XLE / XLE Premium 4WD,0.0
+Trim_X2 xDrive28i,0.0
+Trim_X3 2.5i,0.0
+Trim_X5 M,0.0
+Trim_X6 M,0.0
+Trim_XE,0.0
+Trim_XF,0.0
+Trim_XJ,0.0
+Trim_XJL,0.0
+Trim_XJL / XJL Supercharged,0.0
+Trim_XJL Porfolio,0.0
+Trim_XJL Portfolio,0.0
+Trim_XJL SuperSport + Speed Pack,0.0
+Trim_XJL Supercharged,0.0
+Trim_XK,0.0
+Trim_XK / XKR,0.0
+Trim_XK8,0.0
+Trim_XKR,0.0
+Trim_XKR Portfolio,0.0
+Trim_XKR-S,0.0
+Trim_XL,0.0
+Trim_XL Denali,0.0
+Trim_XL SLE,0.0
+Trim_XL SLT,0.0
+Trim_XL SLT (SLT2),0.0
+"Trim_XL, XUV",0.0
+Trim_XLE (M Grade),0.0
+Trim_XLE / XLE Premium 2WD / XLE FWD (Canada),0.0
+Trim_Trans AM,0.0
+Model_SC2,0.0
+Trim_Sport+ES+HK+SMART,0.0
+Trim_Stingray Standard 1LT w/Z51,0.0
+Trim_Standard Roof Cargo Van 118in WB,0.0
+"Trim_Standard, Convertible, & Convertible Sport",0.0
+Trim_Std.,0.0
+Trim_Stinger,0.0
+Trim_Stingray 1LT,0.0
+Trim_Stingray 1LT w/Z51,0.0
+Trim_Stingray 2LT,0.0
+Trim_Stingray 2LT w/Z51,0.0
+Trim_Stingray 3LT w/Z51,0.0
+Trim_Stingray 3LZ w/Z06,0.0
+Trim_Stingray Premium 3LT,0.0
+Trim_Stingray Premium 3LT w/ Z51,0.0
+Trim_Stingray Standard 1LT,0.0
+Model_SQ5,0.0
+Trim_Tradesman,0.0
+Trim_Summit,0.0
+Trim_Super Cab,0.0
+Trim_Super Cab - Raptor,0.0
+Trim_Super Charged,0.0
+Trim_Super Coupe,0.0
+Model_SLK-Class,0.0
+Model_SLC-Class,0.0
+Trim_Super Handling A-Spec,0.0
+Trim_Super Handling AWD A-SPEC,0.0
+Trim_Super Handling AWD w/Advance pkg,0.0
+Trim_Super Handling AWD w/Tech pkg,0.0
+Model_SL2,0.0
+Trim_SuperCharged,0.0
+Trim_Standard Roof 136in WB,0.0
+Trim_Standard 1LZ w/Z06,0.0
+Trim_Standard 1LT,0.0
+Trim_Standard - 1LT,0.0
+Trim_Sport+ES+KA,0.0
+Trim_Sport+ES+SMART,0.0
+Trim_Sport+H/K+BSD,0.0
+Trim_Sport+H/K+ES+BSD,0.0
+Trim_Sport+M/R,0.0
+Trim_Sport+M/R+ES+NAVI,0.0
+Trim_Sport+M/R+NAVI,0.0
+Trim_Sport+Moonroof,0.0
+Trim_Sport-Ltd,0.0
+Trim_Sport-Ltd + NAVI + EyeSight,0.0
+Trim_Sport-Ltd+S/R,0.0
+Trim_Sport-Ltd+S/R+NAVI,0.0
+Trim_Sport/ R/T,0.0
+Trim_Sport/Classic,0.0
+Trim_Sport/Freedom,0.0
+Trim_Sport/GS,0.0
+Trim_Sport/RT,0.0
+Trim_Sport/Rocky Mountain Edition,0.0
+Trim_Sport/SLT,0.0
+Trim_Sport/SXT,0.0
+Trim_Sport/Stampede,0.0
+Model_SS,0.0
+Trim_Sports Wagon,0.0
+Trim_Spyder,0.0
+Trim_Standard & Sport GT,0.0
+Trim_Standard (with Third seat),0.0
+Trim_Standard (without Third seat),0.0
+Trim_SuperCrew-Raptor,0.0
+Model_SL1,0.0
+Trim_Supercharged Dynamic,0.0
+Trim_Touring + Eyesight + Navigation (HK) + SMART,0.0
+Trim_Touring + MR + NAVI(H/K) + ES + KA,0.0
+Trim_Touring + Moon Roof + NAVI + 6CD,0.0
+Trim_Touring +CWP+Navi+M/R+Eyesight,0.0
+Trim_Touring +H/K,0.0
+Trim_Touring / Touring Tech,0.0
+Trim_Touring ES+Navi(H/K)+AP,0.0
+Trim_Touring Edition,0.0
+Trim_Touring Edition/ Jack Nicklaus Edition,0.0
+Trim_Touring Eye-Sight+ NAVI+ H/K,0.0
+Model_SL,0.0
+Trim_Touring L Plus,0.0
+Trim_Touring Package,0.0
+Trim_Touring Pax,0.0
+Trim_Touring Pkg. (SX4 JLX)/Sport Touring Pkg. (SX4 Sedan Sport with ESP),0.0
+Trim_Touring Plus,0.0
+Trim_Touring Technology Package,0.0
+Trim_Touring+Clearance&Back Sonar Package,0.0
+Trim_Touring+ES+KA+M/R+NAVI+H/K,0.0
+Trim_Touring+ES+Navi(H/K)+AP,0.0
+Trim_Touring+M/R+ES+NAV,0.0
+Trim_Touring+M/R+ES+NAVI,0.0
+Trim_Touring+M/R+NAVI(HK),0.0
+Trim_Touring+Moonroof+H/K(Harman Kardon)+Keyless Access,0.0
+Trim_Touring+Moonroof+NAVI(H/K-Harman Kardon)+Keyless Access,0.0
+Trim_Touring+NAVI+H/K+M/R,0.0
+Trim_Touring/Signature,0.0
+Trim_Touring/Sky-D/GS,0.0
+Trim_Touring + MR + H/K Premium + KA,0.0
+Trim_Three/Four/Four Adv,0.0
+Trim_Supercharged/Supercharged Dynamic,0.0
+Trim_Technology Package,0.0
+Trim_Supreme,0.0
+Trim_T Type,0.0
+Trim_TEC19 V6,0.0
+Trim_TECH,0.0
+Trim_TECH (with RES),0.0
+Trim_TECH 7P,0.0
+Trim_TECH*1*2,0.0
+Trim_TECH*2,0.0
+Trim_TECH+A / TCH+AR,0.0
+Trim_TECH+A / TCH+AR V6,0.0
+Trim_TL,0.0
+Trim_TOP (High Grade),0.0
+Trim_TOURING,0.0
+Trim_TRANS AM,0.0
+Trim_TRD Pro,0.0
+Trim_TRD offroad,0.0
+Trim_TRD offroad Prem,0.0
+Trim_TREKKING,0.0
+Trim_TREKKING PLUS,0.0
+Trim_TRX,0.0
+Trim_Taxi,0.0
+Trim_Tech Ent,0.0
+Trim_Tech Ent.,0.0
+Trim_Tech Package/Tech with Acura Watch Plus Package,0.0
+Trim_Tech-Audio,0.0
+Trim_Technology,0.0
+Trim_Technology Ent.,0.0
+Trim_xDrive GT SULEV-PZEV,0.0
